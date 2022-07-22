@@ -1,7 +1,7 @@
 const getMarkdownFiles = require("../../utils/getMarkdownFiles");
 const getFrontmatter = require("../../utils/getFrontmatter");
 const paths = require("../../utils/paths");
-const fmSchema = require("./frontmatterSchema");
+const fmSchema = require("../../utils/frontmatterSchema");
 const ValidationReport = require("./report");
 const messages = require("./messages");
 
