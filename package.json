@@ -1,0 +1,21 @@
+{
+  "name": "miniature-data",
+  "version": "0.1.0",
+  "description": "Miniature markdown data and helper scripts",
+  "main": "index.js",
+  "repository": "https://github.com/ddankel/miniature-data.git",
+  "author": "Dave Dankel <ddankel@gmail.com>",
+  "private": true,
+  "scripts": {
+    "new": "node ./scripts/actions/newMini",
+    "listfm": "node ./scripts/actions/listAttributes",
+    "validate": "node ./scripts/actions/validateFrontmatter",
+    "build": "node ./scripts/actions/buildNodes",
+    "status": "node ./scripts/actions/status",
+    "todo": "node ./scripts/actions/todo"
+  },
+  "dependencies": {
+    "chalk": "~4.1.0 <5.0.0",
+    "front-matter": "^4.0.2"
+  }
+}

@@ -16,6 +16,8 @@ armor:
   - shield
 race:
   - elf
+gallery:
+  todo: true
 recipes:
   - Cloak
     - Delta Ceramcoat Medium Victorian Teal
