@@ -8,6 +8,44 @@ Yes, really! Much of the criticisms around submodules are mitigated in this spec
 
 A npm package would also serve this purpose but a submodule can be edited and updated from within each parent gatsby site and the output can immediately be tested and debugged without having publish a package update for each change.
 
+## Implementation
+
+Exports are available for the ignore lists for both the minidb and gallery web sites. Assuming the submodule is implemented as `/vendor/miniature-data` (recommended), see below:
+
+```js
+# gatsby-config.js
+const exclusions = require("./vendor/miniature-data/exclusions");
+
+module.exports = {
+  // ...
+  plugins: [
+    // ...
+
+    // Gallery
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "minis",  // Or change as needed
+        path: "./vendor/miniature-data/minis",
+        ignore: [...exclusions.nonGallery],
+      },
+    },
+
+    // MiniDB
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "minis",  // Or change as needed
+        path: "./vendor/miniature-data/minis",
+        ignore: [...exclusions.nonMiniDb],
+      },
+    },
+
+    // ...
+  ],
+};
+```
+
 ## Development Scripts
 
 A collection of development scripts are available to view and display miniature data.
