@@ -10,10 +10,32 @@ A npm package would also serve this purpose but a submodule can be edited and up
 
 ## Implementation
 
-Exports are available for the ignore lists for both the minidb and gallery web sites. Assuming the submodule is implemented as `/vendor/miniature-data` (recommended), see below:
+The following implementations assume the submodule is initialized at `/vendor/miniature-data`. This is the recommended practice.
+
+### Scripts
+
+The following definitions can be used to create scripts on the base project that reference those here in the submodule.
+
+```json
+"scripts": {
+  ...
+  "new": "npm run new --prefix ./vendor/miniature-data",
+  "listfm": "npm run listfm --prefix ./vendor/miniature-data",
+  "validate": "npm run validate --prefix ./vendor/miniature-data",
+  "status": "npm run status --prefix ./vendor/miniature-data",
+  "todo": "npm run todo --prefix ./vendor/miniature-data"
+},
+
+// Yarn equivalent:
+// yarn --cwd path/to/your/other/folder [command]
+```
+
+### Data Source
+
+Exports are available for the ignore lists for both the minidb and gallery web sites. Using these instead of manually defining the exclusions means `gatsby-config.js` won't have to be changed if the data source layout changes at a later date.
 
 ```js
-# gatsby-config.js
+// gatsby-config.js
 const exclusions = require("./vendor/miniature-data/exclusions");
 
 module.exports = {
@@ -25,7 +47,7 @@ module.exports = {
     {
       resolve: "gatsby-source-filesystem",
       options: {
-        name: "minis",  // Or change as needed
+        name: "minis", // Or change as needed
         path: "./vendor/miniature-data/minis",
         ignore: [...exclusions.nonGallery],
       },
@@ -35,7 +57,7 @@ module.exports = {
     {
       resolve: "gatsby-source-filesystem",
       options: {
-        name: "minis",  // Or change as needed
+        name: "minis", // Or change as needed
         path: "./vendor/miniature-data/minis",
         ignore: [...exclusions.nonMiniDb],
       },

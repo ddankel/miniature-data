@@ -1,7 +1,7 @@
 const paths = require("./paths");
 const getFrontmatter = require("./getFrontmatter");
 
-const allMiniatures = [...paths.markdownFiles, ...paths.draftMarkdownFiles];
+const allMiniatures = paths.markdownFiles;
 const miniatureStatuses = [];
 
 allMiniatures.forEach((miniatureFile) => {
@@ -14,12 +14,15 @@ allMiniatures.forEach((miniatureFile) => {
     gallery: "live",
   };
 
-  if (miniatureFile.includes(paths.draftDir)) {
+  if (miniatureFile.includes("/_drafts/")) {
     status.minidb = "draft";
     status.gallery = "draft";
   }
 
-  console.log("mF", miniatureFile);
+  if (miniatureFile.includes("/_archive/")) {
+    status.minidb = "hidden";
+    status.gallery = "hidden";
+  }
 
   if (miniatureFile.includes(".minidb")) status.gallery = "hidden";
   if (miniatureFile.includes(".gallery")) status.minidb = "hidden";
