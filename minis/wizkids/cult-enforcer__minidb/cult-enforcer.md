@@ -13,4 +13,6 @@ armor:
   - clothing
 race:
   - human
+gallery:
+  todo: true
 ---

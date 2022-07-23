@@ -12,6 +12,7 @@ allMiniatures.forEach((miniatureFile) => {
     line: frontmatter.line && frontmatter.line.join(" > "),
     minidb: "live",
     gallery: "live",
+    status: frontmatter.status || "painted",
   };
 
   if (miniatureFile.includes("/_drafts/")) {
@@ -24,8 +25,8 @@ allMiniatures.forEach((miniatureFile) => {
     status.gallery = "hidden";
   }
 
-  if (miniatureFile.includes(".minidb")) status.gallery = "hidden";
-  if (miniatureFile.includes(".gallery")) status.minidb = "hidden";
+  if (miniatureFile.includes("__minidb")) status.gallery = "hidden";
+  if (miniatureFile.includes("__gallery")) status.minidb = "hidden";
   if (!!frontmatter?.minidb?.todo) status.minidb = "todo";
   if (!!frontmatter?.gallery?.todo) status.gallery = "todo";
 

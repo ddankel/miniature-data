@@ -23,4 +23,6 @@ recipes:
   - Tabard
     - Dc Dark Burnt Umber
     - Mix in AB Territorial Beige to highlight
+gallery:
+  todo: true
 ---

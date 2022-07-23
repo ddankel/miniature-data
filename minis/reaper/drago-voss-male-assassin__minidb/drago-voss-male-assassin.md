@@ -1,5 +1,5 @@
 ---
-slug: drogo-voss-male-assassin
+slug: drago-voss-male-assassin
 name: Drago Voss, Male Assassin
 line:
   - Reaper Miniatures
@@ -24,4 +24,6 @@ recipes:
   - Ruffles
     - Base P3 Arcane Blue
     - Mix P3 Coal Black wash
+gallery:
+  todo: true
 ---

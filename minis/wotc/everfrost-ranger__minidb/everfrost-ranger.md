@@ -24,4 +24,6 @@ recipes:
   - Brown Fur
     - DC Burnt Sienna
     - Highlight mixing in DC Maple Sugar
+gallery:
+  todo: true
 ---

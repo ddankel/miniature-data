@@ -15,4 +15,6 @@ weapons:
   - sword
 armor:
   - clothing
+gallery:
+  todo: true
 ---
