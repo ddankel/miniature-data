@@ -16,4 +16,6 @@ race:
   - draconian
   - lizardfolk
   - t'skrang
+gallery:
+  todo: true
 ---

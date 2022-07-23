@@ -27,4 +27,6 @@ recipes:
     - Base P3 Idrian Flesh
     - Shade mixing in black
     - Highlight mixing in P3 Midlund Flesh
+gallery:
+  todo: true
 ---

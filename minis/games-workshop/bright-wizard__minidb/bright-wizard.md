@@ -17,4 +17,6 @@ race:
 recipes:
   - Antique Golds
     - GW Chainmail:GW Golds in 1:1
+gallery:
+  todo: true
 ---

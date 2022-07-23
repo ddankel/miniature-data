@@ -14,4 +14,6 @@ weapons:
   - axe
 armor:
   - leather
+gallery:
+  todo: true
 ---

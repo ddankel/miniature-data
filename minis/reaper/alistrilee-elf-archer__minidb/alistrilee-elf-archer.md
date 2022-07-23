@@ -26,4 +26,6 @@ recipes:
     - Base GW Chainmail
     - Wash GW Badab Black
     - For stains, mix P3 Blue Ink and Yellow Paint 2:1. Thin + wash/stain
+gallery:
+  todo: true
 ---

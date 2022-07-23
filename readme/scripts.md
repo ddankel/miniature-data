@@ -45,11 +45,11 @@ List all miniature and display their status both for the minidb and gallery site
 ```sh
 # Example output:
 Wizards of the Coast > Dreamblade
-   knight-of-autumn.....................   gallery: live     minidb: live
+   knight-of-autumn.....................   prepainted    gallery: hidden   minidb: live
 
 Wizards of the Coast > Vintage
-   elf-ranger...........................   gallery: live     minidb: live
-   half-orc-assassin....................   gallery: live     minidb: live
+   elf-ranger...........................   painted       gallery: live     minidb: live
+   half-orc-assassin....................   painted       gallery: live     minidb: live
 ```
 
 ---

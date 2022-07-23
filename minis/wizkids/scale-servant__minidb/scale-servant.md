@@ -6,6 +6,7 @@ line:
   - Mage Knight
 photos:
   - ./MK-ScaleServant-Dankel.jpg
+status: prepainted
 weapons:
   - sword
 armor:

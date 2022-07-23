@@ -22,4 +22,6 @@ recipes:
   - Inner Tabbard
     - Base RMS Yellowed Bone and Goosefeather
     - Wash Brown, remix Dark Burnt Umber + Goosefeather and wet blend into base
+gallery:
+  todo: true
 ---

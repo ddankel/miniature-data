@@ -13,6 +13,8 @@ armor:
   - shield
 race:
   - human
+gallery:
+  todo: true
 ---
 
 ???
