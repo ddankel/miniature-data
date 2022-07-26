@@ -9,11 +9,20 @@
   "scripts": {
     "new": "node ./scripts/actions/newMini",
     "listfm": "node ./scripts/actions/listAttributes",
+
     "validate": "node ./scripts/actions/validateFrontmatter",
     "build": "node ./scripts/actions/buildNodes",
     "status": "node ./scripts/actions/status",
     "todo": "node ./scripts/actions/todo",
-    "ajv": "node ./scripts/actions/ajv"
+    "ajv": "node ./scripts/actions/ajv",
+
+    "newvalidate": "node ./scripts/validate",
+    "newstatus": "node ./scripts/status",
+    "newtodo": "node ./scripts/todo",
+    "newnew": "node ./scripts/new",
+    "newlistfm": "node ./scripts/listAttributes"
+
+
   },
   "dependencies": {
     "ajv": "^8.11.0",
