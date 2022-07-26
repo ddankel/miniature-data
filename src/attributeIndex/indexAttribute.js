@@ -1,5 +1,13 @@
 const frontmatterFromFile = require("../frontmatterFromFile");
 
+/**
+ * Index a frontmatter attribute
+ *
+ * @param   {String}  attributeName  The attribute to index
+ * @param   {Array}   markdownFiles  The markdown files to iterate through
+ *
+ * @return  {Array}                  List of unique values for the specified attribute
+ */
 const indexAttribute = (attributeName, markdownFiles) => {
   let attributeList = [];
 
