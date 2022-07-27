@@ -1,11 +1,11 @@
-const paths = require("./paths");
-const getFrontmatter = require("./getFrontmatter");
+const paths = require("../paths");
+const frontmatterFromFile = require("../frontmatterFromFile");
 
-const allMiniatures = paths.markdownFiles;
+const allMiniatures = paths.allMarkdownFiles;
 const miniatureStatuses = [];
 
 allMiniatures.forEach((miniatureFile) => {
-  const frontmatter = getFrontmatter(miniatureFile);
+  const frontmatter = frontmatterFromFile(miniatureFile);
 
   const status = {
     slug: frontmatter.slug,

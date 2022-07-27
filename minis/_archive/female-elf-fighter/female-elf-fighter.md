@@ -11,7 +11,6 @@ photos:
 weapons:
   - sword
 armor:
-  - leather
   - shield
 race:
   - elf

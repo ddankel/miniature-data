@@ -1,28 +1,32 @@
 const fs = require("fs");
 const path = require("path");
-
-const paths = require("../../utils/paths");
-const draftDir = paths.draftDir;
-const templateFile = paths.draftTemplate;
+const { draftDir } = require("../paths");
+const templateFile = path.join(__dirname, "miniature-template.md");
 
 /**
- * Creates a new miniature draft from the template
+ * Create a draft entry for the specified slug in the draft directory
  *
- * Draft miniatures will be placed in draftDir defined above
- *
- * @param   {String}  slug  The miniature slug to create
+ * @param   {String}  slug
  */
-const createTemplate = (slug) => {
+const createDraftMiniature = (slug) => {
   const newSlug = path.parse(slug).name;
   const newPath = path.join(draftDir, newSlug);
   const newMarkdownFile = path.join(newPath, `${newSlug}.md`);
 
+  // Raise an exception if the template file is missing
+  if (!fs.existsSync(templateFile)) {
+    throw new Error(`Template file (${templateFile}) is missing.`);
+  }
+
   console.log(`Creating template for '${newSlug}'`);
+
+  // Create the miniature's directory if needed
   if (!fs.existsSync(newPath)) {
     console.log("    creating directory...");
     fs.mkdirSync(newPath);
   }
 
+  // Don't recreate the markdown file if it already exists
   if (fs.existsSync(newMarkdownFile)) {
     return console.log("    WARNING: .md file already exists.  Skipping.");
   }
@@ -34,4 +38,4 @@ const createTemplate = (slug) => {
   fs.writeFileSync(newMarkdownFile, newData, "utf-8");
 };
 
-module.exports = createTemplate;
+module.exports = createDraftMiniature;

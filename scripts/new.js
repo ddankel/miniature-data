@@ -1,9 +1,5 @@
-const fs = require("fs");
-const paths = require("../../utils/paths");
-const createTemplate = require("./createTemplate");
-
-const draftDir = paths.draftDir;
-const templateFile = paths.draftTemplate;
+const { draftDir } = require("../src/paths");
+const createDraftMiniature = require("../src/createDraftMiniature");
 
 const draftsToCreate = process.argv.slice(2);
 
@@ -15,10 +11,6 @@ if (!draftsToCreate.length) {
   return;
 }
 
-if (!fs.existsSync(templateFile)) {
-  return console.log(`Template file (${templateFile}) is missing.`);
-}
-
-draftsToCreate.forEach((item) => createTemplate(item));
+draftsToCreate.forEach((item) => createDraftMiniature(item));
 
 console.log("Processing complete.  The new files are in", draftDir);

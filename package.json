@@ -7,14 +7,14 @@
   "author": "Dave Dankel <ddankel@gmail.com>",
   "private": true,
   "scripts": {
-    "new": "node ./scripts/actions/newMini",
-    "listfm": "node ./scripts/actions/listAttributes",
-    "validate": "node ./scripts/actions/validateFrontmatter",
-    "build": "node ./scripts/actions/buildNodes",
-    "status": "node ./scripts/actions/status",
-    "todo": "node ./scripts/actions/todo"
+    "new": "node ./scripts/new",
+    "listfm": "node ./scripts/listAttributes",
+    "validate": "node ./scripts/validate",
+    "status": "node ./scripts/status",
+    "todo": "node ./scripts/todo"
   },
   "dependencies": {
+    "ajv": "^8.11.0",
     "chalk": "~4.1.0 <5.0.0",
     "front-matter": "^4.0.2"
   }

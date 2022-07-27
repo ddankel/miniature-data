@@ -6,7 +6,7 @@ line:
   - Line
 status: prepainted
 painted: ?? - ??
-photos:
+ssphotos:
   - ./Line-MiniatureName-Dankel_1.jpg
   - ../../missing-image.png
 weapons:

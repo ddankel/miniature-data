@@ -8,29 +8,25 @@ Yes, really! Much of the criticisms around submodules are mitigated in this spec
 
 A npm package would also serve this purpose but a submodule can be edited and updated from within each parent gatsby site and the output can immediately be tested and debugged without having publish a package update for each change.
 
-## Implementation
+## Development Scripts
 
-The following implementations assume the submodule is initialized at `/vendor/miniature-data`. This is the recommended practice.
-
-### Scripts
-
-The following definitions can be used to create scripts on the base project that reference those here in the submodule.
+A collection of development scripts are available to view and display miniature data. See [readme/scripts.md](./readme/scripts.md) for complete documentation.
 
 ```json
 "scripts": {
-  ...
-  "new": "npm run new --prefix ./vendor/miniature-data",
-  "listfm": "npm run listfm --prefix ./vendor/miniature-data",
-  "validate": "npm run validate --prefix ./vendor/miniature-data",
-  "status": "npm run status --prefix ./vendor/miniature-data",
-  "todo": "npm run todo --prefix ./vendor/miniature-data"
-},
-
-// Yarn equivalent:
-// yarn --cwd path/to/your/other/folder [command]
+  "new": "node ./scripts/actions/newMini",
+  "listfm": "node ./scripts/actions/listAttributes",
+  "validate": "node ./scripts/actions/validateFrontmatter",
+  "status": "node ./scripts/actions/status",
+  "todo": "node ./scripts/actions/todo"
+}
 ```
 
-### Data Source
+## Integration
+
+The following integration steps assume the submodule is initialized at `/vendor/miniature-data`. This is the recommended practice.
+
+### 1. Add Data Source
 
 Exports are available for the ignore lists for both the minidb and gallery web sites. Using these instead of manually defining the exclusions means `gatsby-config.js` won't have to be changed if the data source layout changes at a later date.
 
@@ -68,18 +64,35 @@ module.exports = {
 };
 ```
 
-## Development Scripts
+### 2. Implement Scripts
 
-A collection of development scripts are available to view and display miniature data.
+The following definitions can be used to create scripts on the base project that reference those here in the submodule.
 
 ```json
+// package.json
 "scripts": {
-  "new": "node ./scripts/actions/newMini",
-  "listfm": "node ./scripts/actions/listAttributes",
-  "validate": "node ./scripts/actions/validateFrontmatter",
-  "status": "node ./scripts/actions/status",
-  "todo": "node ./scripts/actions/todo"
-}
+  ...
+  "new": "npm run new --prefix ./vendor/miniature-data",
+  "listfm": "npm run listfm --prefix ./vendor/miniature-data",
+  "validate": "npm run validate --prefix ./vendor/miniature-data",
+  "status": "npm run status --prefix ./vendor/miniature-data",
+  "todo": "npm run todo --prefix ./vendor/miniature-data"
+},
+
+// Yarn equivalent:
+// yarn --cwd path/to/your/other/folder [command]
 ```
 
-See [readme/scripts.md](./readme/scripts.md) for complete documentation.
+### 3. Add Dependencies
+
+Add the submodule as a dev dependency so yarn/npm will pull its dependencies.
+
+```json
+// package.json
+{
+  ...
+  "devDependencies": {
+    "miniature-data": "./vendor/miniature-data"
+  }
+}
+```
