@@ -4,6 +4,7 @@ const {
   formatAdditionalPropertyError,
   formatAllowedValuesError,
   formatRequiredError,
+  formatTypeError,
 } = require("./format");
 
 const displayErrors = (file, errors) => {
@@ -21,6 +22,9 @@ const displayErrors = (file, errors) => {
         break;
       case "enum":
         formatAllowedValuesError(error);
+        break;
+      case "type":
+        formatTypeError(error);
         break;
       default:
         console.log(error);

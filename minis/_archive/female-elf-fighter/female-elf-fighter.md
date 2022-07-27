@@ -6,13 +6,12 @@ line:
   - WizKids
   - Pathfinder Deep Cuts
 status: wip
-ssphotos:
+photos:
   - ./WizKids-Pathfinder73410-FemaleElfFighter.jpg
 weapons:
   - sword
 armor:
-  - leather
-  - shieldsss
+  - shield
 race:
   - elf
 quantity: 1

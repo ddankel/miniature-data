@@ -10,7 +10,7 @@ A npm package would also serve this purpose but a submodule can be edited and up
 
 ## Development Scripts
 
-A collection of development scripts are available to view and display miniature data.
+A collection of development scripts are available to view and display miniature data. See [readme/scripts.md](./readme/scripts.md) for complete documentation.
 
 ```json
 "scripts": {
@@ -26,7 +26,7 @@ A collection of development scripts are available to view and display miniature 
 
 The following integration steps assume the submodule is initialized at `/vendor/miniature-data`. This is the recommended practice.
 
-### 1. Data Source
+### 1. Add Data Source
 
 Exports are available for the ignore lists for both the minidb and gallery web sites. Using these instead of manually defining the exclusions means `gatsby-config.js` won't have to be changed if the data source layout changes at a later date.
 
@@ -64,7 +64,7 @@ module.exports = {
 };
 ```
 
-### 2. Scripts
+### 2. Implement Scripts
 
 The following definitions can be used to create scripts on the base project that reference those here in the submodule.
 
@@ -83,7 +83,7 @@ The following definitions can be used to create scripts on the base project that
 // yarn --cwd path/to/your/other/folder [command]
 ```
 
-### 3. Dependencies
+### 3. Add Dependencies
 
 Add the submodule as a dev dependency so yarn/npm will pull its dependencies.
 
@@ -96,5 +96,3 @@ Add the submodule as a dev dependency so yarn/npm will pull its dependencies.
   }
 }
 ```
-
-See [readme/scripts.md](./readme/scripts.md) for complete documentation.

@@ -53,4 +53,4 @@ const validValues = {
   status: ["prepainted", "unpainted", "wip", "painted", "unassembled", undefined],
 };
 
-module.export = validValues;
+module.exports = validValues;

@@ -3,7 +3,7 @@ const frontmatterFromFile = require("../frontmatterFromFile");
 /**
  * Index an aggregate attribute
  *
- * Attributes that are arrays that should be aggregated and added to the dictionary.  For example:
+ * Attributes that are arrays that should be aggregated and added to the list.  For example:
  *
  * @example
  *   line:
@@ -11,7 +11,7 @@ const frontmatterFromFile = require("../frontmatterFromFile");
  *     - b
  *     - c
  *
- *   Would add "a > b > c" to the dictionary
+ *   Would add "a > b > c" to the aggregated list
  *
  * @param   {String}  attributeName  The attribute to index
  * @param   {Array}   markdownFiles  The markdown files to iterate through
