@@ -6,43 +6,23 @@ const chalk = require("chalk");
  * @example error
  *    Sample Error:
  *    {
- *      instancePath: '',
- *      schemaPath: '#/additionalProperties',
- *      keyword: 'additionalProperties',
- *      params: { additionalProperty: 'ssphotos' },
- *      message: 'must NOT have additional properties',
- *      schema: false,
- *      parentSchema: {
- *        type: 'object',
- *        properties: {
- *          slug: [Object],
- *          name: [Object],
- *          sku: [Object],
- *          line: [Object],
- *          painted: [Object],
- *          status: [Object],
- *          photos: [Object],
- *          weapons: [Object],
- *          armor: [Object],
- *          race: [Object],
- *          quantity: [Object],
- *          recipes: [Object]
- *        },
- *        required: [ 'painted' ],
- *        additionalProperties: false
- *      },
- *      data: {
- *        slug: 'female-elf-fighter',
- *        name: 'Female Elf Figher',
- *        sku: '73410 Female Elf Fighter',
- *        line: [ 'WizKids', 'Pathfinder Deep Cuts' ],
- *        status: 'wip',
- *        ssphotos: [ './WizKids-Pathfinder73410-FemaleElfFighter.jpg' ],
- *        weapons: [ 'sword' ],
- *        armor: [ 'leather', 'shieldsss' ],
- *        race: [ 'elf' ],
- *        quantity: 1
- *      }
+ *       keyword: 'enum',
+ *       dataPath: '.armor[1]',
+ *       schemaPath: '#/properties/armor/items/enum',
+ *       params: { allowedValues: [Array] },
+ *       message: 'should be equal to one of the allowed values',
+ *       schema: [
+ *         'cloak',
+ *         'clothing',
+ *         'leather',
+ *         'mail',
+ *         'plate',
+ *         'powered armor',
+ *         'robe',
+ *         'shield'
+ *       ],
+ *       parentSchema: { type: 'string', enum: [Array] },
+ *       data: 'clothings'
  *    }
  *
  * @example output
@@ -53,7 +33,7 @@ const chalk = require("chalk");
 const formatAllowedValuesError = (error) => {
   output = `    ${chalk.red("invalid")} value ${chalk.red(
     error.data
-  )} for field ${chalk.whiteBright(error.instancePath.split("/")[1])} `;
+  )} for field ${chalk.whiteBright(error.schemaPath.split("/")[2])} `;
   console.log(output);
 };
 

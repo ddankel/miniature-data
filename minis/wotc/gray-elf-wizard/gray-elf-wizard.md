@@ -12,6 +12,7 @@ race:
   - elf
 weapons:
   - spear
+  - staff
 armor:
   - robe
 ---
