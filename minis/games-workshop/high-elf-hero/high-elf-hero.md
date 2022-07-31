@@ -8,13 +8,16 @@ painted: 2003
 photos:
   - ./GW-HighElfHero-Dankel_1.jpg
   - ./GW-HighElfHero-Dankel_2.jpg
+race:
+  - elf
+archetype:
+  - fighter
+  - rogue
 weapons:
   - sword
 armor:
   - cloak
   - mail
-race:
-  - elf
 ---
 
 This miniature is an out-of-print Games Workshop High Elf Hero that has had it's headpiece trimmed down to look less phallic. I had originally purchased it for a specific conversion, but never had the time to start it. Instead a player picked this miniature out to use for his Children of the Sun character, so I painted it up for him.

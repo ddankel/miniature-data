@@ -6,14 +6,17 @@ line:
   - D&D Miniatures
 photos:
   - ./DnDMiniature-RagnaraPsychicWarrior.jpg
+race:
+  - human
+archetype:
+  - fighter
+  - paladin
 weapons:
   - sword
 armor:
   - cloak
   - mail
   - shield
-race:
-  - human
 status: prepainted
 ---
 

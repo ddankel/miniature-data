@@ -8,12 +8,15 @@ painted: May 2014 - June 2014
 photos:
   - ./Reaper2464-BlackLegionnaire-Dankel_1.jpg
   - ./Reaper2464-BlackLegionnaire-Dankel_2.jpg
+race:
+  - human
+archetype:
+  - fighter
+  - paladin
 weapons:
   - sword
 armor:
   - plate
-race:
-  - human
 recipes:
   - Tabard (inner)
     - Same as archer (Alistrilee, Elf Archer)

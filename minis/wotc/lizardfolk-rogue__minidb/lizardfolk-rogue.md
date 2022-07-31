@@ -7,9 +7,11 @@ line:
 status: prepainted
 photos:
   - ./DnDMiniatures-LizardfolkRogue_1.jpg
-weapons:
-  - natural weapons
 race:
   - t'skrang
   - lizardfolk
+archetype:
+  - monk
+weapons:
+  - natural weapons
 ---

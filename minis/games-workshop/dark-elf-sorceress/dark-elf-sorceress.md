@@ -8,13 +8,15 @@ painted: "2001"
 photos:
   - ./GW-DarkElfSorceress-Dankel_1.jpg
   - ./GW-DarkElfSorceress-Dankel_2.jpg
+race:
+  - elf
+archetype:
+  - wizard
 weapons:
   - sword
 armor:
   - cloak
   - clothing
-race:
-  - elf
 ---
 
 The Dark Elf Sorceress was originally used to represent my Dark Elf Sorceress (shock!) in my old Dark Elf Mordheim warband. As one of my earliest pieces, she really shows my "basecoat, wash, drybush" techniques of the time. As unimpressive as she is now putting together a cohesive looking force was an accomplishment for me back then.

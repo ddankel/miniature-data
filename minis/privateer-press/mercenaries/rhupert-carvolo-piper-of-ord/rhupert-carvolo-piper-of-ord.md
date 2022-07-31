@@ -14,6 +14,9 @@ photos:
   - ./PP-WM-Merc-Piper-Dankel_4.jpg
 race:
   - human
+archetype:
+  - fighter
+  - rogue
 weapons:
   - sword
   - instrument

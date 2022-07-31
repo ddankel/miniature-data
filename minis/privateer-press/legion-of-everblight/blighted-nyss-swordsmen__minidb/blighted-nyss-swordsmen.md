@@ -18,6 +18,8 @@ photos:
 race:
   - dragonspawn
   - elf
+archetype:
+  - fighter
 weapons:
   - sword
 armor:

@@ -14,6 +14,10 @@ armor:
 race:
   - human
   - elf
+archetype:
+  - fighter
+  - ranger
+  - rogue
 quantity: 6
 recipes:
   - Overcoat

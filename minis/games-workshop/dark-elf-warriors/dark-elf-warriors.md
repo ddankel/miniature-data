@@ -13,6 +13,10 @@ photos:
   - ./GW-DarkElfWarriors-Dankel_5.jpg
   - ./GW-DarkElfWarriors-Dankel_6.jpg
 quantity: 12
+race:
+  - elf
+archetype:
+  - fighter
 weapons:
   - sword
   - spear
@@ -20,8 +24,6 @@ weapons:
 armor:
   - plate
   - shield
-race:
-  - elf
 ---
 
 Years after I stopped playing Mordheim, I assembled and painted a majority of the figures from an old Games Workshop Dark Elf Warrior boxed set that I had originally picked up to use for that game. Although the models are a bit spiky I decided to do a handful of them to have around for use as generic soldiers in fantasy RPGs should the need arise. I painted them up in the same scheme as the rest of my Dark Elves just in case I ever got around to playing again.

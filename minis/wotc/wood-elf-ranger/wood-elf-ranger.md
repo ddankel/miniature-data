@@ -10,6 +10,9 @@ photos:
   - ./Chainmail-WoodElfRanger-Dankel_2.jpg
 race:
   - elf
+archetype:
+  - ranger
+  - fighter
 weapons:
   - axe
   - bow

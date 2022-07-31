@@ -11,14 +11,16 @@ photos:
   - ./DnDMiniatures-Stonechild-Conversion-Dankel_3.jpg
   - ./DnDMiniatures-Stonechild-Conversion-Dankel_4.jpg
   - ./DnDMiniatures-Stonechild-Conversion-Dankel_5.jpg
+race:
+  - obsidiman
+  - stonechild
+archetype:
+  - fighter
 weapons:
   - sword
 armor:
   - plate
   - shield
-race:
-  - obsidiman
-  - stonechild
 ---
 
 I typically prefer working with pewter miniatures over plastic ones, but for my first attempt at a fairly extensive conversion the plastic WotC uses on their D&D Miniatures was a good start. I actually picked up a couple of Stonechild miniatures just for conversions for Earthdawn obsidimen. The pose isn't as interesting as the Chainmail sculpt and seems more compact, but considering how rare it is to find miniatures to pass as obsidimen you learn to deal with what you have.

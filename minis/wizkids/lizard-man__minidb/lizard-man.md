@@ -12,4 +12,6 @@ weapons:
 race:
   - t'skrang
   - lizardfolk
+archetype:
+  - fighter
 ---

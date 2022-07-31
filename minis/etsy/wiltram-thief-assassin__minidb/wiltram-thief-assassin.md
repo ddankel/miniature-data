@@ -7,13 +7,15 @@ line:
 status: unpainted
 photos:
   - ./RNEstudio-WiltramThiefAssassin_Studio.jpg
+race:
+  - human
+  - elf
+archetype:
+  - rogue
 weapons:
   - dagger
   - sword
 armor:
   - leather
   - cloak
-race:
-  - human
-  - elf
 ---

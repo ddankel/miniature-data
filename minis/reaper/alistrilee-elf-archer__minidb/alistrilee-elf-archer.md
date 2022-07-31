@@ -9,13 +9,16 @@ painted: April 2014 - May 2014
 photos:
   - ./Reaper3166-AlistrileeElfArcher-Dankel_1.jpg
   - ./Reaper3166-AlistrileeElfArcher-Dankel_2.jpg
+race:
+  - elf
+archetype:
+  - fighter
+  - ranger
 weapons:
   - bow
 armor:
   - cloak
   - plate
-race:
-  - elf
 recipes:
   - Cloak
     - Base P3 Menoth White Base

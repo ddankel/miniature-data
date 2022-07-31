@@ -7,6 +7,8 @@ photos:
   - ./Heroquest-ChaosMage.jpg
 race:
   - human
+archetype:
+  - wizard
 armor:
   - clothing
 ---

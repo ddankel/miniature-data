@@ -14,6 +14,8 @@ photos:
   - ./PP-WM-PoM-HighReclaimer-Dankel_4.jpg
 race:
   - human
+archetype:
+  - cleric
 weapons:
   - polearm
   - mace

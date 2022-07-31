@@ -7,11 +7,13 @@ line:
 photos:
   - ./MK-Berserker-Dankel_1.jpg
   - ./MK-Berserker-Dankel_2.jpg
+race:
+  - dwarf
+archetype:
+  - fighter
 weapons:
   - axe
   - pistol
 armor:
   - clothing
-race:
-  - dwarf
 ---

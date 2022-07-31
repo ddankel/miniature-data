@@ -10,6 +10,9 @@ photos:
   - ./Reaper77093-DragoVossMaleAssassin-Dankel_2.jpg
 race:
   - human
+archetype:
+  - fighter
+  - rogue
 weapons:
   - sword
   - dagger

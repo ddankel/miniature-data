@@ -14,5 +14,8 @@ armor:
   - plate
 race:
   - half-orc
+archetype:
+  - fighter
+  - ranger
 status: prepainted
 ---

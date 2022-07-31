@@ -13,13 +13,16 @@ photos:
   - ./PP-WM-PoM-Zealots-Dankel_3.jpg
   - ./PP-WM-PoM-Zealots-Dankel_4.jpg
 quantity: 11
+race:
+  - human
+archetype:
+  - cleric
+  - artificer
 armor:
   - clothing
 weapons:
   - mace
   - grenade
-race:
-  - human
 ---
 
 As one of the most annoying unit to face in Warmachine, Zealots have a special place in my heart. These little grenade-chuckers are just so useful. I painted these guys up right after my battlebox and show a lot of experimentation with the color scheme I assigned to my army. They're painted to a nice tabletop standard -- I would have driven myself nuts trying to perfect each and every one of them.

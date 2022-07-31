@@ -13,5 +13,7 @@ armor:
 race:
   - t'skrang
   - lizardfolk
+archetype:
+  - wizard
 status: prepainted
 ---

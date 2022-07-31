@@ -7,14 +7,16 @@ line:
 painted: April 2016 - June 2016
 photos:
   - ./DarkElfAssassin-Dankel.jpg
+race:
+  - elf
+archetype:
+  - rogue
 weapons:
   - claw
   - axe
 armor:
   - cloak
   - clothing
-race:
-  - elf
 recipes:
   - Tabbard
     - DC Tangerine

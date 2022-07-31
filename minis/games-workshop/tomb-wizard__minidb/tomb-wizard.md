@@ -6,13 +6,16 @@ line:
   - Warhammer
 photos:
   - ./GW-TombWizard.jpg
+race:
+  - human
+archetype:
+  - cleric
+  - wizard
 weapons:
   - sword
   - staff
 armor:
   - cloak
   - clothing
-race:
-  - human
 status: unpainted
 ---

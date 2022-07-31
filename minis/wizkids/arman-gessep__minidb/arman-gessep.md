@@ -6,12 +6,14 @@ line:
   - Mage Knight
 photos:
   - ./MK-ArmanGessep.jpg
+race:
+  - human
+  - elf
+archetype:
+  - ranger
 weapons:
   - bow
 armor:
   - clothing
-race:
-  - human
-  - elf
 status: prepainted
 ---

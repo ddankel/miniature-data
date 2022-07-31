@@ -10,6 +10,8 @@ photos:
   - ./Chainmail-WoodElfScout-Dankel_2.jpg
 race:
   - elf
+archetype:
+  - ranger
 weapons:
   - bow
 armor:

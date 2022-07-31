@@ -14,6 +14,10 @@ quantity: 2
 race:
   - elf
   - human
+archetype:
+  - fighter
+  - rogue
+  - wizard
 weapons:
   - pistol
 armor:

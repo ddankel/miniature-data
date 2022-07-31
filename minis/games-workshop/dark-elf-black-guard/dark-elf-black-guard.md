@@ -9,13 +9,16 @@ photos:
   - ./GW-DarkElfBlackGuard-Dankel_1.jpg
   - ./GW-DarkElfBlackGuard-Dankel_2.jpg
 quantity: 2
+race:
+  - elf
+archetype:
+  - fighter
+  - paladin
 weapons:
   - sword
 armor:
   - plate
   - cloak
-race:
-  - elf
 ---
 
 The Dark Elf Black Guard were originally used to represent Fell Blades in my old Dark Elf Mordheim warband. As some of my earliest pieces, they really show my "basecoat, wash, drybush" techniques of the time. As unimpressive as they are now putting together a cohesive looking force was an accomplishment for me back then.

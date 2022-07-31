@@ -10,6 +10,8 @@ photos:
   - ./Chainmail-OgreDelver-Dankel_3.jpg
 race:
   - ogre
+archetype:
+  - fighter
 weapons:
   - axe
 armor:

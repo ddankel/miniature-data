@@ -7,11 +7,15 @@ line:
 status: prepainted
 photos:
   - ./Confrontation-IncarnateThurbardMounted.jpg
+race:
+  - human
+  - elf
+archetype:
+  - fighter
+  - paladin
 weapons:
   - sword
 armor:
   - plate
   - shield
-race:
-  - human
 ---

@@ -7,11 +7,13 @@ line:
 status: prepainted
 photos:
   - ./MK-LeechTroll_1.jpg
+race:
+  - troll
+archetype:
+  - wizard
 weapons:
   - staff
   - dagger
 armor:
   - clothing
-race:
-  - troll
 ---

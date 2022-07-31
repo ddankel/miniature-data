@@ -10,6 +10,9 @@ photos:
   - ./Chainmail-HalfElfSorc-Dankel_2.jpg
 race:
   - elf
+archetype:
+  - wizard
+  - monk
 weapons:
   - spear
 armor:

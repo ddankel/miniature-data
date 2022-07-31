@@ -8,6 +8,8 @@ photos:
   - ./HundredKingdoms-BlackPantherAssassin-Dankel.jpg
 race:
   - tabaxi
+archetype:
+  - rogue
 weapons:
   - sword
 armor:

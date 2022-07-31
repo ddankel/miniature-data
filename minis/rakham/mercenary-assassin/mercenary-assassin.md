@@ -9,13 +9,15 @@ photos:
   - ./Confrontation-MercenaryAssassin-Dankel_1.jpg
   - ./Confrontation-MercenaryAssassin-Dankel_2.jpg
   - ./Confrontation-MercenaryAssassin-Dankel_3.jpg
+race:
+  - human
+  - elf
+archetype:
+  - rogue
 weapons:
   - sword
 armor:
   - leather
-race:
-  - human
-  - elf
 ---
 
 I picked this figure up a while ago and was holding on to him until I got inspired enough to paint him. When I dug him up while searching through my bare pewter collection for a good figure for a rogue/assassin character I figured it was as good of a time as any.

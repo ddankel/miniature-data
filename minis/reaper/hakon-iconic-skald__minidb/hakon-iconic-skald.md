@@ -9,6 +9,9 @@ photos:
   - ./Reaper60182-HakonIconicSkald-Dankel_wip.jpg
 race:
   - human
+archetype:
+  - fighter
+  - ranger
 weapons:
   - axe
   - instrument

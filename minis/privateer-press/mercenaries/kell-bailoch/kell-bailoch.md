@@ -12,6 +12,9 @@ photos:
   - ./PP-WM-Merc-KellBailoch-Dankel_2.jpg
 race:
   - human
+archetype:
+  - fighter
+  - rogue
 weapons:
   - sword
   - rifle

@@ -14,6 +14,9 @@ photos:
 race:
   - elf
   - dragonspawn
+archetype:
+  - fighter
+  - ranger
 weapons:
   - bow
 armor:

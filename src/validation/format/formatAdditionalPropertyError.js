@@ -9,7 +9,7 @@ const chalk = require("chalk");
  *      instancePath: '',
  *      schemaPath: '#/additionalProperties',
  *      keyword: 'additionalProperties',
- *      params: { additionalProperty: 'ssphotos' },
+ *      params: { additionalProperty: 'photos' },
  *      message: 'must NOT have additional properties',
  *      schema: false,
  *      parentSchema: {
@@ -37,7 +37,7 @@ const chalk = require("chalk");
  *        sku: '73410 Female Elf Fighter',
  *        line: [ 'WizKids', 'Pathfinder Deep Cuts' ],
  *        status: 'wip',
- *        ssphotos: [ './WizKids-Pathfinder73410-FemaleElfFighter.jpg' ],
+ *        photos: [ './WizKids-Pathfinder73410-FemaleElfFighter.jpg' ],
  *        weapons: [ 'sword' ],
  *        armor: [ 'leather', 'shieldsss' ],
  *        race: [ 'elf' ],

@@ -9,6 +9,9 @@ photos:
   - ./Reaper2371-NordKegbreaker-Dankel_2.jpg
 race:
   - dwarf
+archetype:
+  - wizard
+  - cleric
 weapons:
   - hammer
 armor:

@@ -6,11 +6,13 @@ line:
   - Mordheim
 photos:
   - ./GW-MercSprueWarrior-Dankel.jpg
+race:
+  - human
+archetype:
+  - fighter
 weapons:
   - axe
 armor:
   - shield
   - leather
-race:
-  - human
 ---

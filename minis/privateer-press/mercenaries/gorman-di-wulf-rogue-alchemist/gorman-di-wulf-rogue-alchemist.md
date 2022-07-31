@@ -13,6 +13,9 @@ photos:
   - ./PP-WM-Merc-Gorman-Dankel_3.jpg
 race:
   - human
+archetype:
+  - artificer
+  - rogue
 weapons:
   - grenade
 armor:

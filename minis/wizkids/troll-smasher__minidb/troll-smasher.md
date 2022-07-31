@@ -7,8 +7,10 @@ line:
 status: prepainted
 photos:
   - ./MK-TrollSmasher.jpg
-weapons:
-  - club
 race:
   - troll
+archetype:
+  - fighter
+weapons:
+  - club
 ---

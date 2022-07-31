@@ -12,6 +12,9 @@ photos:
   - ./PP-WM-PoM-Feora-Dankel_4.jpg
 race:
   - human
+archetype:
+  - fighter
+  - paladin
 weapons:
   - dagger
 armor:

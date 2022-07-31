@@ -30,6 +30,20 @@ const schema = {
         type: "string",
       },
     },
+    race: {
+      type: "array",
+      items: {
+        type: "string",
+        enum: validValues.race,
+      },
+    },
+    archetype: {
+      type: "array",
+      items: {
+        type: "string",
+        enum: validValues.archetype,
+      },
+    },
     weapons: {
       type: "array",
       items: {
@@ -42,13 +56,6 @@ const schema = {
       items: {
         type: "string",
         enum: validValues.armor,
-      },
-    },
-    race: {
-      type: "array",
-      items: {
-        type: "string",
-        enum: validValues.race,
       },
     },
     quantity: {

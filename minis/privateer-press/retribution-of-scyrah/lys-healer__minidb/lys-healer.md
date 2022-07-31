@@ -9,12 +9,15 @@ line:
 status: unassembled
 photos:
   - ./280px-Lys_Healer.jpg
+race:
+  - elf
+archetype:
+  - cleric
+  - monk
 weapons:
   - natural weapons
 armor:
   - clothing
   - cloak
-race:
-  - elf
 quantity: 1
 ---

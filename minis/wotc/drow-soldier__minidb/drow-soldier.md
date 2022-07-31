@@ -8,6 +8,8 @@ photos:
   - ./Chainmail-DrowSoldier-Dankel.jpg
 race:
   - elf
+archetype:
+  - fighter
 weapons:
   - sword
 armor:

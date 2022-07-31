@@ -12,6 +12,9 @@ photos:
   - ./PP-WM-PoM-Severius-Dankel_2.jpg
 race:
   - human
+archetype:
+  - wizard
+  - cleric
 weapons:
   - staff
 armor:

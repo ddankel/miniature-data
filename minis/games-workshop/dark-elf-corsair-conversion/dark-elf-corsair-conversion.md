@@ -8,14 +8,16 @@ painted: 2003
 photos:
   - ./GW-DarkElfCorasirConversion-Dankel_1.jpg
   - ./GW-DarkElfCorasirConversion-Dankel_2.jpg
+race:
+  - elf
+archetype:
+  - fighter
 weapons:
   - claw
   - sword
 armor:
   - plate
   - cloak
-race:
-  - elf
 ---
 
 My converted Dark Elf Corsair was my second attempt at NMM, which I quickly learned photographs better than it looks in person in my mind. He was painted up to serve as my warband leader, and served quite well in the role. The ninja elf earned himself a reputation on the table. Maybe my painted figures performed better back then after all.

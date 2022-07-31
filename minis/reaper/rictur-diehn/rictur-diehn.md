@@ -10,6 +10,8 @@ photos:
   - ./Reaper2430-RicturDiehn-Dankel_2.jpg
 race:
   - human
+archetype:
+  - rogue
 weapons:
   - sword
   - dagger

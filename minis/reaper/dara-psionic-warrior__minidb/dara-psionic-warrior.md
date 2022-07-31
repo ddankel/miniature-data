@@ -10,6 +10,9 @@ photos:
 race:
   - human
   - elf
+archetype:
+  - fighter
+  - paladin
 weapons:
   - sword
 armor:

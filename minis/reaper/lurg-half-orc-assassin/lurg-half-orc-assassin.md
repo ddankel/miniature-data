@@ -10,6 +10,9 @@ photos:
   - ./Reaper14043-LurgHalfOrc-Dankel_2.jpg
 race:
   - half-orc
+archetype:
+  - fighter
+  - ranger
 weapons:
   - sword
   - claw

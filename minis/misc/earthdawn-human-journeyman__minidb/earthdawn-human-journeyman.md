@@ -8,6 +8,9 @@ photos:
   - ./Earthdawn-HumanJourneyman-Dankel.jpg
 race:
   - human
+archetype:
+  - fighter
+  - rogue
 weapons:
   - sword
   - dagger

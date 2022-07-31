@@ -12,6 +12,8 @@ photos:
   - ./PP-WM-PoM-Amon-Dankel_2.jpg
 race:
   - human
+archetype:
+  - monk
 weapons:
   - chain weapon
 armor:

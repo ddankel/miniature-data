@@ -11,6 +11,9 @@ photos:
   - ./PP-WM-Mercs-FirstMateHawk-Dankel_2.jpg
 race:
   - human
+archetype:
+  - fighter
+  - rogue
 weapons:
   - sword
 armor:

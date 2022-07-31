@@ -6,11 +6,14 @@ line:
   - Warhammer
 photos:
   - ./GW-ChaosWizard.jpg
+race:
+  - human
+archetype:
+  - wizard
+  - cleric
 weapons:
   - staff
 armor:
   - plate
-race:
-  - human
 status: unpainted
 ---

@@ -10,6 +10,9 @@ photos:
   - ./Reaper14046-ArdynnDNarg-Dankel_2.jpg
 race:
   - elf
+archetype:
+  - fighter
+  - wizard
 weapons:
   - sword
   - scroll

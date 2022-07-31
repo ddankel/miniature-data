@@ -8,6 +8,9 @@ photos:
   - ./Earthdawn-AirSailor-Dankel.jpg
 race:
   - human
+archetype:
+  - fighter
+  - rogue
 weapons:
   - sword
 armor:

@@ -8,11 +8,14 @@ status: unassembled
 photos:
   - ./Confrontation-SwordsmenOfAlahan.jpg
   - ./Confrontation-SwordsmenOfAlahan_Studio.jpg
+race:
+  - human
+archetype:
+  - fighter
+  - paladin
 weapons:
   - sword
 armor:
   - plate
-race:
-  - human
 quantity: 2
 ---

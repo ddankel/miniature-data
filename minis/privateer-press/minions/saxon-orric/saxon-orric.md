@@ -10,13 +10,16 @@ painted: June 2014 - July 2014
 photos:
   - ./PP-Hordes-Minion-SaxonOrrik-Dankel_1.jpg
   - ./PP-Hordes-Minion-SaxonOrrik-Dankel_2.jpg
+race:
+  - human
+archetype:
+  - fighter
+  - ranger
 weapons:
   - sword
 armor:
   - leather
   - cloak
-race:
-  - human
 recipes:
   - Cloak
     - Base RMS Driftwood Brown

@@ -16,6 +16,10 @@ armor:
   - cloak
 race:
   - tabaxi
+archetype:
+  - fighter
+  - ranger
+  - rogue
 ---
 
 "Mira" was as originally a Ral Partha elf that came in a blister with four others labeled as High Elf Irregular Officers. I had purchased the blister specifically for one of the other miniatures in it, but my wife picked this one out to serve as the base for her first RPG character.

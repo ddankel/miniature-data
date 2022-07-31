@@ -14,6 +14,9 @@ photos:
   - ./PP-WM-PoM-eFeora-Dankel_4.jpg
 race:
   - human
+archetype:
+  - fighter
+  - paladin
 weapons:
   - polearm
   - axe

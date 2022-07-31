@@ -10,6 +10,10 @@ photos:
   - ./Reaper14287-StrachOverlordHero-Dankel_2.jpg
 race:
   - human
+archetype:
+  - fighter
+  - paladin
+  - ranger
 weapons:
   - sword
 armor:

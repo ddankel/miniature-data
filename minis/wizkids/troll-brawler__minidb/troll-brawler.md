@@ -8,12 +8,14 @@ painted: 2014-2015
 photos:
   - ./MK-TrollBrawler-Dankel_1.jpg
   - ./MK-TrollBrawler-Dankel_3.jpg
+race:
+  - troll
+archetype:
+  - fighter
 weapons:
   - axe
 armor:
   - leather
-race:
-  - troll
 recipes:
   - Ago-chat
     - P3 Cygnar Blue Base

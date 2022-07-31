@@ -6,11 +6,13 @@ line:
   - Mage Knight
 photos:
   - ./MK-Zenephret.jpg
+archetype:
+  - rogue
+race:
+  - human
 weapons:
   - sword
 armor:
   - clothing
-race:
-  - human
 status: prepainted
 ---

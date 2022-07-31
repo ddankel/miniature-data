@@ -13,6 +13,9 @@ photos:
   - ./PP-Hordes-Minion-AltenAshley-Dankel_3.jpg
 race:
   - human
+archetype:
+  - fighter
+  - ranger
 weapons:
   - sword
   - rifle

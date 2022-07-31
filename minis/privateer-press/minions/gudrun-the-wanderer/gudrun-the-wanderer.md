@@ -11,12 +11,14 @@ photos:
   - ./PP-Hordes-Minion-Gudrun-Dankel_1.jpg
   - ./PP-Hordes-Minion-Gudrun-Dankel_2.jpg
   - ./PP-Hordes-Minion-Gudrun-Dankel_3.jpg
+race:
+  - ogre
+archetype:
+  - fighter
 weapons:
   - polearm
 armor:
   - mail
-race:
-  - ogre
 ---
 
 I painted Gudrun towards the end of 2008 as a diversion from the Legion models I had been rapidly turning out. His color scheme was primarily chosen to let me test out P3's Ordic Olive color, which I used on his cowl.

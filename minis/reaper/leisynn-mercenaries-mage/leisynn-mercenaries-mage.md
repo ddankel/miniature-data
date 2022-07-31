@@ -10,6 +10,8 @@ photos:
   - ./Reaper14060-LeisynnMercenariesMage-Dankel_2.jpg
 race:
   - human
+archetype:
+  - wizard
 weapons:
   - staff
   - book

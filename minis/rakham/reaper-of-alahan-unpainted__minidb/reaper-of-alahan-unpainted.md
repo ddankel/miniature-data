@@ -7,12 +7,15 @@ line:
 status: unpainted
 photos:
   - ./Confrontation-ReaperOfAlahan_Unpainted.jpg
+race:
+  - human
+archetype:
+  - fighter
+  - artificer
 weapons:
   - sword
   - pistol
 armor:
   - clothing
-race:
-  - human
 quantity: 2
 ---

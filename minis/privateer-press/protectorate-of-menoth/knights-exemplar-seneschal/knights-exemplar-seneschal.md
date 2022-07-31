@@ -13,12 +13,15 @@ photos:
   - ./PP-WM-PoM-Seneschal2-Dankel_1.jpg
   - ./PP-WM-PoM-Seneschal2-Dankel_2.jpg
 quantity: 2
-armor:
-  - plate
-weapons:
-  - sword
 race:
   - human
+archetype:
+  - fighter
+  - paladin
+weapons:
+  - sword
+armor:
+  - plate
 ---
 
 I wasn't a big fan of the stock pose of the Knight Exemplar Seneschal figure. Extraneous back banners aside, there was just something about how it held its swords that didn't work for me. So that meant breaking out the jeweler's saw and some putty and making some changes.

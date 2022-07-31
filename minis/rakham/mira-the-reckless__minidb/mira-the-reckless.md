@@ -8,10 +8,13 @@ status: unassembled
 photos:
   - ./Confrontation-MiraTheReckless.jpg
   - ./Confrontation-MiraTheReckless_Studio.jpg
+race:
+  - human
+archetype:
+  - fighter
+  - paladin
 weapons:
   - sword
 armor:
   - plate
-race:
-  - human
 ---

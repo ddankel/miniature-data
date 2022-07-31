@@ -13,16 +13,20 @@ photos:
   - ./Rhoven-DDankel-3.jpg
   - ./Rhoven-DDankel-4.jpg
 quantity: 3
-armor:
-  - cloak
-  - robe
-  - plate
+race:
+  - human
+archetype:
+  - fighter
+  - cleric
+  - wizard
 weapons:
   - staff
   - polearm
   - axe
-race:
-  - human
+armor:
+  - cloak
+  - robe
+  - plate
 ---
 
 I painted Rhoven and his Exemplar honor guard up at the tail end of my Protectorate collection. I've only fielded them once or twice since they were first released, and as such they kept getting pushed back to the end of my painting queue. But as PP's release schedule slowed the past couple years I was finally able to get to them.

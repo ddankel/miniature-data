@@ -9,12 +9,14 @@ photos:
   - ./MK-ScaleMagus-Dankel_2.jpg
   - ./MK-ScaleMagus-Dankel_3.jpg
   - ./MK-ScaleMagus_4.jpg
+race:
+  - t'skrang
+  - lizardfolk
+archetype:
+  - wizard
 weapons:
   - staff
   - spell effect
 armor:
   - clothing
-race:
-  - t'skrang
-  - lizardfolk
 ---

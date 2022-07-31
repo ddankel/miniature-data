@@ -7,6 +7,11 @@ line:
 painted: Feb 2015
 photos:
   - ./DnDMiniatures-EverfrostRanger-Dankel.jpg
+race:
+  - human
+archetype:
+  - fighter
+  - ranger
 weapons:
   - sword
   - axe
@@ -14,8 +19,6 @@ weapons:
 armor:
   - mail
   - cloak
-race:
-  - human
 recipes:
   - Pants
     - Base 50/50 AB Golden Brown & AB Brown Oxide

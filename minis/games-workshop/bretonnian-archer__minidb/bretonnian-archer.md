@@ -7,11 +7,13 @@ line:
 photos:
   - ./GW-BretonnianArcher.jpg
 quantity: 2
+race:
+  - human
+archetype:
+  - fighter
 weapons:
   - bow
 armor:
   - clothing
-race:
-  - human
 status: unpainted
 ---

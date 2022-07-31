@@ -13,13 +13,15 @@ photos:
   - ./GW-DarkElfCorsairs-Dankel_5.jpg
   - ./GW-DarkElfCorsairs-Dankel_6.jpg
   - ./GW-DarkElfCorsairs-Dankel_7.jpg
+race:
+  - elf
+archetype:
+  - fighter
 weapons:
   - sword
 armor:
   - plate
   - cloak
-race:
-  - elf
 quantity: 6
 gallery:
   todo: true

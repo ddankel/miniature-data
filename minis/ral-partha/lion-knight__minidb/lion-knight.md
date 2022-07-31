@@ -5,11 +5,14 @@ line:
   - Ral Partha
 photos:
   - ./RalPartha-LionKnight-Dankel.jpg
+race:
+  - tabaxi
+archetype:
+  - fighter
+  - paladin
 weapons:
   - sword
 armor:
   - plate
   - cloak
-race:
-  - tabaxi
 ---

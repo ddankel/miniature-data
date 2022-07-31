@@ -10,6 +10,8 @@ photos:
   - ./Reaper2246-ElquinTheDaring-Dankel_2.jpg
 race:
   - elf
+archetype:
+  - wizard
 weapons:
   - staff
 armor:

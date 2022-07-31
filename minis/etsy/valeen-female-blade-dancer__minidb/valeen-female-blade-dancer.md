@@ -7,11 +7,14 @@ line:
 status: unassembled
 photos:
   - ./valeen-female-blade-dancer.jpg
+race:
+  - human
+archetype:
+  - fighter
+  - ranger
 weapons:
   - sword
 armor:
   - leather
-race:
-  - human
 quantity: 1
 ---

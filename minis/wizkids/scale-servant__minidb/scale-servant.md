@@ -7,12 +7,14 @@ line:
 photos:
   - ./MK-ScaleServant-Dankel.jpg
 status: prepainted
+race:
+  - t'skrang
+  - lizardfolk
+archetype:
+  - fighter
 weapons:
   - sword
 armor:
   - leather
   - shield
-race:
-  - t'skrang
-  - lizardfolk
 ---

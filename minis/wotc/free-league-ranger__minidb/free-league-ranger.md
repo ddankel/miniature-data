@@ -6,11 +6,14 @@ line:
   - D&D Miniatures
 photos:
   - ./DnDMiniatures-FreeLeagueRanger.jpg
+race:
+  - human
+archetype:
+  - fighter
+  - ranger
 weapons:
   - bow
 armor:
   - leather
-race:
-  - human
 status: prepainted
 ---

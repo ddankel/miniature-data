@@ -8,6 +8,8 @@ photos:
   - ./Heroquest-Dwarf-Dankel_2.jpg
 race:
   - dwarf
+archetype:
+  - fighter
 weapons:
   - axe
 armor:

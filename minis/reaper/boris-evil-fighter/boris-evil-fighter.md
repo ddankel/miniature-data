@@ -11,6 +11,8 @@ photos:
   - ./Reaper2938-BorisEvilFighter-Dankel_3.jpg
 race:
   - human
+archetype:
+  - fighter
 weapons:
   - sword
 armor:

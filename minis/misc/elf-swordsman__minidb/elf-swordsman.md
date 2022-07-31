@@ -5,10 +5,12 @@ line:
   - Celtos
 photos:
   - ./Celtos-ElfSwordsman-Dankel.jpg
+race:
+  - elf
+archetype:
+  - fighter
 weapons:
   - sword
 armor:
   - mail
-race:
-  - elf
 ---

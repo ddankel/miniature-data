@@ -8,12 +8,14 @@ painted: May 2014
 photos:
   - ./Reaper3071-HellakinGoregutterHalflingThief-Dankel_1.jpg
   - ./Reaper3071-HellakinGoregutterHalflingThief-Dankel_2.jpg
+race:
+  - halfling
+archetype:
+  - rogue
 weapons:
   - dagger
 armor:
   - leather
-race:
-  - halfling
 recipes:
   - Cloak
     - DC Royal Plum

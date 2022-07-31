@@ -10,6 +10,8 @@ photos:
   - ./Chainmail-GrayElfWizard-Dankel_2.jpg
 race:
   - elf
+archetype:
+  - wizard
 weapons:
   - spear
   - staff

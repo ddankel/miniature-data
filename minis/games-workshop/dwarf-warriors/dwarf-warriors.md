@@ -16,6 +16,12 @@ photos:
   - ./GW-DwarfWarriors-Dankel_8.jpg
   - ./GW-DwarfWarriors-Dankel_9.jpg
 quantity: 11
+race:
+  - dwarf
+archetype:
+  - fighter
+  - paladin
+  - ranger
 weapons:
   - hammer
   - axe
@@ -23,8 +29,6 @@ weapons:
 armor:
   - mail
   - shield
-race:
-  - dwarf
 ---
 
 Years ago a friend of mine left his plastic dwarf boxed set with me when he left the game. They have been sitting around for a long while until I finally decided to paint up a collection of them with different weapons for use in various role-playing or miniature games.

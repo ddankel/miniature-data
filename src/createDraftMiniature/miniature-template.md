@@ -6,14 +6,16 @@ line:
   - Line
 status: prepainted
 painted: ?? - ??
-ssphotos:
+photos:
   - ./Line-MiniatureName-Dankel_1.jpg
   - ../../missing-image.png
+race:
+  - optional
+archtype:
+  - optional
 weapons:
   - optional
 armor:
-  - optional
-race:
   - optional
 quantity: 1
 ---

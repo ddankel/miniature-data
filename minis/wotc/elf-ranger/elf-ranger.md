@@ -10,6 +10,8 @@ photos:
   - ./WotC-ElfRanger-Dankel_2.jpg
 race:
   - elf
+archetype:
+  - ranger
 weapons:
   - sword
   - bow

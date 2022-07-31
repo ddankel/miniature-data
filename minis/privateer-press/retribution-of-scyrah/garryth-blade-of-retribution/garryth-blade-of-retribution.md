@@ -12,6 +12,10 @@ photos:
   - ./garryth_ddankel_2.jpg
 race:
   - elf
+archetype:
+  - fighter
+  - rogue
+  - ranger
 weapons:
   - pistol
 armor:

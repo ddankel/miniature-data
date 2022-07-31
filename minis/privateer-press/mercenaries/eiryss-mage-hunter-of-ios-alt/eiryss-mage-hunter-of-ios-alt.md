@@ -13,6 +13,9 @@ photos:
   - ./PP-WM-Merc-AltEiryss-Dankel_3.jpg
 race:
   - elf
+archetype:
+  - ranger
+  - rogue
 weapons:
   - sword
   - crossbow

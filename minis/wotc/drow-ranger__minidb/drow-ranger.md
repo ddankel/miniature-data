@@ -8,13 +8,16 @@ painted: April 2014 - May 2014
 photos:
   - ./Chainmail-DrowRanger-Dankel_1.jpg
   - ./Chainmail-DrowRanger-Dankel_2.jpg
+race:
+  - elf
+archetype:
+  - fighter
+  - ranger
 weapons:
   - sword
 armor:
   - leather
   - cloak
-race:
-  - elf
 ---
 
 ## Recipe

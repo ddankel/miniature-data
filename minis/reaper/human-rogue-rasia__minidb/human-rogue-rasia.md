@@ -7,10 +7,12 @@ line:
 status: unpainted
 photos:
   - ./Reaper2970-HumanRogueRasia.jpg
+race:
+  - human
+archetype:
+  - rogue
 weapons:
   - sword
 armor:
   - clothing
-race:
-  - human
 ---

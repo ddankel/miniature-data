@@ -8,6 +8,12 @@ status: unassembled
 photos:
   - ./Confrontation-VladarTheArrogant.jpg
   - ./Confrontation-VladarTheArrogant_Studio.jpg
+race:
+  - human
+archetype:
+  - fighter
+  - paladin
+  - cleric
 weapons:
   - sword
 armor:
@@ -15,7 +21,5 @@ armor:
   - clothing
   - plate
   - robe
-race:
-  - human
 quantity: 2
 ---

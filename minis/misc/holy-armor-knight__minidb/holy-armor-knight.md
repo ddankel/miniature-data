@@ -6,13 +6,17 @@ line:
   - "Magic: The Gathering"
 photos:
   - ./Heartbreaker-HolyArmorKnight-Dankel.jpg
+race:
+  - human
+archetype:
+  - fighter
+  - paladin
+  - cleric
 weapons:
   - mace
 armor:
   - plate
   - shield
-race:
-  - human
 gallery:
   todo: true
 ---

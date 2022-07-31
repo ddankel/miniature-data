@@ -9,6 +9,10 @@ photos:
   - ./Chainmail-HammerPriest-Dankel_1.jpg
 race:
   - dwarf
+archetype:
+  - fighter
+  - paladin
+  - cleric
 weapons:
   - hammer
   - polearm

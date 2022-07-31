@@ -13,6 +13,9 @@ photos:
   - ./PP-WM-PoM-Hierophant-Dankel_3.jpg
 race:
   - human
+archetype:
+  - wizard
+  - cleric
 weapons:
   - staff
 armor:

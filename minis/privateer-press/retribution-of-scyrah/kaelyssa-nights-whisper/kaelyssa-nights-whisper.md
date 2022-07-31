@@ -12,6 +12,9 @@ photos:
   - ./kaelyssa_ddankel_2.jpg
 race:
   - elf
+archetype:
+  - fighter
+  - ranger
 weapons:
   - rifle
   - sword

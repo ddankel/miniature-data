@@ -6,8 +6,11 @@ line:
   - Mage Knight
 photos:
   - ./MK-MendingPriestess.jpg
-armor:
-  - clothing
 race:
   - elf
+archetype:
+  - wizard
+  - cleric
+armor:
+  - clothing
 ---

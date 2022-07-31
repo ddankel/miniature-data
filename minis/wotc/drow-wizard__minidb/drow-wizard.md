@@ -8,6 +8,9 @@ photos:
   - ./Chainmail-DrowWizard-Dankel.jpg
 race:
   - elf
+archetype:
+  - wizard
+  - rogue
 weapons:
   - sword
   - crossbow

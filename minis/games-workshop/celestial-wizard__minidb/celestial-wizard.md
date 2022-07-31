@@ -7,11 +7,14 @@ line:
 photos:
   - ./CelestialWizard-Dankel_1.jpg
   - ./CelestialWizard-Dankel_2.jpg
+race:
+  - human
+archetype:
+  - wizard
+  - cleric
 weapons:
   - sword
   - mace
 armor:
   - clothing
-race:
-  - human
 ---

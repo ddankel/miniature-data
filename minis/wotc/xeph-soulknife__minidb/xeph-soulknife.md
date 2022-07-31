@@ -6,11 +6,14 @@ line:
   - D&D Miniatures
 photos:
   - ./DnDMiniatures-XephSoulknife.jpg
+race:
+  - human
+archetype:
+  - rogue
+  - wizard
 weapons:
   - spell effect
 armor:
   - mail
-race:
-  - human
 status: prepainted
 ---

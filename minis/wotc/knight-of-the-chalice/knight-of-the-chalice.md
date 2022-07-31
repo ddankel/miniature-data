@@ -8,14 +8,17 @@ painted: "2015"
 photos:
   - ./DnDMiniatures-KnightOfTheChalice-Dankel.jpg
   - ./DnDMiniatures-KnightOfTheChalice_orig.jpg
+race:
+  - elf
+archetype:
+  - fighter
+  - paladin
 weapons:
   - sword
 armor:
   - cloak
   - plate
   - shield
-race:
-  - elf
 gallery:
   todo: true
 recipes:

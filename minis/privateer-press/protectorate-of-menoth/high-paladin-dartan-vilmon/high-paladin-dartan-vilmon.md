@@ -12,13 +12,16 @@ photos:
   - ./PP-WM-PoM-Vilmon-Dankel_2.jpg
   - ./PP-WM-PoM-Vilmon-Dankel_3.jpg
   - ./PP-WM-PoM-Vilmon-Dankel_4.jpg
+race:
+  - human
+archetype:
+  - fighter
+  - paladin
 armor:
   - plate
   - cloak
 weapons:
   - sword
-race:
-  - human
 ---
 
 Vilmon was a fun sculpt to paint, but I had to keep his arms separate until after painting was complete or I wouldn't have been able to get to this face and upper chest. More than anything else though I was pretty happy with his base.

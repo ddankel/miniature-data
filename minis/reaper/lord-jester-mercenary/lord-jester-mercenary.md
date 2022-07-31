@@ -10,6 +10,9 @@ photos:
   - ./Reaper2884-LordJesterMercenary-Dankel_2.jpg
 race:
   - human
+archetype:
+  - fighter
+  - ranger
 weapons:
   - sword
   - axe

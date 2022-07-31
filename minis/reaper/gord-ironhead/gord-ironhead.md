@@ -10,6 +10,9 @@ photos:
   - ./Reaper2384-GordIronhead-Dankel_2.jpg
 race:
   - dwarf
+archetype:
+  - fighter
+  - ranger
 weapons:
   - sword
 armor:

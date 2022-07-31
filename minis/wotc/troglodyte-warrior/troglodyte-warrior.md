@@ -10,6 +10,9 @@ photos:
 race:
   - t'skrang
   - lizardfolk
+archetype:
+  - fighter
+  - paladin
 weapons:
   - sword
 armor:

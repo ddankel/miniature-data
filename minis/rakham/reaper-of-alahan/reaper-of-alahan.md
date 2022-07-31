@@ -10,6 +10,9 @@ photos:
   - ./Confrontation-LionReaper-Dankel_2.jpg
 race:
   - human
+archetype:
+  - fighter
+  - artificer
 weapons:
   - sword
   - pistol

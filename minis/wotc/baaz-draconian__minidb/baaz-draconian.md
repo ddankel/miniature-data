@@ -7,15 +7,18 @@ line:
 painted: Nov 2021
 photos:
   - ./DnDMiniatures-BaazDraconian.jpg
+race:
+  - draconian
+  - lizardfolk
+  - t'skrang
+archetype:
+  - fighter
+  - rogue
 weapons:
   - sword
 armor:
   - cloak
   - mail
-race:
-  - draconian
-  - lizardfolk
-  - t'skrang
 gallery:
   todo: true
 ---

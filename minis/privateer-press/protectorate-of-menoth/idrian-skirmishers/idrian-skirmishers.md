@@ -15,13 +15,16 @@ photos:
   - ./PP-WM-PoM-IdrianSkirmishers-Dankel_5.jpg
   - ./PP-WM-PoM-IdrianSkirmishers-Dankel_6.jpg
 quantity: 12
+race:
+  - human
+archetype:
+  - ranger
+  - rogue
 armor:
   - leather
 weapons:
   - sword
   - rifle
-race:
-  - human
 ---
 
 I'm very happy with how my Idrians turned out. I knew they were going to go into my Hardcore list for DieCon 8 (in 2009) so I really wanted them to look good. Unlike most of the Protectorate models, these had a lot of bare flesh to paint up and that's always a challenge for me.

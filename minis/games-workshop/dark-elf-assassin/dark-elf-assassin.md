@@ -8,14 +8,16 @@ painted: 2001
 photos:
   - ./GW-DarkElfAssassin-Dankel_1.jpg
   - ./GW-DarkElfAssassin-Dankel_2.jpg
+race:
+  - elf
+archetype:
+  - rogue
 weapons:
   - dagger
   - sword
 armor:
   - cloak
   - clothing
-race:
-  - elf
 ---
 
 I originally painted up this figure to use in my Dark Elf Mordheim warband. I was really excited to be able to do him in the black scheme I had in mind; basecoat black, drybrush, and I'd be done! 🙂 The assassin's not perfect, but he was one of my favorite pieces in my collection at the time.

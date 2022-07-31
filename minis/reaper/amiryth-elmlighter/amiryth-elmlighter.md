@@ -10,6 +10,9 @@ photos:
   - ./Reaper2711-AmirythElmlighter-Dankel_1.jpg
 race:
   - elf
+archetype:
+  - fighter
+  - ranger
 weapons:
   - sword
   - bow

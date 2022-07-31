@@ -7,6 +7,8 @@ photos:
   - ./DarkAge-Warwind-Dankel.jpg
 race:
   - human
+archetype:
+  - ranger
 weapons:
   - sword
 armor:

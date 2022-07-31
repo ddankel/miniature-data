@@ -10,6 +10,9 @@ photos:
   - ./Chainmail-HumanShadowPriest-Dankel_2.jpg
 race:
   - human
+archetype:
+  - cleric
+  - paladin
 weapons:
   - mace
 armor:

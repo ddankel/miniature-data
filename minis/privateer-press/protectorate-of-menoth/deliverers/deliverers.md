@@ -20,6 +20,8 @@ weapons:
   - rocket pack
 race:
   - human
+archetype:
+  - artificer
 ---
 
 The Deliverers were one of the units I picked up and painted early on, but I only ever bought 6. I didn't see the need to play more than that in Mk I, and in Mk II I usually fielded other units anyway.

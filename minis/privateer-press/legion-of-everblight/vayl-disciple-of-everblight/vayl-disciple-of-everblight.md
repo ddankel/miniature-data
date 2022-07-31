@@ -15,6 +15,8 @@ photos:
 race:
   - dragonspawn
   - elf
+archetype:
+  - wizard
 weapons:
   - spell effect
 armor:

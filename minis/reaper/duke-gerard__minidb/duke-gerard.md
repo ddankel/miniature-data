@@ -6,14 +6,17 @@ line:
   - Bones
 photos:
   - ./Reaper77063-DukeGerard-Dankel.jpg
+race:
+  - human
+archetype:
+  - fighter
+  - paladin
 weapons:
   - sword
 armor:
   - plate
   - shield
   - cloak
-race:
-  - human
 recipes:
   - Armor
     - Base 2:1 GW Chainmail:Vallejo Gold

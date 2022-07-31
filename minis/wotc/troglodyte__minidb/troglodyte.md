@@ -7,9 +7,11 @@ line:
 status: prepainted
 photos:
   - ./DnDMiniatures-Troglodyte_1.jpg
-weapons:
-  - dagger
 race:
   - t'skrang
   - lizardfolk
+archetype:
+  - rogue
+weapons:
+  - dagger
 ---

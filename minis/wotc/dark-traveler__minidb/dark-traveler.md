@@ -7,13 +7,15 @@ line:
 painted: 2015
 photos:
   - ./DnDMiniatures-DarkTraveler.jpg
+race:
+  - human
+archetype:
+  - fighter
 weapons:
   - sword
 armor:
   - cloak
   - leather
   - shield
-race:
-  - human
 status: prepainted
 ---

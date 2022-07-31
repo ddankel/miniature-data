@@ -12,5 +12,8 @@ armor:
   - leather
 race:
   - elf
+archetype:
+  - rogue
+  - ranger
 status: prepainted
 ---

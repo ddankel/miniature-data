@@ -8,6 +8,8 @@ photos:
 quantity: 4
 race:
   - human
+archetype:
+  - fighter
 weapons:
   - axe
 armor:

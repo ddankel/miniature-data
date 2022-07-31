@@ -8,13 +8,16 @@ painted: 2004
 photos:
   - ./GW-MordheimMercSprue-Dankel_1.jpg
   - ./GW-MordheimMercSprue-Dankel_2.jpg
+race:
+  - human
+archetype:
+  - fighter
+  - ranger
 weapons:
   - bow
 armor:
   - cloak
   - leather
-race:
-  - human
 ---
 
 This miniature was assembled from various pieces of the Games Workshop Mordheim Mercenary plastic sprue. The face seems to have turned out well but the miniature is hardly perfect. It's difficult to see the black picking on the fletching from this angle, but it's there. The leather vest is obscured by shadows caused by my lighting - I wasn't able to fix that while photographing the miniature.

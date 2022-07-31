@@ -13,13 +13,16 @@ photos:
   - ./PP-WM-PoM-Choir-Dankel_3.jpg
   - ./PP-WM-PoM-Choir-Dankel_4.jpg
 quantity: 6
-armor:
-  - robe
+race:
+  - human
+archetype:
+  - cleric
+  - wizard
 weapons:
   - staff
   - scroll
-race:
-  - human
+armor:
+  - robe
 ---
 
 With the exception of the Mangled Metal format (which doesn't allow infantry, just jacks), I don't think I've ever fielded an army without the choir. They're just too good and too utilitarian for their points not to. So since they hit the table so often, they definitely needed to get painted. I started of with what has become my standard paint scheme for the Protectorate, throwing in the accent color on their sashes since according to their fluff they're warcasters in training.

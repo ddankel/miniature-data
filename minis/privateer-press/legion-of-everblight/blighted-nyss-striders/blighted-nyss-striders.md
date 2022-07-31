@@ -18,6 +18,9 @@ quantity: 8
 race:
   - dragonspawn
   - elf
+archetype:
+  - ranger
+  - rogue
 weapons:
   - bow
 armor:

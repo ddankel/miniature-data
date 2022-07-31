@@ -14,16 +14,18 @@ photos:
   - ./PP-Hordes-LoE-Warchief-Dankel_4.jpg
   - ./PP-Hordes-LoE-Warchief-Dankel_5.jpg
 quantity: 2
+race:
+  - dragonspawn
+  - troll
+  - ogre
+archetype:
+  - fighter
 weapons:
   - polearm
   - spear
 armor:
   - mail
   - plate
-race:
-  - dragonspawn
-  - troll
-  - ogre
 ---
 
 Enough time had past since I painted my initial Warmongers that I was worried about being able to match their skin tones, but the War Chiefs turned out pretty close when I was done with them. That's one of the biggest hurdle I've come cross as my Legion army grows - matching blends I did on previous models.

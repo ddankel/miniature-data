@@ -7,10 +7,13 @@ line:
 status: unpainted
 photos:
   - ./Confrontation-RedLionessConverted.jpg
+race:
+  - human
+archetype:
+  - fighter
+  - paladin
 weapons:
   - sword
 armor:
   - plate
-race:
-  - human
 ---

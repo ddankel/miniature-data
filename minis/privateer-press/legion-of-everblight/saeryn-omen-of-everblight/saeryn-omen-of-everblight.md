@@ -15,6 +15,9 @@ photos:
 race:
   - dragonspawn
   - elf
+archetype:
+  - rogue
+  - wizard
 weapons:
   - dagger
 armor:

@@ -19,6 +19,9 @@ quantity: 10
 race:
   - dragonspawn
   - elf
+archetype:
+  - fighter
+  - paladin
 weapons:
   - sword
 armor:

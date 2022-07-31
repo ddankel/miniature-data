@@ -6,11 +6,14 @@ line:
   - Griffins of Akkylannie
 photos:
   - ./Confrontation-Severian.jpg
+race:
+  - human
+archetype:
+  - fighter
+  - paladin
 weapons:
   - sword
 armor:
   - plate
-race:
-  - human
 status: prepainted
 ---

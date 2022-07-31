@@ -13,6 +13,9 @@ photos:
   - ./PP-WM-PoM-Reznik-Dankel_3.jpg
 race:
   - human
+archetype:
+  - fighter
+  - paladin
 weapons:
   - sword
 armor:

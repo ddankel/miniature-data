@@ -8,14 +8,17 @@ painted: 2003
 photos:
   - ./GW-HighElfShadowWarrior1-Dankel_1.jpg
   - ./GW-HighElfShadowWarrior1-Dankel_2.jpg
+race:
+  - elf
+archetype:
+  - fighter
+  - ranger
 weapons:
   - bow
   - sword
 armor:
   - cloak
   - mail
-race:
-  - elf
 ---
 
 Yup, yet another gaming miniature. This one was painted up to represent an elven ranger-turned-arcane archer in a old D&D 3.5 game. Traditionally I'm not a fan of the system, but a friend came up with a campaign world I liked that he wanted to run d20 in so I went along with it.

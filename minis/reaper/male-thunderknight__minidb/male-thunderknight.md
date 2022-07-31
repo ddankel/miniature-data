@@ -7,12 +7,15 @@ line:
 painted: June 2016 - July 1016
 photos:
   - ./Reaper77304-MaleThunderknight-Dankel.jpg
+race:
+  - human
+archetype:
+  - fighter
+  - paladin
 weapons:
   - hammer
 armor:
   - plate
-race:
-  - human
 recipes:
   - Outer Tabard
     - Base DC Burnt Sienna

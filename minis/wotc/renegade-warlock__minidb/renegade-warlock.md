@@ -6,12 +6,14 @@ line:
   - D&D Miniatures
 photos:
   - ./DnDMiniatures-RenegadeWarlock.jpg
+race:
+  - human
+archetype:
+  - wizard
 weapons:
   - staff
 armor:
   - robe
   - cloak
-race:
-  - human
 status: prepainted
 ---

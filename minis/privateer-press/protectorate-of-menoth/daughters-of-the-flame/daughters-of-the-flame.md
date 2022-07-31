@@ -14,12 +14,15 @@ photos:
   - ./PP-WM-PoM-DaughtersOfTheFlame-Dankel_4.jpg
   - ./PP-WM-PoM-DaughtersOfTheFlame-Dankel_5.jpg
 quantity: 6
+race:
+  - human
+archetype:
+  - fighter
+  - rogue
 armor:
   - plate
 weapons:
   - sword
-race:
-  - human
 ---
 
 The Daughters of the Flame, aka Menoth's Angels, were a relatively dainty unit to paint compared to the bulky knights and spearmen that are more common in the Protectorate army. But they fit together well and once I got them on my painting desk it I was able to work through them relatively easily.

@@ -10,6 +10,8 @@ photos:
   - ./WotC-HalfOrcAssassin-Dankel_2.jpg
 race:
   - half-orc
+archetype:
+  - rogue
 weapons:
   - sword
   - dagger

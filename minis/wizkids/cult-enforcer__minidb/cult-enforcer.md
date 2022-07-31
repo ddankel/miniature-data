@@ -7,12 +7,14 @@ line:
 photos:
   - ./MK-CultEnforcer-Dankel.jpg
 painted: 2015
+race:
+  - human
+archetype:
+  - fighter
 weapons:
   - hammer
 armor:
   - clothing
-race:
-  - human
 gallery:
   todo: true
 ---

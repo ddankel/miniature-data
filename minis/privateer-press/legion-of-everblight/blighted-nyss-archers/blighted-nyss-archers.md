@@ -18,6 +18,9 @@ quantity: 12
 race:
   - dragonspawn
   - elf
+archetype:
+  - fighter
+  - ranger
 weapons:
   - sword
   - bow

@@ -8,14 +8,17 @@ painted: 2010
 photos:
   - ./Reaper2834-DeladrinAssassin-Dankel_1.jpg
   - ./Reaper2834-DeladrinAssassin-Dankel_2.jpg
+race:
+  - human
+  - elf
+archetype:
+  - rogue
+  - ranger
 weapons:
   - sword
 armor:
   - leather
   - cloak
-race:
-  - human
-  - elf
 ---
 
 I've shown Deladrin a while back in a previous post but never got around to posting the finished version. Only about four years later, no biggie right?

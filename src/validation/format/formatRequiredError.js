@@ -24,7 +24,7 @@ const chalk = require("chalk");
  *        sku: '73410 Female Elf Fighter',
  *        line: [Array],
  *        status: 'wip',
- *        ssphotos: [Array],
+ *        photos: [Array],
  *        weapons: [Array],
  *        armor: [Array],
  *        race: [Array],

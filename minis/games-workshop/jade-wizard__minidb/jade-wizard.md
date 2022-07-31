@@ -7,14 +7,18 @@ line:
 painted: June 2016
 photos:
   - ./GW-JadeWizard-Dankel_1.jpg
+race:
+  - human
+archetype:
+  - wizard
+  - druid
+  - cleric
 weapons:
   - staff
   - scythe
 armor:
   - robe
   - cloak
-race:
-  - human
 recipes:
   - Robe
     - P3 Gnarls Green base

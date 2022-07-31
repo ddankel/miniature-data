@@ -12,5 +12,7 @@ armor:
   - leather
 race:
   - human
+archetype:
+  - fighter
 status: prepainted
 ---

@@ -8,10 +8,13 @@ status: unassembled
 photos:
   - ./Confrontation-RedLionessMounted.jpg
   - ./Confrontation-RedLionessMounted_Studio.jpg
+race:
+  - human
+archetype:
+  - fighter
+  - paladin
 weapons:
   - sword
 armor:
   - plate
-race:
-  - human
 ---

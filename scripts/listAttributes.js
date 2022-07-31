@@ -15,7 +15,7 @@ const attributeDictionary = {};
  *
  * An array of valid values will be created for each of the following
  */
-const indexableAttributes = ["weapons", "armor", "race", "status"];
+const indexableAttributes = ["race", "archetype", "weapons", "armor", "status"];
 indexableAttributes.forEach((attributeName) => {
   attributeDictionary[attributeName] = indexAttribute(attributeName, allMarkdownFiles);
 });

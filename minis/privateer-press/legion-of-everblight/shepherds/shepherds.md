@@ -13,6 +13,9 @@ photos:
 quantity: 2
 race:
   - elf
+archetype:
+  - wizard
+  - cleric
 weapons:
   - staff
   - polearm

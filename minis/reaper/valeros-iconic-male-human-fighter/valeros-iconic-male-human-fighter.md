@@ -12,6 +12,9 @@ photos:
   - ./Reaper6001-ValerosIconicMaleHumanFighter-Dankel_4.jpg
 race:
   - human
+archetype:
+  - fighter
+  - ranger
 weapons:
   - sword
   - dagger

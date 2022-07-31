@@ -10,6 +10,8 @@ photos:
   - ./Reaper14094-TariqDuneRangerSergeant-Dankel_2.jpg
 race:
   - human
+archetype:
+  - fighter
 weapons:
   - sword
 armor:

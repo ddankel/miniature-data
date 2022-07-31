@@ -9,14 +9,17 @@ line:
 status: unassembled
 photos:
   - ./72051_StoneKeeper_WEB__47505.1600874819.jpg
+race:
+  - human
+  - elf
+archetype:
+  - wizard
+  - druid
 weapons:
   - staff
   - polearm
 armor:
   - clothing
   - plate
-race:
-  - human
-  - elf
 quantity: 1
 ---

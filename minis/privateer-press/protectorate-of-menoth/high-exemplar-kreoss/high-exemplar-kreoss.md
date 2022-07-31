@@ -13,6 +13,10 @@ photos:
   - ./PP-WM-PoM-Kreoss-Dankel_3.jpg
 race:
   - human
+archetype:
+  - fighter
+  - cleric
+  - paladin
 weapons:
   - polearm
   - mace

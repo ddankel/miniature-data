@@ -9,10 +9,13 @@ line:
 status: unassembled
 photos:
   - ./WM-Skorne-Immortals.png
-weapons:
-  - sword
 race:
   - golem
   - obsidiman
+archetype:
+  - fighter
+  - paladin
+weapons:
+  - sword
 quantity: 2
 ---

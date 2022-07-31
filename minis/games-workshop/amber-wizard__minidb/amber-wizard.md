@@ -6,13 +6,17 @@ line:
   - Warhammer
 photos:
   - ./GW-AmberWizard.jpg
+race:
+  - human
+archetype:
+  - wizard
+  - cleric
+  - druid
 weapons:
   - claw
   - staff
 armor:
   - cloak
   - clothing
-race:
-  - human
 status: unpainted
 ---

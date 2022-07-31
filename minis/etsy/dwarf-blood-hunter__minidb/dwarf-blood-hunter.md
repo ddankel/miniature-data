@@ -7,11 +7,14 @@ line:
 status: unassembled
 photos:
   - ./dwarf-blood-hunter.jpg
+race:
+  - dwarf
+archetype:
+  - fighter
+  - rogue
 weapons:
   - sword
 armor:
   - leather
-race:
-  - dwarf
 quantity: 1
 ---

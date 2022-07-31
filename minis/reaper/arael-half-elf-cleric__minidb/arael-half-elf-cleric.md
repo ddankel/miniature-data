@@ -8,6 +8,9 @@ photos:
   - ./Reaper60005-AraelHalfElfCleric-Dankel.jpg
 race:
   - elf
+archetype:
+  - fighter
+  - rogue
 weapons:
   - sword
 armor:

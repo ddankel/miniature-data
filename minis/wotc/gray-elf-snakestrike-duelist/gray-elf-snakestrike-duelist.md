@@ -10,6 +10,8 @@ photos:
   - ./Chainmail-GrayElfSnakeStrikeDuelist-Dankel_2.jpg
 race:
   - elf
+archetype:
+  - fighter
 weapons:
   - chain weapon
 armor:

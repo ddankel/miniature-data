@@ -6,9 +6,11 @@ line:
   - Warhammer
 photos:
   - ./GW-LizardmenSkinkSkirmisher-Dankel_1.jpg
-weapons:
-  - bow
 race:
   - t'skrang
   - lizardfolk
+archetype:
+  - rogue
+weapons:
+  - bow
 ---

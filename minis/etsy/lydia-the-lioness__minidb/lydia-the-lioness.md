@@ -7,11 +7,14 @@ line:
 status: unassembled
 photos:
   - ./lydia-the-lioness.jpg
+race:
+  - human
+archetype:
+  - fighter
+  - paladin
 weapons:
   - sword
 armor:
   - plate
-race:
-  - human
 quantity: 1
 ---

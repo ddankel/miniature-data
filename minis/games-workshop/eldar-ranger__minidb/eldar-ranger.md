@@ -7,10 +7,12 @@ line:
 photos:
   - ./EldarRanger-Dankel_1.jpg
   - ./EldarRanger-Dankel_2.jpg
+race:
+  - human
+archetype:
+  - fighter
 weapons:
   - rifle
 armor:
   - clothing
-race:
-  - human
 ---

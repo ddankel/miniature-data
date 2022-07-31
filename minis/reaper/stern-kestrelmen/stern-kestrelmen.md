@@ -10,6 +10,9 @@ photos:
   - ./Reaper3324-SternKestrelmen-Dankel_2.jpg
 weapons:
   - hammer
+archetype:
+  - fighter
+  - paladin
 armor:
   - shield
   - cloak

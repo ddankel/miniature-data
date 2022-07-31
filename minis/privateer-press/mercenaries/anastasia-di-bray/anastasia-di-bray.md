@@ -12,6 +12,8 @@ photos:
   - ./PP-WM-Merc-Anastasia-Dankel_2.jpg
 race:
   - human
+archetype:
+  - rogue
 weapons:
   - sword
   - dagger

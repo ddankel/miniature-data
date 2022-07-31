@@ -11,6 +11,9 @@ photos:
   - ./Reaper2725-AlaineFemalePaladin-Dankel_2.jpg
 race:
   - human
+archetype:
+  - fighter
+  - paladin
 weapons:
   - sword
 armor:

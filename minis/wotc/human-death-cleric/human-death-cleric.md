@@ -12,6 +12,8 @@ photos:
   - ./Chainmail-HumanDeathCleric-Dankel_4.jpg
 race:
   - human
+archetype:
+  - fighter
 weapons:
   - sword
 armor:

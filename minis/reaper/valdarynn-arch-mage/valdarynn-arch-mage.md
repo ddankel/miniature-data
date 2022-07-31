@@ -11,6 +11,8 @@ photos:
   - ./Reaper2591-ValdarynnArchMage-Dankel_3.jpg
 race:
   - human
+archetype:
+  - wizard
 weapons:
   - book
   - spell effect

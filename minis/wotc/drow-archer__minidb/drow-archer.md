@@ -8,6 +8,9 @@ photos:
   - ./Chainmail-DrowArcher-Dankel.jpg
 race:
   - elf
+archetype:
+  - rogue
+  - ranger
 weapons:
   - bow
 armor:

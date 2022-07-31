@@ -10,6 +10,9 @@ photos:
   - ./Chainmail-GrayElfDuelist-Dankel_2.jpg
 race:
   - elf
+archetype:
+  - fighter
+  - rogue
 weapons:
   - sword-staff
   - dagger

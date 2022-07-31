@@ -7,13 +7,15 @@ painted: 2004
 photos:
   - ./RalPartha-Priest-Dankel_1.jpg
   - ./RalPartha-Priest-Dankel_2.jpg
+race:
+  - human
+archetype:
+  - cleric
 weapons:
   - mace
 armor:
   - robe
   - mail
-race:
-  - human
 ---
 
 Way back before I started paitning miniatures seriously I picked up a couple of Ral Parhta's character progression figure packs as a cheap way to pad my collection for RPG use. Each pack had three models with a similar feel to them but at various stages of progression. This model came from the cleric pack, which had a robed, staff-carrying priest, this figure, then a platemail-clad hammer toting warpriest. The others got painted quickly as I was learning the basics, but I painted up the Priest here years later as an experiment in a couple techniques.
