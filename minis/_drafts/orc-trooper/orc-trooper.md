@@ -1,5 +1,5 @@
 ---
-slug: miniature-template
+slug: orc-trooper
 name: Miniature Template
 line:
   - Manufacturer

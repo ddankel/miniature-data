@@ -1,5 +1,5 @@
 ---
-slug: miniature-template
+slug: half-dragon-mage
 name: Miniature Template
 line:
   - Manufacturer

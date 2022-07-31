@@ -13,6 +13,8 @@ const validValues = {
     "lupine",
     "obsidiman",
     "ogre",
+    "ratfolk",
+    "skaven",
     "stonechild",
     "tabaxi",
     "t'skrang",

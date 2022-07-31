@@ -1,5 +1,5 @@
 ---
-slug: miniature-template
+slug: bugbear-trooper
 name: Miniature Template
 line:
   - Manufacturer

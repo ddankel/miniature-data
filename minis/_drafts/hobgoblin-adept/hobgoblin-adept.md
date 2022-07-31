@@ -1,5 +1,5 @@
 ---
-slug: miniature-template
+slug: hobgoblin-adept
 name: Miniature Template
 line:
   - Manufacturer
