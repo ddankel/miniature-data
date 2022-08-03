@@ -1,5 +1,6 @@
 const validValues = {
   race: [
+    "bugbear",
     "draconian",
     "dragonspawn",
     "dwarf",
@@ -8,11 +9,13 @@ const validValues = {
     "golem",
     "half-orc",
     "halfling",
+    "hobgoblin",
     "human",
     "lizardfolk",
     "lupine",
     "obsidiman",
     "ogre",
+    "orc",
     "ratfolk",
     "skaven",
     "stonechild",
@@ -36,7 +39,6 @@ const validValues = {
   ],
   weapons: [
     "axe",
-    "book",
     "bow",
     "chain weapon",
     "claw",
@@ -61,6 +63,7 @@ const validValues = {
     "standard",
     "sword",
     "sword-staff",
+    "tome",
   ],
   armor: ["cloak", "clothing", "leather", "mail", "plate", "powered armor", "robe", "shield"],
   status: ["prepainted", "unpainted", "wip", "painted", "unassembled", undefined],
