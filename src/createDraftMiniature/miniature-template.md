@@ -1,6 +1,6 @@
 ---
 slug: miniature-template
-name: Miniature Template
+name: 0 Miniature Template
 line:
   - Manufacturer
   - Line

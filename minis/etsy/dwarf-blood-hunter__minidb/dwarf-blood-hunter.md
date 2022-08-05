@@ -1,6 +1,6 @@
 ---
 slug: dwarf-blood-hunter
-name: Miniature Template
+name: Dwarf Blood Hunter
 line:
   - Etsy
   - The Lion's Tower Adventurers Guild
@@ -16,5 +16,4 @@ weapons:
   - sword
 armor:
   - leather
-quantity: 1
 ---
