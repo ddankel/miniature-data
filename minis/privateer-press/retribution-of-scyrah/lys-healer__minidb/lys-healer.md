@@ -8,7 +8,10 @@ line:
   - Retribution of Scyrah
 status: unassembled
 photos:
-  - ./280px-Lys_Healer.jpg
+  - ./LysHealer_Studio.jpg
+  - ./LysHealer_1.jpg
+  - ./LysHealer_2.jpg
+  - ./LysHealer_3.jpg
 race:
   - elf
 archetype:
