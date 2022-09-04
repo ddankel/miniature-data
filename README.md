@@ -10,7 +10,7 @@ A npm package would also serve this purpose but a submodule can be edited and up
 
 ## Development Scripts
 
-A collection of development scripts are available to view and display miniature data. See [readme/scripts.md](./readme/scripts.md) for complete documentation.
+This data was originally used to power a [Jekyll](https://jekyllrb.com/)-powered site. Since [Gatsby](https://www.gatsbyjs.com/)'s frontmatter requirements were more strict a few development scripts were created to aid in validation and aggregation. Further scripts were later added to check statuses and find items marked as 'todo'. See [readme/scripts.md](./readme/scripts.md) for complete documentation.
 
 ```json
 "scripts": {
