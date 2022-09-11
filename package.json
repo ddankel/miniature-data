@@ -13,7 +13,7 @@
     "status": "node ./scripts/status",
     "todo": "node ./scripts/todo"
   },
-  "dependencies": {
+  "devDependencies": {
     "ajv": "^8.11.0",
     "chalk": "~4.1.0 <5.0.0",
     "front-matter": "^4.0.2"
