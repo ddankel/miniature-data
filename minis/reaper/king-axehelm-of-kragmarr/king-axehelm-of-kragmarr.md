@@ -18,5 +18,5 @@ armor:
   - cloak
   - shield
   - plate
-  - chain
+  - mail
 ---
