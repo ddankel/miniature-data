@@ -18,5 +18,4 @@ weapons:
   - sword
 armor:
   - plate
-  - shield
 ---
