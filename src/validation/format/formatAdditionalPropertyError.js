@@ -51,8 +51,10 @@ const chalk = require("chalk");
  * @param  {Object}   error
  */
 const formatAdditionalPropertyError = (error) => {
-  output = `    ${chalk.red("invalid")} field ${chalk.red(error.params.additionalProperty)}`;
-  console.log(output);
+  const unexpected = chalk.red("unexpected");
+  const fieldName = chalk.red(error.params.additionalProperty);
+
+  console.log(`    ${unexpected} field ${fieldName}`);
 };
 
 module.exports = formatAdditionalPropertyError;

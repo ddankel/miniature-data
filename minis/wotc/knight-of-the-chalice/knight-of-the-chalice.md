@@ -19,11 +19,11 @@ armor:
   - cloak
   - plate
   - shield
-gallery:
-  todo: true
 recipes:
   - Cloak
     - Delta Ceramcoat Medium Victorian Teal
     - Shade w/ DC Dark Victorian Teal + Black mix
     - Highlight base + White
+gallery:
+  status: todo
 ---

@@ -1,6 +1,3 @@
-const exclusions = {
-  nonGallery: ["**/*minidb*/**", "**/_drafts/**", "**/_archive/**"],
-  nonMiniDB: ["**/*gallery*/**", "**/_drafts/**", "**/_archive/**"],
-};
+const exclusions = ["**/_archive/**"];
 
 module.exports = exclusions;

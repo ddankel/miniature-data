@@ -15,15 +15,19 @@ const displayErrors = (file, errors) => {
   errors.forEach((error) => {
     switch (error.keyword) {
       case "required":
+        // Missing field
         formatRequiredError(error);
         break;
       case "additionalProperties":
+        // Unexpected additional field
         formatAdditionalPropertyError(error);
         break;
       case "enum":
+        // Invalid value for valid field
         formatAllowedValuesError(error);
         break;
       case "type":
+        // Invalid type for valid field
         formatTypeError(error);
         break;
       default:

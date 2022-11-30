@@ -22,11 +22,11 @@ const chalk = require("chalk");
  * @param  {Object}   error
  */
 const formatTypeError = (error) => {
+  const invalid = chalk.red("invalid");
   const fieldName = chalk.whiteBright(error.schemaPath.split("/")[2]);
   const expectedType = chalk.whiteBright(error.schema);
 
-  output = `    ${chalk.red("invalid")} type for field ${fieldName}, expected ${expectedType} `;
-  console.log(output);
+  console.log(`    ${invalid} type for field ${fieldName}, expected ${expectedType} `);
 };
 
 module.exports = formatTypeError;

@@ -79,8 +79,19 @@ const schema = {
     minidb: {
       type: "object",
       properties: {
-        todo: {
-          type: "boolean",
+        status: {
+          type: "string",
+          enum: validValues.minidb.status,
+        },
+      },
+      additionalProperties: false,
+    },
+    gallery: {
+      type: "object",
+      properties: {
+        status: {
+          type: "string",
+          enum: validValues.minidb.status,
         },
       },
       additionalProperties: false,

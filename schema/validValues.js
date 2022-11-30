@@ -66,7 +66,13 @@ const validValues = {
     "tome",
   ],
   armor: ["cloak", "clothing", "leather", "mail", "plate", "powered armor", "robe", "shield"],
-  status: ["prepainted", "unpainted", "wip", "painted", "unassembled", undefined],
+  status: ["prepainted", "unpainted", "wip", "painted", "unassembled"],
+  minidb: {
+    status: ["hidden", "draft", "todo", "published"],
+  },
+  gallery: {
+    status: ["hidden", "draft", "todo", "published"],
+  },
 };
 
 module.exports = validValues;

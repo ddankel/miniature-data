@@ -18,4 +18,8 @@ weapons:
 armor:
   - optional
 quantity: 1
+minidb:
+  status: draft
+gallery:
+  status: draft
 ---

@@ -31,10 +31,11 @@ const chalk = require("chalk");
  * @param  {Object}   error
  */
 const formatAllowedValuesError = (error) => {
-  output = `    ${chalk.red("invalid")} value ${chalk.red(
-    error.data
-  )} for field ${chalk.whiteBright(error.schemaPath.split("/")[2])} `;
-  console.log(output);
+  const invalid = chalk.red("invalid");
+  const value = chalk.red(error.data);
+  const fieldName = chalk.whiteBright(error.schemaPath.split("/")[2]);
+
+  console.log(`    ${invalid} value ${value} for field ${fieldName} `);
 };
 
 module.exports = formatAllowedValuesError;

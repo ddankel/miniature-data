@@ -39,23 +39,12 @@ module.exports = {
   plugins: [
     // ...
 
-    // Gallery
     {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "minis", // Or change as needed
         path: "./vendor/miniature-data/minis",
-        ignore: [...exclusions.nonGallery],
-      },
-    },
-
-    // MiniDB
-    {
-      resolve: "gatsby-source-filesystem",
-      options: {
-        name: "minis", // Or change as needed
-        path: "./vendor/miniature-data/minis",
-        ignore: [...exclusions.nonMiniDb],
+        ignore: [...exclusions],
       },
     },
 

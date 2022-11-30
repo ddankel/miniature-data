@@ -10,8 +10,8 @@ const printStatus = (mini, slugPadToLength) => {
   const segments = [
     `   ${mini.slug.padEnd(slugPadToLength, ".")}..`,
     paintedLabel(mini.status),
-    `gallery: ${statusLabel(mini.gallery)}`,
     `minidb: ${statusLabel(mini.minidb)}`,
+    `gallery: ${statusLabel(mini.gallery)}`,
   ];
   console.log(segments.join("   "));
 };

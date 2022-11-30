@@ -38,8 +38,10 @@ const chalk = require("chalk");
  * @param  {Object}   error
  */
 const formatRequiredError = (error) => {
-  output = `    ${chalk.red("missing")} field ${chalk.red(error.params.missingProperty)}`;
-  console.log(output);
+  const missing = chalk.red("missing");
+  const fieldName = chalk.red(error.params.missingProperty);
+
+  console.log(`    ${missing} field ${fieldName}`);
 };
 
 module.exports = formatRequiredError;
