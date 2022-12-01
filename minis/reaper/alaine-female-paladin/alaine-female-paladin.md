@@ -19,7 +19,7 @@ weapons:
 armor:
   - plate
 minidb:
-  status: draft
+  status: published
 ---
 
 My wife picked this miniature out to represent her Earthdawn character - a Dinganni Warrior. The Dinganni are a darker skinned people, so the skintone on this one is a little darker than what I usually do.

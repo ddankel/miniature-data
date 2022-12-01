@@ -17,7 +17,7 @@ armor:
   - plate
 status: wip
 minidb:
-  status: todo
+  status: published
 gallery:
   status: draft
 ---
