@@ -6,8 +6,9 @@ line:
   - Dark Heaven Legends
 painted: 2016
 photos:
-  - ./Reaper77093-DragoVossMaleAssassin-Dankel_1.jpg
-  - ./Reaper77093-DragoVossMaleAssassin-Dankel_2.jpg
+  - ./Reaper-3647-DragoVossAssassin-Dankel_1.jpg
+  - ./Reaper-3647-DragoVossAssassin-Dankel_2.jpg
+  - ./Reaper-3647-DragoVossAssassin-Dankel_3.jpg
 race:
   - human
 archetype:

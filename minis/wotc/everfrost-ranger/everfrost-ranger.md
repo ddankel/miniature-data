@@ -6,7 +6,8 @@ line:
   - D&D Miniatures
 painted: Feb 2015
 photos:
-  - ./DnDMiniatures-EverfrostRanger-Dankel.jpg
+  - ./DnDMiniatures-EverfrostRanger-Dankel_1.jpg
+  - ./DnDMiniatures-EverfrostRanger-Dankel_2.jpg
 race:
   - human
 archetype:

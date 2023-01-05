@@ -6,7 +6,10 @@ line:
   - Bones
 painted: June 2016 - July 1016
 photos:
-  - ./Reaper77304-MaleThunderknight-Dankel.jpg
+  - ./Reaper-77304-MaleThunderknight-Dankel_1.jpg
+  - ./Reaper-77304-MaleThunderknight-Dankel_2.jpg
+  - ./Reaper-77304-MaleThunderknight-Dankel_3.jpg
+  - ./Reaper-77304-MaleThunderknight-Dankel_4.jpg
 race:
   - human
 archetype:

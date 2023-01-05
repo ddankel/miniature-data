@@ -6,7 +6,8 @@ line:
   - D&D Miniatures
 painted: "2015"
 photos:
-  - ./DnDMiniatures-KnightOfTheChalice-Dankel.jpg
+  - ./DnDMiniatures-KnightOfTheChalice-Dankel_1.jpg
+  - ./DnDMiniatures-KnightOfTheChalice-Dankel_2.jpg
   - ./DnDMiniatures-KnightOfTheChalice_orig.jpg
 race:
   - elf

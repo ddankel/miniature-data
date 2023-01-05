@@ -4,9 +4,11 @@ name: King Axehelm of Kragmarr
 line:
   - Reaper Miniatures
   - Warlord
-status: wip
+status: painted
+painted: July 2022
 photos:
-  - ./KingAxehelm.jpg
+  - ./Reaper-14561-KingAxehelmOfKragmarr-Dankel_1.jpg
+  - ./Reaper-14561-KingAxehelmOfKragmarr-Dankel_2.jpg
 race:
   - dwarf
 archetype:

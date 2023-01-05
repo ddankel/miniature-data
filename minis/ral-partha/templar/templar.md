@@ -5,7 +5,8 @@ line:
   - Ral Partha
 painted: May 2016 - June 2016
 photos:
-  - ./RalPartha-Templar-Dankel.jpg
+  - ./RalPartha-Templar-Dankel_1.jpg
+  - ./RalPartha-Templar-Dankel_2.jpg
 race:
   - human
 archetype:

@@ -5,7 +5,8 @@ line:
   - Games Workshop
   - Warhammer
 photos:
-  - ./GW-GoldWizard-Dankel_1.jpg
+  - ./GW-EmpireGoldWizard-Dankel_1.jpg
+  - ./GW-EmpireGoldWizard-Dankel_2.jpg
 race:
   - human
 archetype:

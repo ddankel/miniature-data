@@ -5,7 +5,8 @@ line:
   - Heartbreaker Hobbies
   - "Magic: The Gathering"
 photos:
-  - ./Heartbreaker-HolyArmorKnight-Dankel.jpg
+  - ./Heartbreaker-HolyArmorKnight-Dankel_1.jpg
+  - ./Heartbreaker-HolyArmorKnight-Dankel_2.jpg
 race:
   - human
 archetype:

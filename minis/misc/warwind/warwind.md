@@ -4,7 +4,8 @@ name: Warwind
 line:
   - Dark-Age
 photos:
-  - ./DarkAge-Warwind-Dankel.jpg
+  - ./DarkAge-Warwind-Dankel_1.jpg
+  - ./DarkAge-Warwind-Dankel_2.jpg
 race:
   - human
 archetype:

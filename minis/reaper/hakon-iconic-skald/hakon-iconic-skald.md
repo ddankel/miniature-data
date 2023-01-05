@@ -4,9 +4,10 @@ name: Hakon, Iconic Skald
 line:
   - Reaper Miniatures
   - Pathfinder
-painted: November 2020
+painted: November 2021
 photos:
-  - ./Reaper60182-HakonIconicSkald-Dankel_wip.jpg
+  - ./Reaper-60182-HakonIconicSkald-Dankel_1.jpg
+  - ./Reaper-60182-HakonIconicSkald-Dankel_2.jpg
 race:
   - human
 archetype:
@@ -17,7 +18,12 @@ weapons:
   - instrument
 armor:
   - clothing
-status: wip
 gallery:
   status: hidden
+recipes:
+  - Robes
+    - P3 Gnarls Green/Citadel STraken Green 1:1
+  - Under layer
+    - AB Goosefeather
+    - Shade P3 Cryx Bane highlight
 ---

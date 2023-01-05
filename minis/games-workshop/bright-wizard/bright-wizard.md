@@ -5,7 +5,9 @@ line:
   - Games Workshop
   - Warhammer
 photos:
-  - ./BrightWizard-Dankel.jpg
+  - ./GW-BrightWizard-Dankel_1.jpg
+  - ./GW-BrightWizard-Dankel_2.jpg
+  - ./GW-BrightWizard-Dankel_3.jpg
 race:
   - human
 archetype:

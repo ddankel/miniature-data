@@ -4,8 +4,10 @@ name: Severian
 line:
   - Confrontation
   - Griffins of Akkylannie
+painted: July 2022
 photos:
-  - ./Confrontation-Severian.jpg
+  - ./Confrontation-Griffons-Severian-Dankel_1.jpg
+  - ./Confrontation-Griffons-Severian-Dankel_2.jpg
 race:
   - human
 archetype:
@@ -15,9 +17,8 @@ weapons:
   - sword
 armor:
   - plate
-status: wip
 minidb:
   status: published
 gallery:
-  status: draft
+  status: todo
 ---

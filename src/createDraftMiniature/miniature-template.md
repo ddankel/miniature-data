@@ -7,8 +7,8 @@ line:
 status: prepainted
 painted: ?? - ??
 photos:
-  - ./Line-MiniatureName-Dankel_1.jpg
   - ../../missing-image.png
+  - ./Line-MiniatureName-Dankel_1.jpg
 race:
   - optional
 archetype:

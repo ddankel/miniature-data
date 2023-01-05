@@ -6,7 +6,8 @@ line:
   - D&D Miniatures
 painted: Nov 2021
 photos:
-  - ./DnDMiniatures-BaazDraconian.jpg
+  - ./DnDMiniatures-BaazDraconian-Dankel_1.jpg
+  - ./DnDMiniatures-BaazDraconian-Dankel_2.jpg
 race:
   - draconian
   - lizardfolk

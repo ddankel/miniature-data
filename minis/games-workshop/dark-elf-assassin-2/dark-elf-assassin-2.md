@@ -6,7 +6,8 @@ line:
   - Warhammer
 painted: April 2016 - June 2016
 photos:
-  - ./DarkElfAssassin-Dankel.jpg
+  - ./GW-DarkElfAssassin2-Dankel_1.jpg
+  - ./GW-DarkElfAssassin2-Dankel_2.jpg
 race:
   - elf
 archetype:

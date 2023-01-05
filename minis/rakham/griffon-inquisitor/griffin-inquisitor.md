@@ -7,8 +7,10 @@ line:
 status: painted
 painted: 2003
 photos:
-  - ./Confrontation-GriffonInquisitor-Dankel_1.jpg
-  - ./Confrontation-GriffonInquisitor-Dankel_2.jpg
+  - ./Confrontation-Griffon-Inquisitor-Dankel_1.jpg
+  - ./Confrontation-Griffon-Inquisitor-Dankel_2.jpg
+  - ./Confrontation-Griffon-Inquisitor-Dankel_3.jpg
+  - ./Confrontation-Griffon-Inquisitor-Dankel_4.jpg
 race:
   - human
 archetype:

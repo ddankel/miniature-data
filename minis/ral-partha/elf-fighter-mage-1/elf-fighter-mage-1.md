@@ -4,7 +4,8 @@ name: Elf Fighter Mage
 line:
   - Ral Partha
 photos:
-  - ./RalPartha-ElfFighterMage1-Dankel.jpg
+  - ./RalParth-ElfFigherMage-1-Dankel_1.jpg
+  - ./RalParth-ElfFigherMage-1-Dankel_2.jpg
 race:
   - elf
 archetype:

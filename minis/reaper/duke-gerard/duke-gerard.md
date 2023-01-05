@@ -5,7 +5,8 @@ line:
   - Reaper Miniatures
   - Bones
 photos:
-  - ./Reaper77063-DukeGerard-Dankel.jpg
+  - ./Reaper-77063-DukeGerard-Dankel_1.jpg
+  - ./Reaper-77063-DukeGerard-Dankel_2.jpg
 race:
   - human
 archetype:

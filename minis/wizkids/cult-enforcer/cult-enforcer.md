@@ -5,7 +5,8 @@ line:
   - WizKids
   - Mage Knight
 photos:
-  - ./MK-CultEnforcer-Dankel.jpg
+  - ./MK-CultEnforcer-Dankel_1.jpg
+  - ./MK-CultEnforcer-Dankel_2.jpg
 painted: 2015
 race:
   - human

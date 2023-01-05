@@ -4,7 +4,7 @@ name: Elf Swordsman
 line:
   - Celtos
 photos:
-  - ./Celtos-ElfSwordsman-Dankel.jpg
+  - ./Celtos-ElfSwordsman-Dankel_1.jpg
 race:
   - elf
 archetype:

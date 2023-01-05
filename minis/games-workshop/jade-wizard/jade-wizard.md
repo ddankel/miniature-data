@@ -6,7 +6,8 @@ line:
   - Warhammer
 painted: June 2016
 photos:
-  - ./GW-JadeWizard-Dankel_1.jpg
+  - ./GW-EmpireJadeWizard-Dankel_1.jpg
+  - ./GW-EmpireJadeWizard-Dankel_2.jpg
 race:
   - human
 archetype:
