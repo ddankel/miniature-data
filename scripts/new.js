@@ -8,7 +8,7 @@ if (!draftsToCreate.length) {
   console.log("Examples:");
   console.log("  yarn new single-miniature");
   console.log("  yarn new first-mini second-mini third-mini");
-  return;
+  process.exit(1);
 }
 
 draftsToCreate.forEach((item) => createDraftMiniature(item));
