@@ -2,7 +2,7 @@
 slug: valeen-female-blade-dancer
 name: Valeen, Female Blade Dancer
 line:
-  - Etsy
+  - Resin Printed
   - RN Estudio
 status: unassembled
 photos:
