@@ -4,7 +4,6 @@ name: Lady Aiyana and Master Holt
 sku: Lady Aiyana and Master Holt, Mercenary Unit
 line:
   - Privateer Press
-  - Warmachine
   - Mercenaries
 painted: 2008
 photos:

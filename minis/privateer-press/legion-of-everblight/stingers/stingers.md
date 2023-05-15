@@ -4,7 +4,6 @@ name: Stingers
 sku: Stingers, Legion Lesser Warbeast
 line:
   - Privateer Press
-  - Hordes
   - Legion of Everblight
 status: painted
 painted: ?? - 2022

@@ -4,7 +4,6 @@ name: Dervish
 sku: Dervish, Protectorate Light Warjack
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2007
 photos:

@@ -4,7 +4,6 @@ name: Strider Deathstalker
 sku: Strider Deathstalker, Legion Solo
 line:
   - Privateer Press
-  - Hordes
   - Legion of Everblight
 painted: 2009
 photos:

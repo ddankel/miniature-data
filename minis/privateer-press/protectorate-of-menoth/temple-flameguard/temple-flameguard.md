@@ -4,7 +4,6 @@ name: Temple Flameguard
 sku: Temple Flameguard, Protectorate Unit
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2006, 2007
 photos:

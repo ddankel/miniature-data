@@ -4,7 +4,6 @@ name: Thagrosh the Messiah
 sku: Thagrosh the Messiah, Legion Warlock
 line:
   - Privateer Press
-  - Hordes
   - Legion of Everblight
 painted: 2009
 photos:

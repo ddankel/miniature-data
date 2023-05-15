@@ -4,7 +4,6 @@ name: Lylyth, Shadow of Everblight
 sku: Lylyth, Shadow of Everblight, Legion Warlock
 line:
   - Privateer Press
-  - Hordes
   - Legion of Everblight
 painted: 2008
 photos:

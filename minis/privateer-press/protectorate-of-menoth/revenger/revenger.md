@@ -4,7 +4,6 @@ name: Revenger
 sku: Revenger, Protectorate Light Warjack
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2004, 2007
 photos:

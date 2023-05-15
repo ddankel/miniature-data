@@ -4,7 +4,6 @@ name: Rhupert Carvolo, Piper of Ord
 sku: Rhupert Carvolo, Piper of Ord, Mercenary Solo
 line:
   - Privateer Press
-  - Warmachine
   - Mercenaries
 painted: 2006
 photos:

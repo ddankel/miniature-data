@@ -4,7 +4,6 @@ name: Teraph
 sku: Teraph, Legion Light Warbeast
 line:
   - Privateer Press
-  - Hordes
   - Legion of Everblight
 painted: 2007
 photos:

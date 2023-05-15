@@ -4,7 +4,6 @@ name: High Exemplar Gravus
 sku: High Exemplar Gravus, Protectorate Solo
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2009
 photos:

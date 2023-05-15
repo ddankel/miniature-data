@@ -4,7 +4,6 @@ name: Grand Scrutator Severius
 sku: Grand Scrutator Severius, Protectorate Warcaster
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2006
 photos:

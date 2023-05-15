@@ -4,7 +4,6 @@ name: Gudrun the Wanderer
 sku: Gudrun the Wanderer, Minion Solo
 line:
   - Privateer Press
-  - Hordes
   - Minions
 painted: 2008
 photos:

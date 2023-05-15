@@ -4,7 +4,6 @@ name: Blighted Nyss Raptors
 sku: Blighted Nyss Raptors, Legion Unit
 line:
   - Privateer Press
-  - Hordes
   - Legion of Everblight
 painted: 2008
 photos:

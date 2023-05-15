@@ -4,7 +4,6 @@ name: Forsaken
 sku: Forsaken, Legion Solo
 line:
   - Privateer Press
-  - Hordes
   - Legion of Everblight
 painted: 2007
 photos:

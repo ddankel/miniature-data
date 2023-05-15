@@ -4,7 +4,6 @@ name: Morvahna the Autumnblade
 sku: Morvahna the Autumnblade, Circle Warlock
 line:
   - Privateer Press
-  - Hordes
   - Circle Orboros
 painted: 2007
 photos:

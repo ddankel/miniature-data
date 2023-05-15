@@ -4,7 +4,6 @@ name: The High Reclaimer
 sku: The High Reclaimer, Protectorate Warcaster
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2006
 photos:

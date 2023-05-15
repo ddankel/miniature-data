@@ -4,7 +4,6 @@ name: Blighted Ogrun Warmongers
 sku: Blighted Ogrun Warmongers, Legion Unit
 line:
   - Privateer Press
-  - Hordes
   - Legion of Everblight
 painted: 2007
 photos:

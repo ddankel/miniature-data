@@ -4,7 +4,6 @@ name: Vayl, Disciple of Everblight
 sku: Vayl, Disciple of Everblight, Legion Warlock
 line:
   - Privateer Press
-  - Hordes
   - Legion of Everblight
 painted: 2007
 photos:

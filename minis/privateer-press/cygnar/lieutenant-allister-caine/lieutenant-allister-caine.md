@@ -4,7 +4,6 @@ name: Lieutenant Allister Caine
 sku: Lieutenant Allister Caine, Cygnar Warcaster
 line:
   - Privateer Press
-  - Warmachine
   - Cygnar
 photos:
   - ./PP-WM-Cygnar-LieutenantAllisterCaine-Dankel_1.jpg

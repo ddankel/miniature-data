@@ -4,7 +4,6 @@ name: Ogrun Bokur
 sku: Ogrun Bokur, Mercenary Solo
 line:
   - Privateer Press
-  - Warmachine
   - Mercenaries
 painted: 2006
 photos:

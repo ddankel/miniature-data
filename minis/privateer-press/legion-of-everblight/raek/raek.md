@@ -4,7 +4,6 @@ name: Raek
 sku: Raek, Legion Light Warbeast
 line:
   - Privateer Press
-  - Hordes
   - Legion of Everblight
 painted: 2008
 photos:

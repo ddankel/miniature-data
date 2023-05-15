@@ -4,7 +4,6 @@ name: High Exemplar Kreoss
 sku: High Exemplar Kreoss, Protectorate Warcaster
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2005
 photos:

@@ -4,7 +4,6 @@ name: Choir of Menoth
 sku: Choir of Menoth, Protectorate Unit
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2006
 photos:

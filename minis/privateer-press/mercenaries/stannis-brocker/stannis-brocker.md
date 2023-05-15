@@ -4,7 +4,6 @@ name: Stannis Brocker
 sku: Stannis Brocker, Mercenary Solo
 line:
   - Privateer Press
-  - Warmachine
   - Mercenaries
 status: painted
 painted: ?? - Dec 2022

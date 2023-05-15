@@ -4,7 +4,6 @@ name: Saeryn, Omen of Everblight
 sku: Saeryn, Omen of Everblight, Legion Warlock
 line:
   - Privateer Press
-  - Hordes
   - Legion of Everblight
 painted: 2007
 photos:

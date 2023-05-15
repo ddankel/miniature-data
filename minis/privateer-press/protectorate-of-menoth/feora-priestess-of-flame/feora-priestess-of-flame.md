@@ -4,7 +4,6 @@ name: Feora, Priestess of Flame
 sku: Feora, Priestess of Flame, Protectorate Warcaster
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2006
 photos:

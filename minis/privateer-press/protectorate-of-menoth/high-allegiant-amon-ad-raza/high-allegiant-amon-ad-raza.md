@@ -4,7 +4,6 @@ name: High Allegiant Amon Ad-Raza
 sku: High Allegiant Amon Ad-Raza,
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2006
 photos:

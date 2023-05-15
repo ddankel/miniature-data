@@ -4,7 +4,6 @@ name: Guardian
 sku: Guardian, Protectorate Heavy Warjack
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2006
 photos:

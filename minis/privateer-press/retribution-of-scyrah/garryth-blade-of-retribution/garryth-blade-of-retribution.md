@@ -4,7 +4,6 @@ name: Garryth, Blade of Retribution
 sku: Garryth, Blade of Retribution, Retribution Warcaster
 line:
   - Privateer Press
-  - Warmachine
   - Retribution of Scyrah
 painted: 2011
 photos:

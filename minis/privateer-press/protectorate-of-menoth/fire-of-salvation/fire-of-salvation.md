@@ -4,7 +4,6 @@ name: Fire of Salvation
 sku: Fire of Salvation, Protectorate Heavy Warjack
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2009
 photos:

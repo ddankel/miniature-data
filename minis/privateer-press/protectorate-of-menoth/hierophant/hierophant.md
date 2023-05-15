@@ -4,7 +4,6 @@ name: Hierophant
 sku: Hierophant, Protectorate Solo
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2010
 photos:

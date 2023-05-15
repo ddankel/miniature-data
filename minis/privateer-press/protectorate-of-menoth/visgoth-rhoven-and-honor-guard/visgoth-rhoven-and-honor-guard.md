@@ -4,7 +4,6 @@ name: Visgoth Rhoven & Honor Guard
 sku: Visgoth Rhoven & Honor Guard, Protectorate Unit
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2010
 photos:

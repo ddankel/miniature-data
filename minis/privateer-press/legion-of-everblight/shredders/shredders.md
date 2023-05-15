@@ -4,7 +4,6 @@ name: Shredder
 sku: Shredder, Legion Lesser Warbeast
 line:
   - Privateer Press
-  - Hordes
   - Legion of Everblight
 painted: 2006
 photos:

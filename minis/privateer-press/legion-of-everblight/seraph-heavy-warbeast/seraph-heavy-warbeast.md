@@ -4,7 +4,6 @@ name: Seraph
 sku: Seraph, Legion Heavy Warbeast
 line:
   - Privateer Press
-  - Hordes
   - Legion of Everblight
 painted: 2007, 2008
 photos:

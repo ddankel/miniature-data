@@ -4,7 +4,6 @@ name: Kaelyssa, Night's Whisper
 sku: Kaelyssa, Night's Whisper, Retribution Warcaster
 line:
   - Privateer Press
-  - Warmachine
   - Retribution of Scyrah
 painted: 2011
 photos:

@@ -4,7 +4,6 @@ name: Avatar of Menoth
 sku: Avatar of Menoth, Protectorate Heavy Warjack
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2006
 photos:

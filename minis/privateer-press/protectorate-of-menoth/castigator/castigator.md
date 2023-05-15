@@ -4,7 +4,6 @@ name: Castigator
 sku: Castigator, Protectorate Heavy Warjack
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2007
 photos:

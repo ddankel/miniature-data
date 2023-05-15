@@ -4,7 +4,6 @@ name: Shepherds
 sku: Shepherds, Legion Solo
 line:
   - Privateer Press
-  - Hordes
   - Legion of Everblight
 painted: 2008
 photos:

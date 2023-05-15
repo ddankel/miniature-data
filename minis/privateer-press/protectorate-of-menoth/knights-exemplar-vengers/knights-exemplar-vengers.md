@@ -4,7 +4,6 @@ name: Knights Exemplar Vengers
 sku: Knights Exemplar Vengers, Protectorate Unit
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2007
 photos:

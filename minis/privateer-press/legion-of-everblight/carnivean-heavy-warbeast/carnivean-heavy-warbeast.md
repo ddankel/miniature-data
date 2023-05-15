@@ -4,7 +4,6 @@ name: Carnivean
 sku: Carnivean, Legion Heavy Warbeast
 line:
   - Privateer Press
-  - Hordes
   - Legion of Everblight
 painted: 2006, 2008
 photos:

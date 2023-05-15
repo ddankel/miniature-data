@@ -4,7 +4,6 @@ name: Idrian Skirmishers
 sku: Idrian Skirmishers, Protectorate Unit
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2008
 photos:

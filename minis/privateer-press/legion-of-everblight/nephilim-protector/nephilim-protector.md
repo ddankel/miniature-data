@@ -4,7 +4,6 @@ name: Nephilim Protector
 sku: Nephilim Protector, Legion Light Warbeast
 line:
   - Privateer Press
-  - Hordes
   - Legion of Everblight
 painted: 2009
 photos:

@@ -4,7 +4,6 @@ name: High Paladin Dartan Vilmon
 sku: High Paladin Dartan Vilmon, Protectorate Solo
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2006
 photos:

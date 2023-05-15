@@ -4,7 +4,6 @@ name: Paladins of the Order of the Wall
 sku: Paladins of the Order of the Wall, Protectorate Solos
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2005, 2007
 photos:

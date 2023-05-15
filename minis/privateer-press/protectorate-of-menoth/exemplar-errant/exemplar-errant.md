@@ -4,7 +4,6 @@ name: Exemplar Errant
 sku: Exemplar Errant, Protectorate Unit
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2008, 2010
 photos:

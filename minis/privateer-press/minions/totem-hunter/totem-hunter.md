@@ -4,7 +4,6 @@ name: Totem Hunger
 sku: Totem Hunger, Minion Solo
 line:
   - Privateer Press
-  - Hordes
   - Minions
 painted: 2007
 photos:

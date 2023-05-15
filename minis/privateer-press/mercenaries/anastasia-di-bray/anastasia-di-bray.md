@@ -4,7 +4,6 @@ name: Anastasia di Bray
 sku: Anastasia di Bray, Mercenary Solo
 line:
   - Privateer Press
-  - Warmachine
   - Mercenaries
 painted: 2010
 photos:

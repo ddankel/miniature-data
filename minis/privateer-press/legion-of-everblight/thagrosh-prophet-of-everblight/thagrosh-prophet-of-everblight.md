@@ -4,7 +4,6 @@ name: Thagrosh, Prophet of Everblight
 sku: Thagrosh, Prophet of Everblight, Legion Warlock
 line:
   - Privateer Press
-  - Hordes
   - Legion of Everblight
 painted: 2007
 photos:

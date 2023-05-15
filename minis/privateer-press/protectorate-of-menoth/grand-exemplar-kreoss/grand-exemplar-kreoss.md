@@ -4,7 +4,6 @@ name: Grand Exemplar Kreoss
 sku: Grand Exemplar Kreoss, Protectorate Warcaster
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2007
 photos:

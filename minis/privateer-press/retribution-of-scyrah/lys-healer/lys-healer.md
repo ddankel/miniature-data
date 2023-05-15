@@ -4,7 +4,6 @@ name: Lys Healer
 sku: Lys Healer, Retribution Solo
 line:
   - Privateer Press
-  - Warmachine
   - Retribution of Scyrah
 status: unassembled
 photos:

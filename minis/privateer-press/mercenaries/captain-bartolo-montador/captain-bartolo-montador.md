@@ -4,7 +4,6 @@ name: Captain Bartolo Montador
 sku: Captain Bartolo Montador, Mercenary Warcaster
 line:
   - Privateer Press
-  - Warmachine
   - Mercenaries
 painted: 2008
 photos:

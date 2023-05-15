@@ -4,7 +4,6 @@ name: Reclaimer
 sku: Reclaimer, Protectorate Solo
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2006
 photos:

@@ -4,7 +4,6 @@ name: Holy Zealots
 sku: Holy Zealots, Protectorate Unit
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2005
 photos:

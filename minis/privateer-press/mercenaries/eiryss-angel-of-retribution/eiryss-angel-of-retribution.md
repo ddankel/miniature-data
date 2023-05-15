@@ -4,7 +4,6 @@ name: Eiryss, Angel of Retribution
 sku: Eiryss, Angel of Retribution, Mercenary Solo
 line:
   - Privateer Press
-  - Warmachine
   - Mercenaries
 painted: 2006
 photos:

@@ -4,7 +4,6 @@ name: Lylyth, Herald of Everblight
 sku: Lylyth, Herald of Everblight, Legion Warlock
 line:
   - Privateer Press
-  - Hordes
   - Legion of Everblight
 painted: 2006
 photos:

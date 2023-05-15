@@ -4,7 +4,6 @@ name: Blessing of Menoth
 sku: Blessing of Menoth, Protectorate Light Warjack
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2009
 photos:

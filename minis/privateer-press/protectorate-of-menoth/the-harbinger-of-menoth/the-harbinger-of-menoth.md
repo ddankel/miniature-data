@@ -4,7 +4,6 @@ name: The Harbinger of Menoth
 sku: The Harbinger of Menoth, Protectorate Warcaster
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2007
 photos:

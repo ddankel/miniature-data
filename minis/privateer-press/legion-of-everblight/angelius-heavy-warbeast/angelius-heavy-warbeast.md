@@ -4,7 +4,6 @@ name: Angelius
 sku: Angelius, Legion Heavy Warbeast
 line:
   - Privateer Press
-  - Hordes
   - Legion of Everblight
 painted: 2008
 photos:

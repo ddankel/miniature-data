@@ -4,7 +4,6 @@ name: Gorman di Wulf, Rogue Alchemist
 sku: Gorman di Wulf, Rogue Alchemist, Mercenary Solo
 line:
   - Privateer Press
-  - Warmachine
   - Mercenaries
 painted: 2006
 photos:

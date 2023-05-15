@@ -4,7 +4,6 @@ name: Blighted Ogrun Warmonger War Chiefs
 sku: Blighted Ogrun Warmonger War Chiefs, Legion Solo
 line:
   - Privateer Press
-  - Hordes
   - Legion of Everblight
 painted: 2009
 photos:

@@ -4,7 +4,6 @@ name: Blighted Nyss Striders
 sku: Blighted Nyss Striders, Legion Unit
 line:
   - Privateer Press
-  - Hordes
   - Legion of Everblight
 painted: 2007, 2009
 photos:

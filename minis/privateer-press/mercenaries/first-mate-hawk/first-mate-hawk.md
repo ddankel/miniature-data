@@ -4,7 +4,6 @@ name: First Mate Hawk
 sku: First Mate Hawk, Mercenary Solo
 line:
   - Privateer Press
-  - Warmachine
   - Mercenaries
 photos:
   - ./PP-WM-Mercs-FirstMateHawk-Dankel_1.jpg

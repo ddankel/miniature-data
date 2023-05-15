@@ -4,7 +4,6 @@ name: Blighted Nyss Archers
 sku: Blighted Nyss Archers, Legion Unit
 line:
   - Privateer Press
-  - Hordes
   - Legion of Everblight
 painted: 2007, 2008
 photos:

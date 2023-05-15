@@ -4,7 +4,6 @@ name: Typhon
 sku: Typhon, Legion Heavy Warbeast
 line:
   - Privateer Press
-  - Hordes
   - Legion of Everblight
 painted: 2009
 photos:

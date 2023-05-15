@@ -4,7 +4,6 @@ name: Nephilim Soldier
 sku: Nephilim Soldier, Legion Light Warbeast
 line:
   - Privateer Press
-  - Hordes
   - Legion of Everblight
 painted: 2007
 photos:

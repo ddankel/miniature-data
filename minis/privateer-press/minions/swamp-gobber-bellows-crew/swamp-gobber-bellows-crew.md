@@ -4,7 +4,6 @@ name: Swamp Gobber Bellows Crew
 sku: Swamp Gobber Bellows Crew, Minion Unit
 line:
   - Privateer Press
-  - Hordes
   - Minions
 painted: 2007
 photos:

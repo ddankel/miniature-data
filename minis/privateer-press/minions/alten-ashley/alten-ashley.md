@@ -4,7 +4,6 @@ name: Alten Ashley
 sku: Alten Ashley, Minion Solo
 line:
   - Privateer Press
-  - Hordes
   - Minions
 painted: 2007
 photos:

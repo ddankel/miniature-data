@@ -4,7 +4,6 @@ name: Eiryss, Mage-Hunter of Ios (Alt)
 sku: Eiryss, Mage-Hunter of Ios, Mercenary Solo
 line:
   - Privateer Press
-  - Warmachine
   - Mercenaries
 painted: 2008
 photos:

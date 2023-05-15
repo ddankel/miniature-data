@@ -4,7 +4,6 @@ name: Wracks
 sku: Wracks, Protectorate Unit
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2008
 photos:

@@ -4,7 +4,6 @@ name: Incubii
 sku: Incubii, Legion Solos
 line:
   - Privateer Press
-  - Hordes
   - Legion of Everblight
 painted: 2008
 photos:

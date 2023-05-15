@@ -4,7 +4,6 @@ name: Repenter
 sku: Repenter, Protectorate Light Warjack
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2005
 photos:

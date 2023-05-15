@@ -4,7 +4,6 @@ name: Knights Exemplar Seneschal
 sku: Knights Exemplar Seneschal, Protectorate Solos
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2006, 2008
 photos:

@@ -4,7 +4,6 @@ name: Vassal of Menoth
 sku: Vassal of Menoth, Protectorate Solo
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2010
 photos:

@@ -4,7 +4,6 @@ name: Fell Caller
 sku: Fell Caller, Trollblood Solo
 line:
   - Privateer Press
-  - Hordes
   - Trollbloods
 painted: 2007
 photos:

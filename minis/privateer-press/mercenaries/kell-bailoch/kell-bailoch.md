@@ -4,7 +4,6 @@ name: Kell Bailoch
 sku: Kell Bailoch, Mercenary Solo
 line:
   - Privateer Press
-  - Warmachine
   - Mercenaries
 painted: 2007
 photos:

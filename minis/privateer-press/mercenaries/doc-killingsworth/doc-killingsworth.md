@@ -4,7 +4,6 @@ name: Doc Killingsworth
 sku: Doc Killingsworth, Mercenary Solo
 line:
   - Privateer Press
-  - Warmachine
   - Mercenaries
 painted: 2007
 photos:

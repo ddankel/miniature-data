@@ -4,7 +4,6 @@ name: Krueger the Stormwrath
 sku: Krueger the Stormwrath, Circle Warlock
 line:
   - Privateer Press
-  - Hordes
   - Circle Orboros
 painted: 2006
 photos:

@@ -4,7 +4,6 @@ name: Saxon Orric
 sku: Saxon Orric, Minion Mercenary Solo
 line:
   - Privateer Press
-  - Hordes
   - Minions
 painted: June 2014 - July 2014
 photos:

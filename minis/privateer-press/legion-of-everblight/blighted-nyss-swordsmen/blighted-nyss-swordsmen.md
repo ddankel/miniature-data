@@ -4,7 +4,6 @@ name: Blighted Nyss Swordsmen
 sku: Blighted Nyss Swordsmen, Legion Unit
 line:
   - Privateer Press
-  - Hordes
   - Legion of Everblight
 painted: 2007, 2010
 photos:

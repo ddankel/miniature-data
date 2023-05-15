@@ -3,7 +3,6 @@ slug: allegiant-of-the-order-of-the-fist
 name: Allegiant of the Order of the Fist
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 status: wip
 photos:

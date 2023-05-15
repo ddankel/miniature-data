@@ -4,7 +4,6 @@ name: Stone Keeper
 sku: Stone Keeper, Circle Command Attachment
 line:
   - Privateer Press
-  - Hordes
   - Circle Orboros
 status: unassembled
 photos:

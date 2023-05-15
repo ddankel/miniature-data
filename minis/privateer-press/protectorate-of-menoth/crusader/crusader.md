@@ -4,7 +4,6 @@ name: Crusader
 sku: Crusader, Protectorate Heavy Warjack
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2005, 2006
 photos:

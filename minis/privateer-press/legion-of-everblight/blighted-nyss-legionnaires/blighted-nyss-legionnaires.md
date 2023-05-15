@@ -4,7 +4,6 @@ name: Blighted Nyss Legionnaires
 sku: Blighted Nyss Legionnaires, Legion Unit
 line:
   - Privateer Press
-  - Hordes
   - Legion of Everblight
 painted: 2008
 photos:

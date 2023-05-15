@@ -4,7 +4,6 @@ name: High Executioner Servath Reznik
 sku: High Executioner Servath Reznik, Protectorate Warcaster
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2008
 photos:

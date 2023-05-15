@@ -4,7 +4,6 @@ name: Hierarch Severius
 sku: Hierarch Severius, Protectorate Warcaster
 line:
   - Privateer Press
-  - Warmachine
   - Protectorate of Menoth
 painted: 2009
 photos:

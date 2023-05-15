@@ -4,7 +4,6 @@ name: Absylonia, the Terror of Everblight
 sku: Absylonia, the Terror of Everblight, Legion Warlock
 line:
   - Privateer Press
-  - Hordes
   - Legion of Everblight
 painted: 2010
 photos:
