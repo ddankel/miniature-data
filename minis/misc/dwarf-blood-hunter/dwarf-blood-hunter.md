@@ -2,8 +2,7 @@
 slug: dwarf-blood-hunter
 name: Dwarf Blood Hunter
 line:
-  - Resin Printed
-  - The Lion's Tower Adventurers Guild
+  - The Lion's Tower
 status: unassembled
 photos:
   - ./dwarf-blood-hunter.jpg

@@ -2,7 +2,6 @@
 slug: lydia-the-lioness
 name: Lydia, the Lioness
 line:
-  - Resin Printed
   - RN Estudio
 status: unassembled
 photos:

@@ -2,7 +2,6 @@
 slug: wiltram-thief-assassin
 name: Wiltram, Thief/Assassin
 line:
-  - Resin Printed
   - RN Estudio
 status: unpainted
 photos:
