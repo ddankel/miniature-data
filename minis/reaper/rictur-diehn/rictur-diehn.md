@@ -13,8 +13,9 @@ race:
 archetype:
   - rogue
 weapons:
-  - sword
+  - great weapon
   - dagger
+  - sword
 armor:
   - leather
   - cloak

@@ -19,7 +19,7 @@ archetype:
   - wizard
 weapons:
   - staff
-  - scroll
+  - spell focus
 armor:
   - robe
 ---

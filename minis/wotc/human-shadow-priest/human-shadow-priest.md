@@ -15,6 +15,7 @@ archetype:
   - paladin
 weapons:
   - mace
+  - spell focus
 armor:
   - plate
 ---

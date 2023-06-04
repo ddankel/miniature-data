@@ -23,6 +23,7 @@ archetype:
   - paladin
   - ranger
 weapons:
+  - great weapon
   - hammer
   - axe
   - crossbow

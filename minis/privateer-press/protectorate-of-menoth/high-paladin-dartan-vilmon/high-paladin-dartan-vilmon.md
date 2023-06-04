@@ -20,6 +20,7 @@ armor:
   - plate
   - cloak
 weapons:
+  - great weapon
   - sword
 ---
 

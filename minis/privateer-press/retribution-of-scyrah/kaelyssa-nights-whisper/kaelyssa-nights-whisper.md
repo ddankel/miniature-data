@@ -15,7 +15,7 @@ archetype:
   - fighter
   - ranger
 weapons:
-  - rifle
+  - firearm
   - sword
 armor:
   - plate

@@ -13,7 +13,7 @@ archetype:
   - wizard
   - cleric
 weapons:
-  - scroll
+  - spell focus
 armor:
   - robe
 gallery:

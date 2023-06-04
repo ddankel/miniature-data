@@ -15,7 +15,7 @@ archetype:
   - ranger
 weapons:
   - sword
-  - claw
+  - fighting claw
 armor:
   - leather
 ---

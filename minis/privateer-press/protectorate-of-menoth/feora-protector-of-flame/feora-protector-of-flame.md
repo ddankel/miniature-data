@@ -17,6 +17,7 @@ archetype:
   - fighter
   - paladin
 weapons:
+  - great weapon
   - polearm
   - axe
 armor:

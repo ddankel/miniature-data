@@ -13,7 +13,8 @@ archetype:
   - fighter
 weapons:
   - axe
-  - pistol
+  - firearm
+  - great weapon
 armor:
   - clothing
 gallery:

@@ -15,7 +15,7 @@ archetype:
   - wizard
 weapons:
   - sword
-  - scroll
+  - spell focus
 armor:
   - leather
   - clothing

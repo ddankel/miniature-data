@@ -13,7 +13,7 @@ race:
 archetype:
   - rogue
 weapons:
-  - claw
+  - fighting claw
   - axe
 armor:
   - cloak

@@ -12,7 +12,7 @@ race:
 archetype:
   - artificer
 weapons:
-  - pistol
+  - firearm
 armor:
   - clothing
 gallery:

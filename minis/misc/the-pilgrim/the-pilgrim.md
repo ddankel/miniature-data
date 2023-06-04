@@ -14,7 +14,7 @@ archetype:
 weapons:
   - dagger
   - sword
-  - pistol
+  - firearm
 armor:
   - clothing
 gallery:

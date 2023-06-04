@@ -16,7 +16,7 @@ archetype:
   - rogue
 weapons:
   - sword
-  - rifle
+  - firearm
 armor:
   - clothing
 ---

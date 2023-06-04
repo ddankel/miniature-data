@@ -12,7 +12,7 @@ race:
   - human
 weapons:
   - sword
-  - rifle
+  - firearm
 armor:
   - leather
 ---

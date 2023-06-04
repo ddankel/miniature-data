@@ -18,7 +18,7 @@ archetype:
   - rogue
 weapons:
   - sword
-  - instrument
+  - musical instrument
 armor:
   - clothing
 ---

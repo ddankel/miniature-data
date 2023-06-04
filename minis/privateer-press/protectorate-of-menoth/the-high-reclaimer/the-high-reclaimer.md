@@ -16,8 +16,9 @@ race:
 archetype:
   - cleric
 weapons:
-  - polearm
+  - great weapon
   - mace
+  - polearm
 armor:
   - plate
   - powered armor

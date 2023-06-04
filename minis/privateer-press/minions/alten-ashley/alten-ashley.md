@@ -17,7 +17,7 @@ archetype:
   - ranger
 weapons:
   - sword
-  - rifle
+  - firearm
 armor:
   - clothing
 ---

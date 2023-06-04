@@ -18,6 +18,7 @@ archetype:
   - fighter
   - rogue
 weapons:
+  - great weapon
   - sword
 armor:
   - leather

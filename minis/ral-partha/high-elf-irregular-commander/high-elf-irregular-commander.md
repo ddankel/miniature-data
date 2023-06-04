@@ -11,6 +11,7 @@ race:
 archetype:
   - fighter
 weapons:
+  - great weapon
   - sword
 armor:
   - plate

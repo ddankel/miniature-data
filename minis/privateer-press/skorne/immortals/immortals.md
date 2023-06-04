@@ -15,6 +15,7 @@ archetype:
   - fighter
   - paladin
 weapons:
+  - great weapon
   - sword
 quantity: 2
 gallery:

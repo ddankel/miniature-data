@@ -16,7 +16,7 @@ archetype:
   - rogue
   - ranger
 weapons:
-  - pistol
+  - firearm
 armor:
   - plate
   - powered armor

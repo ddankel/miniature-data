@@ -14,7 +14,7 @@ race:
 archetype:
   - wizard
 weapons:
-  - tome
+  - spell focus
   - spell effect
 armor:
   - robe

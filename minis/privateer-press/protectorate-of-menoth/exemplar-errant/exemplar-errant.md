@@ -23,6 +23,7 @@ archetype:
   - fighter
   - paladin
 weapons:
+  - battle standard
   - sword
   - crossbow
 armor:

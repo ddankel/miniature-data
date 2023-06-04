@@ -16,7 +16,7 @@ archetype:
   - artificer
   - rogue
 weapons:
-  - grenade
+  - explosives
 armor:
   - leather
   - cloak

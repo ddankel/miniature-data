@@ -13,6 +13,7 @@ archetype:
   - wizard
   - cleric
 weapons:
+  - great weapon
   - hammer
 armor:
   - clothing

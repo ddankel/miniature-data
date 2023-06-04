@@ -14,7 +14,7 @@ archetype:
   - wizard
 weapons:
   - staff
-  - tome
+  - spell focus
 armor:
   - clothing
 gallery:

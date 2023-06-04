@@ -18,6 +18,9 @@ race:
 archetype:
   - fighter
 weapons:
+  - battle standard
+  - dagger
+  - musical instrument
   - sword
 armor:
   - plate

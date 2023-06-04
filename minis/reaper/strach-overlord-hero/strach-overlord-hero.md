@@ -15,6 +15,7 @@ archetype:
   - paladin
   - ranger
 weapons:
+  - great weapon
   - sword
 armor:
   - mail

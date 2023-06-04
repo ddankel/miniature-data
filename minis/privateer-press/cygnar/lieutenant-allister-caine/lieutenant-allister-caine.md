@@ -11,7 +11,7 @@ photos:
 race:
   - human
 weapons:
-  - pistol
+  - firearm
   - sword
 armor:
   - plate

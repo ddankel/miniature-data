@@ -16,7 +16,7 @@ archetype:
   - wizard
 weapons:
   - staff
-  - grenade
+  - explosives
 armor:
   - robe
   - cloak

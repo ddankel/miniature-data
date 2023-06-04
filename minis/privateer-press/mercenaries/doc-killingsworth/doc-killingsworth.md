@@ -12,6 +12,7 @@ photos:
 race:
   - human
 weapons:
+  - axe
   - dagger
 armor:
   - clothing

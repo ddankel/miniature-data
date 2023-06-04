@@ -16,7 +16,7 @@ armor:
   - plate
   - mail
 weapons:
-  - rocket pack
+  - explosives
 race:
   - human
 archetype:

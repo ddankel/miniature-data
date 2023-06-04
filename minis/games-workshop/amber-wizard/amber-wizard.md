@@ -13,7 +13,7 @@ archetype:
   - cleric
   - druid
 weapons:
-  - claw
+  - fighting claw
   - staff
 armor:
   - cloak

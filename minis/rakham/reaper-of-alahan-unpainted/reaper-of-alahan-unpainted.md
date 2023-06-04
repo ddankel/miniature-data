@@ -14,7 +14,7 @@ archetype:
   - artificer
 weapons:
   - sword
-  - pistol
+  - firearm
 armor:
   - clothing
 quantity: 2

@@ -20,7 +20,7 @@ archetype:
   - fighter
 weapons:
   - spear
-  - standard
+  - battle standard
 armor:
   - plate
   - shield

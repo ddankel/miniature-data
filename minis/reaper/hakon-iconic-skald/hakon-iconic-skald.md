@@ -15,7 +15,7 @@ archetype:
   - ranger
 weapons:
   - axe
-  - instrument
+  - musical instrument
 armor:
   - clothing
 gallery:

@@ -13,7 +13,7 @@ race:
 archetype:
   - fighter
 weapons:
-  - claw
+  - fighting claw
   - sword
 armor:
   - plate

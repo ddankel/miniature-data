@@ -14,6 +14,7 @@ archetype:
   - cleric
   - paladin
 weapons:
+  - great weapon
   - mace
 armor:
   - plate

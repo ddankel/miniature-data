@@ -23,7 +23,7 @@ armor:
   - plate
   - shield
 weapons:
-  - lance
+  - spear
   - sword
 ---
 

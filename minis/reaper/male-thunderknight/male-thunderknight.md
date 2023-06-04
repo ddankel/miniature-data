@@ -16,6 +16,7 @@ archetype:
   - fighter
   - paladin
 weapons:
+  - great weapon
   - hammer
 armor:
   - plate

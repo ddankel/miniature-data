@@ -13,7 +13,7 @@ race:
   - human
 weapons:
   - sword
-  - pistol
+  - firearm
 armor:
   - plate
   - powered armor

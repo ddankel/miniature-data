@@ -13,6 +13,7 @@ race:
 archetype:
   - fighter
 weapons:
+  - great weapon
   - mace
   - spear
 armor:

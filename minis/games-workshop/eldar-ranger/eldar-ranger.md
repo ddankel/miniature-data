@@ -12,7 +12,7 @@ race:
 archetype:
   - fighter
 weapons:
-  - rifle
+  - firearm
 armor:
   - clothing
 gallery:

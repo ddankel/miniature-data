@@ -18,7 +18,7 @@ archetype:
   - rogue
   - wizard
 weapons:
-  - pistol
+  - firearm
 armor:
   - clothing
   - cloak
