@@ -12,6 +12,7 @@ race:
   - elf
 archetype:
   - fighter
+  - mounted
   - paladin
 weapons:
   - sword

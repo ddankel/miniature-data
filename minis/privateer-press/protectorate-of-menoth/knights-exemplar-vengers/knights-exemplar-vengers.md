@@ -18,6 +18,7 @@ race:
   - human
 archetype:
   - fighter
+  - mounted
   - paladin
 armor:
   - plate

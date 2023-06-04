@@ -12,6 +12,7 @@ race:
   - human
 archetype:
   - fighter
+  - mounted
   - paladin
 weapons:
   - sword

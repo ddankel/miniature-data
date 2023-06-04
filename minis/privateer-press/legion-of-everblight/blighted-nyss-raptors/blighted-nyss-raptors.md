@@ -12,6 +12,8 @@ photos:
   - ./PP-Hordes-LoE-Raptors-Dankel_3.jpg
   - ./PP-Hordes-LoE-Raptors-Dankel_4.jpg
 quantity: 5
+archetype:
+  - mounted
 race:
   - dragonspawn
   - elf
