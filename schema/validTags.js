@@ -1,7 +1,6 @@
 const validTags = {
   race: [
     "blightspawn",
-    "bugbear",
     "catfolk",
     "dragonfolk",
     "dwarf",
@@ -12,7 +11,6 @@ const validTags = {
     "halfling",
     "human",
     "lizardfolk",
-    "lupine",
     "obsidiman",
     "ogre",
     "orc",
@@ -21,6 +19,7 @@ const validTags = {
     "undead",
     "unknown",
     "warjack",
+    "wulfen",
   ],
   archetype: [
     "artificer",
