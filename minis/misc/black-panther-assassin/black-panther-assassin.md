@@ -7,7 +7,7 @@ painted: 2007
 photos:
   - ./HundredKingdoms-BlackPantherAssassin-Dankel.jpg
 race:
-  - tabaxi
+  - catfolk
 archetype:
   - rogue
 weapons:

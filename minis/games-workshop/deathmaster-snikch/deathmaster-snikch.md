@@ -9,7 +9,6 @@ photos:
   - ./DeathmasterSnikch_Studio.jpg
 race:
   - ratfolk
-  - skaven
 archetype:
   - rogue
 weapons:
