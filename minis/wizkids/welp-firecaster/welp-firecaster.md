@@ -11,8 +11,7 @@ weapons:
 armor:
   - clothing
 race:
-  - t'skrang
-  - lizardfolk
+  - dragonfolk
 archetype:
   - wizard
 status: prepainted

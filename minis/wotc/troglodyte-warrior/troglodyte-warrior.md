@@ -8,8 +8,7 @@ painted: 2004
 photos:
   - ./Chainmail-TroglodyteWarrior-Dankel_1.jpg
 race:
-  - t'skrang
-  - lizardfolk
+  - dragonfolk
 archetype:
   - fighter
   - paladin

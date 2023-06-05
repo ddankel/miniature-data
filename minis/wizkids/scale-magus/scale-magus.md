@@ -10,8 +10,7 @@ photos:
   - ./MK-ScaleMagus-Dankel_3.jpg
   - ./MK-ScaleMagus_4.jpg
 race:
-  - t'skrang
-  - lizardfolk
+  - dragonfolk
 archetype:
   - wizard
 weapons:

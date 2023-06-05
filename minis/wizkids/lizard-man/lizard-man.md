@@ -10,7 +10,6 @@ photos:
 weapons:
   - spear
 race:
-  - t'skrang
   - lizardfolk
 archetype:
   - fighter
