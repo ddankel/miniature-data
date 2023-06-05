@@ -9,7 +9,7 @@ photos:
   - ./OrcTrooper.jpg
   - ./OrcTrooper_Painted.jpg
 race:
-  - orc
+  - goblinoid
 archetype:
   - fighter
 weapons:

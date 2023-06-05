@@ -9,8 +9,7 @@ photos:
   - ./HobgoblinAdept.jpg
   - ./HobgoblinAdept_Painted.jpg
 race:
-  - hobgoblin
-  - orc
+  - goblinoid
 archetype:
   - fighter
   - cleric
