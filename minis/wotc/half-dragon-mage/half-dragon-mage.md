@@ -9,7 +9,7 @@ photos:
   - ./HalfDragonMage.jpg
   - ./HalfDragonMage_Painted.jpg
 race:
-  - dragonspawn
+  - dragonfolk
 archetype:
   - wizard
 weapons:

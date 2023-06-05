@@ -10,7 +10,7 @@ photos:
   - ./PP-Hordes-LoE-NephilimSoldier-Dankel_1.jpg
   - ./PP-Hordes-LoE-NephilimSoldier-Dankel_2.jpg
 race:
-  - dragonspawn
+  - blightspawn
 weapons:
   - sword
 armor:

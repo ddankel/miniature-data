@@ -8,8 +8,7 @@ status: unassembled
 photos:
   - ./BugbearTrooper.jpg
 race:
-  - bugbear
-  - orc
+  - goblinoid
 archetype:
   - fighter
 weapons:

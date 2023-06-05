@@ -11,7 +11,7 @@ photos:
   - ./PP-Hordes-LoE-Harriers-Dankel_2.jpg
 quantity: 2
 race:
-  - dragonspawn
+  - blightspawn
 weapons:
   - natural weapons
 ---

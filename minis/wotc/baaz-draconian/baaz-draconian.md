@@ -9,9 +9,7 @@ photos:
   - ./DnDMiniatures-BaazDraconian-Dankel_1.jpg
   - ./DnDMiniatures-BaazDraconian-Dankel_2.jpg
 race:
-  - draconian
-  - lizardfolk
-  - t'skrang
+  - dragonfolk
 archetype:
   - fighter
   - rogue

@@ -10,7 +10,7 @@ photos:
   - ./PP-Hordes-LoE-NephilimProtector-Dankel_1.jpg
   - ./PP-Hordes-LoE-NephilimProtector-Dankel_2.jpg
 race:
-  - dragonspawn
+  - blightspawn
 weapons:
   - axe
   - polearm

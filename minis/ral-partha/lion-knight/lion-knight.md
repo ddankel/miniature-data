@@ -6,7 +6,7 @@ line:
 photos:
   - ./RalPartha-LionKnight-Dankel.jpg
 race:
-  - tabaxi
+  - catfolk
 archetype:
   - fighter
   - paladin

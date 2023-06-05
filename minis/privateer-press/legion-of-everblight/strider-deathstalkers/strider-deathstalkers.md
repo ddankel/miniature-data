@@ -13,7 +13,7 @@ photos:
   - ./PP-Hordes-LoE-Deathstalker-Dankel_4.jpg
 quantity: 2
 race:
-  - dragonspawn
+  - blightspawn
   - elf
 archetype:
   - fighter

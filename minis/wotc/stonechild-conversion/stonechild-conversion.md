@@ -13,7 +13,6 @@ photos:
   - ./DnDMiniatures-Stonechild-Conversion-Dankel_5.jpg
 race:
   - obsidiman
-  - stonechild
 archetype:
   - fighter
 weapons:

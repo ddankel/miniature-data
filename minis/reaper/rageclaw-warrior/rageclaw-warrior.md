@@ -13,7 +13,7 @@ weapons:
 armor:
   - leather
 race:
-  - lupine
+  - wulfen
 gallery:
   status: hidden
 ---

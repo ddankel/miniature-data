@@ -15,7 +15,7 @@ armor:
   - leather
   - cloak
 race:
-  - tabaxi
+  - catfolk
 archetype:
   - fighter
   - ranger

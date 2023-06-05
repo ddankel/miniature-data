@@ -12,7 +12,7 @@ photos:
   - ./PP-Hordes-LoE-Thagrosh-Dankel_3.jpg
   - ./PP-Hordes-LoE-Thagrosh-Dankel_4.jpg
 race:
-  - dragonspawn
+  - blightspawn
   - troll
   - ogre
 archetype:

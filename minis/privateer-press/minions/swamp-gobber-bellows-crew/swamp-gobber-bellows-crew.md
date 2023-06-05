@@ -12,7 +12,7 @@ photos:
   - ./PP-Hordes-Minion-SwampGobbers-Dankel_3.jpg
 quantity: 2
 race:
-  - goblin
+  - goblinoid
 armor:
   - clothing
 ---

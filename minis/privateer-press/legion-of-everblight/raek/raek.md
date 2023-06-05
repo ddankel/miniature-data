@@ -11,7 +11,7 @@ photos:
   - ./PP-Hordes-LoE-Raek-Dankel_2.jpg
   - ./PP-Hordes-LoE-Raek-Dankel_3.jpg
 race:
-  - dragonspawn
+  - blightspawn
 weapons:
   - natural weapons
 ---

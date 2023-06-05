@@ -15,7 +15,7 @@ photos:
   - ./PP-Hordes-LoE-BlightedArchers-Dankel_7.jpg
 quantity: 12
 race:
-  - dragonspawn
+  - blightspawn
   - elf
 archetype:
   - fighter

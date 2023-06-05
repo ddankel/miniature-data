@@ -12,7 +12,7 @@ photos:
   - ./PP-Hordes-LoE-Rhyas-Dankel_3.jpg
   - ./PP-Hordes-LoE-Rhyas-Dankel_4.jpg
 race:
-  - dragonspawn
+  - blightspawn
   - elf
 archetype:
   - fighter

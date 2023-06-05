@@ -15,7 +15,7 @@ photos:
   - ./PP-Hodes-LoE-BlightedNyssSwordsmen-Dankel_6.jpg
   - ./PP-Hodes-LoE-BlightedNyssSwordsmen-Dankel_7.jpg
 race:
-  - dragonspawn
+  - blightspawn
   - elf
 archetype:
   - fighter

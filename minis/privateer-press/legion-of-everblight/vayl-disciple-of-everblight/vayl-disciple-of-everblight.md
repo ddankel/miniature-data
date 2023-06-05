@@ -12,7 +12,7 @@ photos:
   - ./PP-Hordes-LoE-Vayl-Dankel_3.jpg
   - ./PP-Hordes-LoE-Vayl-Dankel_4.jpg
 race:
-  - dragonspawn
+  - blightspawn
   - elf
 archetype:
   - wizard

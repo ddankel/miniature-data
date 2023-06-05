@@ -15,7 +15,7 @@ photos:
   - ./PP-Hordes-LoE-Shredders-Dankel_7.jpg
 quantity: 4
 race:
-  - dragonspawn
+  - blightspawn
 weapons:
   - natural weapons
 ---

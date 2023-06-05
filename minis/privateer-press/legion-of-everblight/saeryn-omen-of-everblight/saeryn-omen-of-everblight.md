@@ -12,7 +12,7 @@ photos:
   - ./PP-Hordes-LoE-Saeryn-Dankel_3.jpg
   - ./PP-Hordes-LoE-Saeryn-Dankel_4.jpg
 race:
-  - dragonspawn
+  - blightspawn
   - elf
 archetype:
   - rogue

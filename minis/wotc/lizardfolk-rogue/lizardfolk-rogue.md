@@ -8,7 +8,6 @@ status: prepainted
 photos:
   - ./DnDMiniatures-LizardfolkRogue_1.jpg
 race:
-  - t'skrang
   - lizardfolk
 archetype:
   - monk

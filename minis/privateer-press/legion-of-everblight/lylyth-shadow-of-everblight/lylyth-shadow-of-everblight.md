@@ -12,7 +12,7 @@ photos:
   - ./PP-Hordes-LoE-eLylyth-Dankel_3.jpg
 race:
   - elf
-  - dragonspawn
+  - blightspawn
 archetype:
   - fighter
   - ranger

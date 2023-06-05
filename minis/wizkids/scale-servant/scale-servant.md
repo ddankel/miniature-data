@@ -8,8 +8,7 @@ photos:
   - ./MK-ScaleServant-Dankel.jpg
 status: prepainted
 race:
-  - t'skrang
-  - lizardfolk
+  - dragonfolk
 archetype:
   - fighter
 weapons:

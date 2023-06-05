@@ -11,7 +11,7 @@ photos:
 weapons:
   - sword
 race:
-  - lupine
+  - wulfen
 gallery:
   status: hidden
 ---

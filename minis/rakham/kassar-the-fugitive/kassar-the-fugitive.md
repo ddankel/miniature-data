@@ -12,7 +12,7 @@ weapons:
   - sword
   - dagger
 race:
-  - lupine
+  - wulfen
 quantity: 1
 gallery:
   status: hidden

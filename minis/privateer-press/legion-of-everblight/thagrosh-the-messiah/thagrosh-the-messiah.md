@@ -11,7 +11,7 @@ photos:
   - ./PP-Hordes-LoE-eThagrosh-Dankel_2.jpg
   - ./PP-Hordes-LoE-eThagrosh-Dankel_3.jpg
 race:
-  - dragonspawn
+  - blightspawn
 weapons:
   - sword-staff
 ---

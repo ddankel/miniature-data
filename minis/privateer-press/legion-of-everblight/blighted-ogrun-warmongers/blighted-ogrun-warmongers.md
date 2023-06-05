@@ -15,7 +15,7 @@ photos:
   - ./PP-Hordes-LoE-Warmongers-Dankel_6.jpg
 quantity: 5
 race:
-  - dragonspawn
+  - blightspawn
   - troll
   - ogre
 archetype:
