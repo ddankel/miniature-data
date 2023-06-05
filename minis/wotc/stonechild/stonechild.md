@@ -10,7 +10,6 @@ photos:
   - ./Chainmail-Stonechild-Dankel_2.jpg
 race:
   - obsidiman
-  - stonechild
 archetype:
   - fighter
 weapons:

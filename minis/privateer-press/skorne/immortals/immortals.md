@@ -9,7 +9,6 @@ status: unassembled
 photos:
   - ./WM-Skorne-Immortals.png
 race:
-  - golem
   - obsidiman
 archetype:
   - fighter
