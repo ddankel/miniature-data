@@ -1,4 +1,4 @@
-const validValues = require("./validValues");
+const validTags = require("./validTags");
 
 const schema = {
   type: "object",
@@ -34,28 +34,28 @@ const schema = {
       type: "array",
       items: {
         type: "string",
-        enum: validValues.race,
+        enum: validTags.race,
       },
     },
     archetype: {
       type: "array",
       items: {
         type: "string",
-        enum: validValues.archetype,
+        enum: validTags.archetype,
       },
     },
     weapons: {
       type: "array",
       items: {
         type: "string",
-        enum: validValues.weapons,
+        enum: validTags.weapons,
       },
     },
     armor: {
       type: "array",
       items: {
         type: "string",
-        enum: validValues.armor,
+        enum: validTags.armor,
       },
     },
     quantity: {
@@ -81,7 +81,7 @@ const schema = {
       properties: {
         status: {
           type: "string",
-          enum: validValues.minidb.status,
+          enum: validTags.minidb.status,
         },
       },
       additionalProperties: false,
@@ -91,7 +91,7 @@ const schema = {
       properties: {
         status: {
           type: "string",
-          enum: validValues.minidb.status,
+          enum: validTags.minidb.status,
         },
       },
       additionalProperties: false,

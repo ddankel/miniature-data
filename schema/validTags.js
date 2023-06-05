@@ -1,15 +1,15 @@
-const validValues = {
+const validTags = {
   race: [
+    "blightspawn",
     "bugbear",
-    "draconian",
-    "dragonspawn",
+    "catfolk",
+    "dragonfolk",
     "dwarf",
     "elf",
-    "goblin",
+    "goblinoid",
     "golem",
     "half-orc",
     "halfling",
-    "hobgoblin",
     "human",
     "lizardfolk",
     "lupine",
@@ -17,10 +17,6 @@ const validValues = {
     "ogre",
     "orc",
     "ratfolk",
-    "skaven",
-    "stonechild",
-    "tabaxi",
-    "t'skrang",
     "troll",
     "undead",
     "unknown",
@@ -74,4 +70,4 @@ const validValues = {
   },
 };
 
-module.exports = validValues;
+module.exports = validTags;
