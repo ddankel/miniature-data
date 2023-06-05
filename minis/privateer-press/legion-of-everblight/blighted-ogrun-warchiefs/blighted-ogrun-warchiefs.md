@@ -14,7 +14,7 @@ photos:
   - ./PP-Hordes-LoE-Warchief-Dankel_5.jpg
 quantity: 2
 race:
-  - dragonspawn
+  - blightspawn
   - troll
   - ogre
 archetype:

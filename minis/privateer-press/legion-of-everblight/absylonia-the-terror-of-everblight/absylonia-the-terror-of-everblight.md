@@ -10,7 +10,7 @@ photos:
   - ./absylonia_ddankel_1.jpg
   - ./absylonia_ddankel_2.jpg
 race:
-  - dragonspawn
+  - blightspawn
 weapons:
   - natural weapons
 armor:

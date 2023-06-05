@@ -14,7 +14,7 @@ photos:
   - ./PP-Hordes-LoE-Incubi-Dankel_5.jpg
 quantity: 5
 race:
-  - dragonspawn
+  - blightspawn
   - elf
 weapons:
   - natural weapons

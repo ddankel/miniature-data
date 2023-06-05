@@ -15,7 +15,7 @@ photos:
   - ./PP-Hordes-LoE-Striders-Dankel_7.jpg
 quantity: 8
 race:
-  - dragonspawn
+  - blightspawn
   - elf
 archetype:
   - ranger

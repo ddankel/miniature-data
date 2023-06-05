@@ -16,7 +16,7 @@ photos:
   - ./PP-Hordes-LoE-Seraph2-Dankel_3.jpg
 quantity: 2
 race:
-  - dragonspawn
+  - blightspawn
 weapons:
   - natural weapons
 ---

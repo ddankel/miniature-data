@@ -13,7 +13,7 @@ photos:
   - ./PP-Hordes-LoE-Angelii-Dankel_4.jpg
 quantity: 2
 race:
-  - dragonspawn
+  - blightspawn
 weapons:
   - natural weapons
 ---

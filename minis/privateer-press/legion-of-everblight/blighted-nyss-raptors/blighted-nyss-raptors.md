@@ -15,7 +15,7 @@ quantity: 5
 archetype:
   - mounted
 race:
-  - dragonspawn
+  - blightspawn
   - elf
 weapons:
   - bow

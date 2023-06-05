@@ -16,7 +16,7 @@ photos:
   - ./PP-Hodes-LoE-BlightedNyssLegionnaires-Dankel_7.jpg
 quantity: 10
 race:
-  - dragonspawn
+  - blightspawn
   - elf
 archetype:
   - fighter
