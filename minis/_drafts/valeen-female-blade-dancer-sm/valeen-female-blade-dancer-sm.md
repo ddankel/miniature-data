@@ -1,22 +1,20 @@
 ---
-slug: lydia-the-lioness2
-name: Lydia, the Lioness
+slug: valeen-female-blade-dancer-sm
+name: Valeen, Female Blade Dancer (25mm)
 line:
-  - Resin Printed
   - RN Estudio
 status: unassembled
 photos:
-  - ./lydia-the-lioness.jpg
+  - ./valeen-female-blade-dancer.jpg
 race:
   - human
 archetype:
   - fighter
-  - paladin
+  - ranger
 weapons:
   - sword
 armor:
-  - plate
-quantity: 1
+  - leather
 minidb:
   status: draft
 gallery:

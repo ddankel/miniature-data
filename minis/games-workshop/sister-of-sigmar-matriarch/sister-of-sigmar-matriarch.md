@@ -6,7 +6,8 @@ line:
   - Mordheim
 status: wip
 photos:
-  - ./GW-SistersOfSigmarMatriarch-Dankel.jpg
+  - ./SistersOfSigmarMatriarch-Dankel_1.jpg
+  - ./SistersOfSigmarMatriarch-Dankel_2.jpg
 race:
   - human
 archetype:

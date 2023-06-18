@@ -1,7 +1,7 @@
 ---
-slug: visgoth-rhoven-and-honor-guard
-name: Visgoth Rhoven & Honor Guard
-sku: Visgoth Rhoven & Honor Guard, Protectorate Unit
+slug: visgoth-rhoven
+name: Visgoth Rhoven
+sku: Visgoth Rhoven, Protectorate Unit
 line:
   - Privateer Press
   - Protectorate of Menoth
@@ -9,23 +9,16 @@ painted: 2010
 photos:
   - ./Rhoven-DDankel-1.jpg
   - ./Rhoven-DDankel-2.jpg
-  - ./Rhoven-DDankel-3.jpg
-  - ./Rhoven-DDankel-4.jpg
-quantity: 3
 race:
   - human
 archetype:
-  - fighter
   - cleric
   - wizard
 weapons:
   - staff
-  - polearm
-  - axe
 armor:
   - cloak
   - robe
-  - plate
 ---
 
 I painted Rhoven and his Exemplar honor guard up at the tail end of my Protectorate collection. I've only fielded them once or twice since they were first released, and as such they kept getting pushed back to the end of my painting queue. But as PP's release schedule slowed the past couple years I was finally able to get to them.

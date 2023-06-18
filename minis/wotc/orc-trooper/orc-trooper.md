@@ -4,7 +4,7 @@ name: Orc Trooper
 line:
   - Wizards of the Coast
   - Chainmail
-status: unassembled
+status: wip
 photos:
   - ./OrcTrooper.jpg
   - ./OrcTrooper_Painted.jpg
