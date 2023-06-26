@@ -4,7 +4,7 @@ name: Sister of Sigmar Matriarch
 line:
   - Games Workshop
   - Mordheim
-status: wip
+painted: May 2023 - June 2023
 photos:
   - ./SistersOfSigmarMatriarch-Dankel_1.jpg
   - ./SistersOfSigmarMatriarch-Dankel_2.jpg
@@ -17,6 +17,12 @@ weapons:
 armor:
   - plate
   - robe
+recipes:
+  - Zenithal Primer
+    - Black/Liquitex Buff
+  - Jacket
+    - APSP Blood Red
+    - Edge Highlight P3 Skorne Red + DC Tangerine + P3 Midlund Flesh
 gallery:
   status: hidden
 ---

@@ -4,10 +4,10 @@ name: Orc Trooper
 line:
   - Wizards of the Coast
   - Chainmail
-status: wip
+painted: June 2023
 photos:
-  - ./OrcTrooper.jpg
-  - ./OrcTrooper_Painted.jpg
+  - ./Chainmail-OrcTrooper-Dankel_1.jpg
+  - ./Chainmail-OrcTrooper-Dankel_2.jpg
 race:
   - goblinoid
 archetype:
@@ -18,6 +18,20 @@ weapons:
   - spear
 armor:
   - plate
+recipes:
+  - Zenithal Prime
+    - Black
+    - P3 Ironhull Gray
+    - Liquitex Buff
+  - Skin
+    - APSP Desolate Brown
+  - Shirt
+    - APSP Bright Red
+  - Rusted metal
+    - APSP Broadsword Silver
+    - wash P3 Bloodstone
+    - wash Nuln Oil
+    - edge GW Chainmail
 gallery:
   status: hidden
 ---

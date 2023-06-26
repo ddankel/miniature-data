@@ -3,9 +3,10 @@ slug: high-elf-irregular-commander
 name: High Elf Irregular Commander
 line:
   - Ral Partha
-status: wip
+painted: June 2023
 photos:
-  - ./RalPartha-HighElfIrregularCommander-Dankel.jpg
+  - ./RalPartha-HighElfCommander-Dankel_1.jpg
+  - ./RalPartha-HighElfCommander-Dankel_2.jpg
 race:
   - elf
 archetype:
@@ -16,6 +17,17 @@ weapons:
 armor:
   - plate
   - cloak
+recipes:
+  - Zenithal Prime
+    - Black
+    - P3 Ironhull Gray
+    - Liquitex Buff
+  - Cloak
+    - APSP Blood Red
+  - Sash
+    - VMC Medium Fleshtone
+    - Shade mixing in AB Brown Oxide
+    - Highlight mixing in RMS Yellowed Bone
 gallery:
   status: hidden
 ---

@@ -16,7 +16,7 @@ weapons:
   - whip
   - fighting claw
 armor:
-  - robes
+  - robe
 gallery:
   status: draft
 ---
