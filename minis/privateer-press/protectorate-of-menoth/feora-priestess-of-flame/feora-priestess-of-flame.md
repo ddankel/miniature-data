@@ -9,6 +9,8 @@ painted: 2006
 photos:
   - ./PP-WM-PoM-Feora-Dankel_1.jpg
   - ./PP-WM-PoM-Feora-Dankel_4.jpg
+genre:
+  - magitek
 race:
   - human
 archetype:

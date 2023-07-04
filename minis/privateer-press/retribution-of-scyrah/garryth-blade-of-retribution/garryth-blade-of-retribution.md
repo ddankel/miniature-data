@@ -9,6 +9,8 @@ painted: 2011
 photos:
   - ./garryth_ddankel_1.jpg
   - ./garryth_ddankel_2.jpg
+genre:
+  - magitek
 race:
   - elf
 archetype:

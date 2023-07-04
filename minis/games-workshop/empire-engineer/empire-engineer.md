@@ -7,6 +7,8 @@ line:
 status: unpainted
 photos:
   - ./EmpireEngineer_Studio.jpg
+genre:
+  - magitek
 race:
   - human
 archetype:

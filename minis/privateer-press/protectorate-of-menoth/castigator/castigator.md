@@ -11,6 +11,8 @@ photos:
   - ./PP-WM-PoM-Castigator-Dankel_2.jpg
   - ./PP-WM-PoM-Castigator-Dankel_3.jpg
   - ./PP-WM-PoM-Castigator-Dankel_4.jpg
+genre:
+  - monstrosity
 race:
   - warjack
 ---

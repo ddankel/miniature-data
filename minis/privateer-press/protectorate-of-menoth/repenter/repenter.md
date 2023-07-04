@@ -11,6 +11,8 @@ photos:
   - ./PP-WM-PoM-Repenter-Dankel_2.jpg
   - ./PP-WM-PoM-Repenter-Dankel_3.jpg
   - ./PP-WM-PoM-Repenter-Dankel_4.jpg
+genre:
+  - monstrosity
 race:
   - warjack
 weapons:

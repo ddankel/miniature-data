@@ -13,6 +13,8 @@ photos:
   - ./PP-Hordes-LoE-Incubi-Dankel_4.jpg
   - ./PP-Hordes-LoE-Incubi-Dankel_5.jpg
 quantity: 5
+genre:
+  - monstrosity
 race:
   - blightspawn
   - elf

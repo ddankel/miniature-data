@@ -9,6 +9,8 @@ photos:
   - ./MK-BrassGolem-Dankel_1.jpg
   - ./MK-BrassGolem-Dankel_2.jpg
   - ./MK-BrassGolem-Dankel_3.jpg
+genre:
+  - monstrosity
 race:
   - golem
 ---

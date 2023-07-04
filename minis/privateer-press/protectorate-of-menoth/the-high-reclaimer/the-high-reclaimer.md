@@ -11,6 +11,8 @@ photos:
   - ./PP-WM-PoM-HighReclaimer-Dankel_2.jpg
   - ./PP-WM-PoM-HighReclaimer-Dankel_3.jpg
   - ./PP-WM-PoM-HighReclaimer-Dankel_4.jpg
+genre:
+  - magitek
 race:
   - human
 archetype:

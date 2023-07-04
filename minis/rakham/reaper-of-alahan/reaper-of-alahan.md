@@ -8,6 +8,8 @@ painted: 2003
 photos:
   - ./Confrontation-LionReaper-Dankel_1.jpg
   - ./Confrontation-LionReaper-Dankel_2.jpg
+genre:
+  - magitek
 race:
   - human
 archetype:

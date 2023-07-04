@@ -12,6 +12,8 @@ photos:
   - ./PP-WM-PoM-Deliverers-Dankel_4.jpg
   - ./PP-WM-PoM-Deliverers-Dankel_5.jpg
 quantity: 10
+genre:
+  - magitek
 armor:
   - plate
   - mail

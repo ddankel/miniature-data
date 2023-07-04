@@ -10,6 +10,8 @@ photos:
   - ./PP-WM-PoM-Kreoss-Dankel_1.jpg
   - ./PP-WM-PoM-Kreoss-Dankel_2.jpg
   - ./PP-WM-PoM-Kreoss-Dankel_3.jpg
+genre:
+  - magitek
 race:
   - human
 archetype:

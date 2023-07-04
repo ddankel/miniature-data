@@ -12,6 +12,8 @@ photos:
   - ./PP-Hordes-LoE-Angelii-Dankel_3.jpg
   - ./PP-Hordes-LoE-Angelii-Dankel_4.jpg
 quantity: 2
+genre:
+  - monstrosity
 race:
   - blightspawn
 weapons:

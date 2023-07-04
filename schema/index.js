@@ -30,6 +30,13 @@ const schema = {
         type: "string",
       },
     },
+    genre: {
+      type: "array",
+      items: {
+        type: "string",
+        enum: validTags.genre,
+      },
+    },
     race: {
       type: "array",
       items: {

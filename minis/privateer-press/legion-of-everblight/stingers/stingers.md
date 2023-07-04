@@ -11,6 +11,8 @@ photos:
   - ./PP-Hordes-LoE-Stingers-Dankel_1.jpg
   - ./PP-Hordes-LoE-Stingers-Dankel_2.jpg
 quantity: 2
+genre:
+  - monstrosity
 race:
   - blightspawn
 weapons:

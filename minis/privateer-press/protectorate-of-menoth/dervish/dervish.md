@@ -11,6 +11,8 @@ photos:
   - ./PP-WM-PoM-Dervish-Dankel_2.jpg
   - ./PP-WM-PoM-Dervish-Dankel_3.jpg
   - ./PP-WM-PoM-Dervish-Dankel_4.jpg
+genre:
+  - monstrosity
 race:
   - warjack
 weapons:

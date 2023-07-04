@@ -11,6 +11,8 @@ photos:
   - ./PP-WM-PoM-eKreoss-Dankel_2.jpg
   - ./PP-WM-PoM-eKreoss-Dankel_3.jpg
   - ./PP-WM-PoM-eKreoss-Dankel_4.jpg
+genre:
+  - magitek
 race:
   - human
 archetype:

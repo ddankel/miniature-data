@@ -7,6 +7,8 @@ line:
 status: unpainted
 photos:
   - ./Confrontation-ReaperOfAlahan_Unpainted.jpg
+genre:
+  - magitek
 race:
   - human
 archetype:

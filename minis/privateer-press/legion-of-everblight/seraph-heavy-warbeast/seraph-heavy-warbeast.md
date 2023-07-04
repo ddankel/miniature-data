@@ -15,6 +15,8 @@ photos:
   - ./PP-Hordes-LoE-Seraph2-Dankel_2.jpg
   - ./PP-Hordes-LoE-Seraph2-Dankel_3.jpg
 quantity: 2
+genre:
+  - monstrosity
 race:
   - blightspawn
 weapons:

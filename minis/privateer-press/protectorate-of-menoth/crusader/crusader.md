@@ -16,6 +16,8 @@ photos:
   - ./PP-WM-PoM-Crusader2-Dankel_3.jpg
   - ./PP-WM-PoM-Crusader2-Dankel_4.jpg
 quantity: 2
+genre:
+  - monstrosity
 race:
   - warjack
 weapons:

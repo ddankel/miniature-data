@@ -10,6 +10,8 @@ photos:
   - ./PP-Hordes-LoE-Harriers-Dankel_1.jpg
   - ./PP-Hordes-LoE-Harriers-Dankel_2.jpg
 quantity: 2
+genre:
+  - monstrosity
 race:
   - blightspawn
 weapons:

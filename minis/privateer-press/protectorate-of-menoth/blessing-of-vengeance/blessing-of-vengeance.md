@@ -10,6 +10,8 @@ photos:
   - ./PP-WM-PoM-BlessingOfVengeance-Dankel_1.jpg
   - ./PP-WM-PoM-BlessingOfVengeance-Dankel_2.jpg
   - ./PP-WM-PoM-BlessingOfVengeance-Dankel_3.jpg
+genre:
+  - monstrosity
 race:
   - warjack
 weapons:

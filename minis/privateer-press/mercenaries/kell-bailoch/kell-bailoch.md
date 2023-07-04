@@ -9,6 +9,8 @@ painted: 2007
 photos:
   - ./PP-WM-Merc-KellBailoch-Dankel_1.jpg
   - ./PP-WM-Merc-KellBailoch-Dankel_2.jpg
+genre:
+  - magitek
 race:
   - human
 archetype:

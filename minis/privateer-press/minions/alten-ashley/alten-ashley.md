@@ -10,6 +10,8 @@ photos:
   - ./PP-Hordes-Minion-AltenAshley-Dankel_1.jpg
   - ./PP-Hordes-Minion-AltenAshley-Dankel_2.jpg
   - ./PP-Hordes-Minion-AltenAshley-Dankel_3.jpg
+genre:
+  - magitek
 race:
   - human
 archetype:

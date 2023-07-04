@@ -10,6 +10,8 @@ photos:
   - ./PP-Hordes-LoE-Raek-Dankel_1.jpg
   - ./PP-Hordes-LoE-Raek-Dankel_2.jpg
   - ./PP-Hordes-LoE-Raek-Dankel_3.jpg
+genre:
+  - monstrosity
 race:
   - blightspawn
 weapons:

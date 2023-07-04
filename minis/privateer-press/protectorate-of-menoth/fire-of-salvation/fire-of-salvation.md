@@ -10,6 +10,8 @@ photos:
   - ./PP-WM-PoM-FireOfSalvation-Dankel_1.jpg
   - ./PP-WM-PoM-FireOfSalvation-Dankel_2.jpg
   - ./PP-WM-PoM-FireOfSalvation-Dankel_3.jpg
+genre:
+  - monstrosity
 race:
   - warjack
 weapons:

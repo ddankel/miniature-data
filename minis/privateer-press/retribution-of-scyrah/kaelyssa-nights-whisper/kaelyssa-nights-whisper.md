@@ -9,6 +9,8 @@ painted: 2011
 photos:
   - ./kaelyssa_ddankel_1.jpg
   - ./kaelyssa_ddankel_2.jpg
+genre:
+  - magitek
 race:
   - elf
 archetype:

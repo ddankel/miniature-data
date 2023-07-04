@@ -8,6 +8,8 @@ line:
 photos:
   - ./PP-WM-Cygnar-LieutenantAllisterCaine-Dankel_1.jpg
   - ./PP-WM-Cygnar-LieutenantAllisterCaine-Dankel_2.jpg
+genre:
+  - magitek
 race:
   - human
 weapons:

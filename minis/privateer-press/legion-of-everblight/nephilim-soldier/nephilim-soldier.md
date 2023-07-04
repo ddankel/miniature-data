@@ -9,6 +9,8 @@ painted: 2007
 photos:
   - ./PP-Hordes-LoE-NephilimSoldier-Dankel_1.jpg
   - ./PP-Hordes-LoE-NephilimSoldier-Dankel_2.jpg
+genre:
+  - monstrosity
 race:
   - blightspawn
 weapons:

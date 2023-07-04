@@ -8,6 +8,8 @@ status: unassembled
 photos:
   - ./Confrontation-OnyxTheProwler.jpg
   - ./Confrontation-OnyxTheProwler_Studio.jpg
+genre:
+  - monstrosity
 weapons:
   - sword
 race:

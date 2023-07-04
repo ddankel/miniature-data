@@ -8,6 +8,8 @@ status: unassembled
 photos:
   - ./Reaper14031-RageclawWarrior.jpg
   - ./Reaper14031-RageclawWarrior_Studio.jpg
+genre:
+  - monstrosity
 weapons:
   - sword
 armor:

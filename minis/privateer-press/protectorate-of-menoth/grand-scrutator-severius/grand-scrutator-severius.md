@@ -9,6 +9,8 @@ painted: 2006
 photos:
   - ./PP-WM-PoM-Severius-Dankel_1.jpg
   - ./PP-WM-PoM-Severius-Dankel_2.jpg
+genre:
+  - magitek
 race:
   - human
 archetype:

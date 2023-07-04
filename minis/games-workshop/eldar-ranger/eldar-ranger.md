@@ -7,6 +7,8 @@ line:
 photos:
   - ./EldarRanger-Dankel_1.jpg
   - ./EldarRanger-Dankel_2.jpg
+genre:
+  - sci-fi
 race:
   - human
 archetype:

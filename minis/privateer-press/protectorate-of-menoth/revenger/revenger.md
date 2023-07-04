@@ -15,6 +15,8 @@ photos:
   - ./PP-WM-PoM-Revenger2-Dankel_3.jpg
   - ./PP-WM-PoM-Revenger2-Dankel_4.jpg
 quantity: 2
+genre:
+  - monstrosity
 race:
   - warjack
 armor:

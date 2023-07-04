@@ -11,6 +11,8 @@ photos:
   - ./PP-WM-PoM-eFeora-Dankel_2.jpg
   - ./PP-WM-PoM-eFeora-Dankel_3.jpg
   - ./PP-WM-PoM-eFeora-Dankel_4.jpg
+genre:
+  - magitek
 race:
   - human
 archetype:

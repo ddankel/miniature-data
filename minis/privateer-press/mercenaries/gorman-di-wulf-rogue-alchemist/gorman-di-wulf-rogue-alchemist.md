@@ -10,6 +10,9 @@ photos:
   - ./PP-WM-Merc-Gorman-Dankel_1.jpg
   - ./PP-WM-Merc-Gorman-Dankel_2.jpg
   - ./PP-WM-Merc-Gorman-Dankel_3.jpg
+genre:
+  - magitek
+  - fantasy
 race:
   - human
 archetype:

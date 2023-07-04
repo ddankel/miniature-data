@@ -8,6 +8,8 @@ line:
 photos:
   - ./PP-WM-Khador-WidowmakerKapitan-Dankel_1.jpg
   - ./PP-WM-Khador-WidowmakerKapitan-Dankel_2.jpg
+genre:
+  - magitek
 race:
   - human
 weapons:

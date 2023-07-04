@@ -1,4 +1,5 @@
 const validTags = {
+  genre: ["fantasy", "magitek", "monstrosity", "sci-fi"],
   race: [
     "blightspawn",
     "catfolk",

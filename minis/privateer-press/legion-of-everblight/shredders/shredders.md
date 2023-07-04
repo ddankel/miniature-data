@@ -14,6 +14,8 @@ photos:
   - ./PP-Hordes-LoE-Shredders-Dankel_6.jpg
   - ./PP-Hordes-LoE-Shredders-Dankel_7.jpg
 quantity: 4
+genre:
+  - monstrosity
 race:
   - blightspawn
 weapons:

@@ -14,6 +14,8 @@ photos:
   - ./PP-WM-PoM-IdrianSkirmishers-Dankel_5.jpg
   - ./PP-WM-PoM-IdrianSkirmishers-Dankel_6.jpg
 quantity: 12
+genre:
+  - magitek
 race:
   - human
 archetype:

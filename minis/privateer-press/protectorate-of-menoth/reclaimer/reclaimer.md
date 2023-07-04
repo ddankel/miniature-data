@@ -11,6 +11,9 @@ photos:
   - ./PP-WM-PoM-Reclaimer-Dankel_2.jpg
   - ./PP-WM-PoM-Reclaimer-Dankel_3.jpg
   - ./PP-WM-PoM-Reclaimer-Dankel_4.jpg
+genre:
+  - magitek
+  - fantasy
 race:
   - human
 weapons:

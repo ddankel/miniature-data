@@ -10,6 +10,8 @@ photos:
   - ./PP-WM-PoM-eSeverius-Dankel_1.jpg
   - ./PP-WM-PoM-eSeverius-Dankel_2.jpg
   - ./PP-WM-PoM-eSeverius-Dankel_3.jpg
+genre:
+  - magitek
 race:
   - human
 archetype:

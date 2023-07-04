@@ -10,6 +10,8 @@ photos:
   - ./PP-WM-PoM-Guardian-Dankel_1.jpg
   - ./PP-WM-PoM-Guardian-Dankel_2.jpg
   - ./PP-WM-PoM-Guardian-Dankel_3.jpg
+genre:
+  - monstrosity
 race:
   - warjack
 weapons:

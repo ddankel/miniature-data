@@ -10,6 +10,9 @@ photos:
   - ./PP-WM-Merc-AiyanaAndHolt-Dankel_1.jpg
   - ./PP-WM-Merc-AiyanaAndHolt-Dankel_2.jpg
 quantity: 2
+genre:
+  - magitek
+  - fantasy
 race:
   - elf
   - human

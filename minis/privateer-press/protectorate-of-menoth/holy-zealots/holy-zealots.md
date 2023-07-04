@@ -12,6 +12,9 @@ photos:
   - ./PP-WM-PoM-Zealots-Dankel_3.jpg
   - ./PP-WM-PoM-Zealots-Dankel_4.jpg
 quantity: 11
+genre:
+  - magitek
+  - fantasy
 race:
   - human
 archetype:
