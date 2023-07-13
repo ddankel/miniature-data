@@ -9,6 +9,8 @@ painted: 2010
 photos:
   - ./absylonia_ddankel_1.jpg
   - ./absylonia_ddankel_2.jpg
+genre:
+  - monstrosity
 race:
   - blightspawn
 weapons:

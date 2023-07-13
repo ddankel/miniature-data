@@ -11,6 +11,7 @@ photos:
   - ./kaelyssa_ddankel_2.jpg
 genre:
   - magitek
+  - sci-fi
 race:
   - elf
 archetype:
