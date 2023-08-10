@@ -5,7 +5,8 @@ line:
   - WizKids
   - Mage Knight
 photos:
-  - ./MK-EmpireVeteran.jpg
+  - ./MK-EmpireVeteran_1.jpg
+  - ./MK-EmpireVeteran_2.jpg
 weapons:
   - sword
 armor:
