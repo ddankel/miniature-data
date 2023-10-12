@@ -4,10 +4,11 @@ name: Infernal Elf Desolatier
 line:
   - Ral Partha
   - Crucible
-status: wip
-painted: Aug, 2023 - ???
+status: painted
+painted: Aug, 2023
 photos:
-  - ./Rp-CRU-91-600-03.jpg
+  - ./RalPartha-Crucible-InfernalElfDesolatier-DDankel_1.jpg
+  - ./RalPartha-Crucible-InfernalElfDesolatier-DDankel_2.jpg
 race:
   - elf
   - human
@@ -18,7 +19,21 @@ weapons:
   - axe
 armor:
   - plate
-quantity: 1
+recipes:
+  - Zenithal w/ Liquitex Titan Buff
+  - Cloth
+    - P3 Meredius Blue
+    - Shade "Laura Teal"
+    - P3 Arcane Blue highlight
+    - RMS Skeleton Bone edge highlights
+  - Blood
+    - Ground/Neck
+    - APSP Blood Red
+    - Selectively placed nuln oil
+    - Weapon
+    - Sponge/stipple P3 Skorne Red
+    - Sponge/stipple P3 Skorne Red + DC Dark Burnt Umber
+    - Sponge/Stipple P3 Skorne Red + Black
 gallery:
-  status: toto
+  status: todo
 ---

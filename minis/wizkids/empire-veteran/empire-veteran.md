@@ -4,6 +4,7 @@ name: Empire Veteran
 line:
   - WizKids
   - Mage Knight
+painted: July, 2023
 photos:
   - ./MK-EmpireVeteran_1.jpg
   - ./MK-EmpireVeteran_2.jpg
@@ -15,7 +16,6 @@ race:
   - human
 archetype:
   - fighter
-status: prepainted
 gallery:
   status: hidden
 ---
