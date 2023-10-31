@@ -9,6 +9,9 @@ painted: 2010
 photos:
   - ./PP-WM-Merc-Anastasia-Dankel_1.jpg
   - ./PP-WM-Merc-Anastasia-Dankel_2.jpg
+genre:
+  - fantasy
+  - sci-fi
 race:
   - human
 archetype:

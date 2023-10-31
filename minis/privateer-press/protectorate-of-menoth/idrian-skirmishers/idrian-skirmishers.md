@@ -16,6 +16,7 @@ photos:
 quantity: 12
 genre:
   - magitek
+  - western
 race:
   - human
 archetype:

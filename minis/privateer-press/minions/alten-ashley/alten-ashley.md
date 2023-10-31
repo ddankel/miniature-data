@@ -12,6 +12,7 @@ photos:
   - ./PP-Hordes-Minion-AltenAshley-Dankel_3.jpg
 genre:
   - magitek
+  - western
 race:
   - human
 archetype:
