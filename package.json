@@ -7,11 +7,11 @@
   "author": "Dave Dankel <ddankel@gmail.com>",
   "private": true,
   "scripts": {
-    "new": "node ./scripts/new",
-    "listfm": "node ./scripts/listAttributes",
-    "validate": "node ./scripts/validate",
-    "status": "node ./scripts/status",
-    "todo": "node ./scripts/todo"
+    "mini:new": "node ./scripts/new",
+    "mini:status": "node ./scripts/status",
+    "mini:todo": "node ./scripts/todo",
+    "frontmatter:list": "node ./scripts/listAttributes",
+    "frontmatter:validate": "node ./scripts/validate"
   },
   "devDependencies": {
     "ajv": "^8.11.0",
