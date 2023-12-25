@@ -4,11 +4,13 @@ name: 0 Miniature Template
 line:
   - Manufacturer
   - Line
-status: prepainted
+status: ????
 painted: ?? - ??
 photos:
   - ../../missing-image.png
   - ./Line-MiniatureName-Dankel_1.jpg
+genre:
+  - optional
 race:
   - optional
 archetype:
