@@ -4,7 +4,7 @@ name: Tox, Brother Noir
 line:
   - Reaper Miniatures
   - Dark Heaven Legends
-status: unpainted
+status: unassembled
 photos:
   - ./ToxBrotherNoir_Metal.jpg
   - ./ToxBrotherNoir_Studio.jpg

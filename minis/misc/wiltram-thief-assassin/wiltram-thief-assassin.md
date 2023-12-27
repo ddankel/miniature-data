@@ -3,7 +3,7 @@ slug: wiltram-thief-assassin
 name: Wiltram, Thief/Assassin
 line:
   - RN Estudio
-status: unpainted
+status: unassembled
 photos:
   - ./RNEstudio-WiltramThiefAssassin_Studio.jpg
 race:

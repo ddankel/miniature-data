@@ -4,7 +4,7 @@ name: Dark Elf Beastmaster
 line:
   - Games Workshop
   - Warhammer
-status: unpainted
+status: unassembled
 photos:
   - ./dark-elf-beastmaster.jpg
 race:

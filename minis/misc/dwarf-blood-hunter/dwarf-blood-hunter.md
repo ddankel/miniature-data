@@ -3,7 +3,7 @@ slug: dwarf-blood-hunter
 name: Dwarf Blood Hunter
 line:
   - The Lion's Tower
-status: unassembled
+status: wip
 photos:
   - ./dwarf-blood-hunter.jpg
 race:

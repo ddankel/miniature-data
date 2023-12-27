@@ -1,11 +1,11 @@
 ---
 slug: immortals
-name: Immortals
+name: Immortals Warrior
 sku: Immortals, Skorne Unit
 line:
   - Privateer Press
   - Skorne
-status: unassembled
+status: wip
 photos:
   - ./WM-Skorne-Immortals.png
 race:

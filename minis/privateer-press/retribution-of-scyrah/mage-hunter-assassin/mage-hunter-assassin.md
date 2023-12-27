@@ -18,5 +18,5 @@ weapons:
 armor:
   - leather
 gallery:
-  status: draft
+  status: hidden
 ---

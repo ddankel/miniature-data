@@ -6,6 +6,7 @@ line:
   - Pathfinder
 photos:
   - ./Reaper60005-AraelHalfElfCleric-Dankel.jpg
+status: wip
 race:
   - elf
 archetype:
