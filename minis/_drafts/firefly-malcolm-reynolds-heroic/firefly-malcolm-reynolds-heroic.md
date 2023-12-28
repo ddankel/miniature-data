@@ -2,7 +2,6 @@
 slug: firefly-malcolm-reynolds-heroic
 name: Malcome Reynolds (heroic)
 line:
-  - Battlefront
   - Firefly Adventures
 status: unpainted
 painted: ?? - ??

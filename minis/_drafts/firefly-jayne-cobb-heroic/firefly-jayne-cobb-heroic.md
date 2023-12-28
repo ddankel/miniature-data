@@ -2,7 +2,6 @@
 slug: firefly-jayne-cobb-heroic
 name: Jayne Cobb (heroic)
 line:
-  - Battlefront
   - Firefly Adventures
 status: unpainted
 painted: ?? - ??

@@ -2,7 +2,6 @@
 slug: firefly-zoe-washburne-heroic
 name: Zoë Washburne (heroic)
 line:
-  - Battlefront
   - Firefly Adventures
 status: unpainted
 painted: ?? - ??

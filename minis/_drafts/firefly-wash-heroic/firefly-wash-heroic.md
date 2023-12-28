@@ -2,7 +2,6 @@
 slug: firefly-wash-heroic
 name: Hoban "Wash" Washburne (heroic)
 line:
-  - Battlefront
   - Firefly Adventures
 status: unpainted
 painted: ?? - ??

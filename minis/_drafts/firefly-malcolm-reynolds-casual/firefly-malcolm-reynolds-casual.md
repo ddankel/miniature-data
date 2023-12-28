@@ -2,7 +2,6 @@
 slug: firefly-malcolm-reynolds-casual
 name: Malcome Reynolds (casual)
 line:
-  - Battlefront
   - Firefly Adventures
 status: unpainted
 painted: ?? - ??

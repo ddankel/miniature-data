@@ -2,7 +2,6 @@
 slug: firefly-kaylee-frye-heroic
 name: Kaylee Frye (heroic)
 line:
-  - Battlefront
   - Firefly Adventures
 status: unpainted
 painted: ?? - ??

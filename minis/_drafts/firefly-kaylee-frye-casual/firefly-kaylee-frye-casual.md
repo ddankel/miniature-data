@@ -2,7 +2,6 @@
 slug: firefly-kaylee-frye-casual
 name: Kaylee Frye (casual)
 line:
-  - Battlefront
   - Firefly Adventures
 status: unpainted
 painted: ?? - ??

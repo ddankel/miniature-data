@@ -2,26 +2,24 @@
 slug: firefly-grizzled-gunman
 name: Grizzled Gunman
 line:
-  - Battlefront
   - Firefly Adventures
-status: wip
-painted: 12/2023 - ??
+status: painted
+painted: 12/2023
 photos:
-  - ../../missing-image.png
+  - Firefly-GrizzledGunman-DDankel_1.jpg
+  - Firefly-GrizzledGunman-DDankel_2.jpg
 genre:
   - sci-fi
   - western
 race:
   - human
 archetype:
-  - optional
+  - fighter
 weapons:
-  - optional
+  - firearm
 armor:
-  - optional
+  - clothing
 quantity: 1
-minidb:
-  status: draft
 gallery:
   status: draft
 ---

@@ -2,7 +2,6 @@
 slug: firefly-zoe-washburne-casual
 name: Zoë Washburne (casual)
 line:
-  - Battlefront
   - Firefly Adventures
 status: unpainted
 painted: ?? - ??

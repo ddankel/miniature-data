@@ -2,7 +2,6 @@
 slug: firefly-wash-casual
 name: Hoban "Wash" Washburne (casual)
 line:
-  - Battlefront
   - Firefly Adventures
 status: unpainted
 painted: ?? - ??
