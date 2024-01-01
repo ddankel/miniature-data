@@ -18,7 +18,6 @@ weapons:
   - bow
 armor:
   - clothing
-status: prepainted
 gallery:
   status: hidden
 ---
