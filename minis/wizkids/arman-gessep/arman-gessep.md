@@ -5,7 +5,10 @@ line:
   - WizKids
   - Mage Knight
 photos:
-  - ./MK-ArmanGessep.jpg
+  - ./MageKnight-ArmanGessep-DDankel_1.jpg
+  - ./MageKnight-ArmanGessep-DDankel_2.jpg
+status: painted
+painted: November 2023 - December 2023
 race:
   - human
   - elf

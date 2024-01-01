@@ -5,9 +5,10 @@ line:
   - WizKids
   - Mage Knight
 photos:
-  - ./MK-Zenephret.jpg
-status: prepainted
-# painted: Nov 2023
+  - ./MageKnight-Zenephret-DDankel_1.jpg
+  - ./MageKnight-Zenephret-DDankel_2.jpg
+status: painted
+painted: November 2023 - December 2023
 archetype:
   - rogue
 race:
@@ -17,7 +18,7 @@ weapons:
 armor:
   - clothing
 recipes:
-  - Zenethal Primer
+  - Zenithal Primer
     - Black/White
   - Pants
     - APSP Dark Wood + APSP Grim Black 1:1
