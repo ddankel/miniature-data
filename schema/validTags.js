@@ -38,6 +38,7 @@ const validTags = {
     "axe",
     "battle standard",
     "bow",
+    "buzzsaw",
     "chain weapon",
     "club",
     "crossbow",
