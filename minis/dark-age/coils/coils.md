@@ -8,6 +8,7 @@ photos:
 genre:
   - magitek
   - sci-fi
+status: unassembled
 race:
   - human
 archetype:

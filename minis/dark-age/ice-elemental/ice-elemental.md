@@ -7,6 +7,7 @@ photos:
   - ./dag-2109.png
 genre:
   - monstrosity
+status: unassembled
 race:
   - golem
 weapons:

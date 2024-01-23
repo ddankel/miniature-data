@@ -8,6 +8,7 @@ photos:
 genre:
   - magitek
   - sci-fi
+status: wip
 race:
   - human
 archetype:
