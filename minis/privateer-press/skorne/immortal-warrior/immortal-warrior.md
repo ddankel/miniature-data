@@ -1,11 +1,11 @@
 ---
 slug: immortals
 name: Immortals Warrior
-sku: Immortals, Skorne Unit
+sku: Immortal Warrior, Skorne Unit Trooper
 line:
   - Privateer Press
   - Skorne
-status: wip
+status: unassembled
 photos:
   - ./WM-Skorne-Immortals.png
 race:
@@ -16,7 +16,6 @@ archetype:
 weapons:
   - great weapon
   - sword
-quantity: 2
 gallery:
   status: hidden
 ---
