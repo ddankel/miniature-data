@@ -8,7 +8,7 @@ status: ????
 painted: ?? - ??
 photos:
   - ../../missing-image.png
-  - ./Line-MiniatureName-Dankel_1.jpg
+
 genre:
   - optional
 race:

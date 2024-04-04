@@ -1,6 +1,7 @@
 const validTags = {
   genre: ["fantasy", "magitek", "monstrosity", "sci-fi", "western"],
   race: [
+    "alien",
     "blightspawn",
     "catfolk",
     "dragonfolk",
@@ -16,6 +17,7 @@ const validTags = {
     "ogre",
     "orc",
     "ratfolk",
+    "robot",
     "troll",
     "undead",
     "unknown",
@@ -32,6 +34,7 @@ const validTags = {
     "paladin",
     "ranger",
     "rogue",
+    "techie",
     "wizard",
   ],
   weapons: [
@@ -59,6 +62,7 @@ const validTags = {
     "staff",
     "sword",
     "sword-staff",
+    "technology",
     "whip",
   ],
   armor: ["cloak", "clothing", "leather", "mail", "plate", "powered armor", "robe", "shield"],
