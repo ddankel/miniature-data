@@ -1,13 +1,13 @@
 ---
-slug: grenadier
-name: Grenadier
+slug: pathfinder
+name: Pathfinder
 line:
   - Stargrave
 status: Painted
 painted: February 2024 - March 2024 (JW)
 photos:
-  - ./Stargrave-Heap-Grenadier-JWilliams_1.jpg
-  - ./Stargrave-Heap-Grenadier-JWilliams_1.jpg
+  - ./Stargrave-Heap-Pathfinder-JWilliams_1.jpg
+  - ./Stargrave-Heap-Pathfinder-JWilliams_1.jpg
 genre:
   - sci-fi
 race:
