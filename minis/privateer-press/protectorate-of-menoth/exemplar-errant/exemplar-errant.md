@@ -7,15 +7,15 @@ line:
   - Protectorate of Menoth
 painted: 2008, 2010
 photos:
-  - ./PP-Hodes-PoM-ExemplarErrant-Dankel_1.jpg
-  - ./PP-Hodes-PoM-ExemplarErrant-Dankel_2.jpg
-  - ./PP-Hodes-PoM-ExemplarErrant-Dankel_3.jpg
-  - ./PP-Hodes-PoM-ExemplarErrant-Dankel_4.jpg
-  - ./PP-Hodes-PoM-ExemplarErrant-Dankel_5.jpg
-  - ./PP-Hodes-PoM-ExemplarErrant-Dankel_6.jpg
-  - ./PP-Hodes-PoM-ExemplarErrant-Dankel_7.jpg
-  - ./PP-Hodes-PoM-ExemplarErrant-Dankel_8.jpg
-  - ./PP-Hodes-PoM-ExemplarErrant-Dankel_9.jpg
+  - ./PP-WM-PoM-ExemplarErrant-Dankel_1.jpg
+  - ./PP-WM-PoM-ExemplarErrant-Dankel_2.jpg
+  - ./PP-WM-PoM-ExemplarErrant-Dankel_3.jpg
+  - ./PP-WM-PoM-ExemplarErrant-Dankel_4.jpg
+  - ./PP-WM-PoM-ExemplarErrant-Dankel_5.jpg
+  - ./PP-WM-PoM-ExemplarErrant-Dankel_6.jpg
+  - ./PP-WM-PoM-ExemplarErrant-Dankel_7.jpg
+  - ./PP-WM-PoM-ExemplarErrant-Dankel_8.jpg
+  - ./PP-WM-PoM-ExemplarErrant-Dankel_9.jpg
 quantity: 12
 race:
   - human
