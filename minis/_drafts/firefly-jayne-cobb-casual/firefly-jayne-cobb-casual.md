@@ -13,12 +13,9 @@ genre:
 race:
   - human
 archetype:
-  - optional
-weapons:
-  - optional
+  - fighter
 armor:
-  - optional
-quantity: 1
+  - clothing
 minidb:
   status: draft
 gallery:

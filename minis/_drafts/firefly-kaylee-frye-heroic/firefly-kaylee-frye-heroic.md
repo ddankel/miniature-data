@@ -13,12 +13,10 @@ genre:
 race:
   - human
 archetype:
-  - optional
-weapons:
-  - optional
+  - fighter
+  - rogue
 armor:
-  - optional
-quantity: 1
+  - clothing
 minidb:
   status: draft
 gallery:
