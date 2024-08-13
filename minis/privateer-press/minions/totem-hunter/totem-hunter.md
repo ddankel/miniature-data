@@ -1,7 +1,7 @@
 ---
 slug: totem-hunter
-name: Totem Hunger
-sku: Totem Hunger, Minion Solo
+name: Totem Hunter
+sku: Totem Hunter, Minion Solo
 line:
   - Privateer Press
   - Minions
