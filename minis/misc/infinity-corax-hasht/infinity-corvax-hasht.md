@@ -1,12 +1,12 @@
 ---
-slug: infinity-corvax-hasht
-name: Corvax Hasht
+slug: infinity-corax-hasht
+name: Corax Hasht
 line:
   - Infinity
 status: wip
 photos:
-  - corvax-hasht.jpg
-  - corvax-hasht-2.jpg
+  - corax-hasht.jpg
+  - corax-hasht-2.jpg
 genre:
   - sci-fi
 race:
