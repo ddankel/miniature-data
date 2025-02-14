@@ -3,9 +3,12 @@ slug: papsikels-waspan-organic-cyborg-trooper-d
 name: WASPAN Organic Cyborg Trooper
 line:
   - Papsikels
-status: wip
+status: painted
+painted: Dec 2024 - Jan 2025
 photos:
-  - waspan-organic-cyborg-trooper-d.jpg
+  - ./WASPANOrganicCyborgTrooper-DDankel_1.jpg
+  - ./WASPANOrganicCyborgTrooper-DDankel_2.jpg
+  - ./WASPANOrganicCyborgTrooper-DDankel_3.jpg
 genre:
   - sci-fi
 race:
@@ -19,7 +22,13 @@ weapons:
 armor:
   - plate
   - powered armor
-quantity: 1
+recipes:
+  - Zenithal prime
+  - Red Armor
+    - APSP Bright Red (airbrush)
+    - Airbrush APSP Brighth Red + AK Interactive Medium Orange 2:1
+    - Airbrush APSP Brighth Red + AK Interactive Medium Orange 1:1
+    - Edge AK Medium Orange + AK Radian Yellow ~1:1
 gallery:
   status: hidden
 ---
