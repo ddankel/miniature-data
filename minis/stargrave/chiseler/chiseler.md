@@ -3,7 +3,7 @@ slug: chiseler
 name: Chiseler
 line:
   - Stargrave
-status: Painted
+status: painted
 painted: February 2024 - March 2024
 photos:
   - ./Stargrave-Heap-Chiseler-JWilliams_1.jpg

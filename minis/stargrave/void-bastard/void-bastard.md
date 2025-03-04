@@ -3,7 +3,7 @@ slug: void-bastard
 name: Void Bastard
 line:
   - Stargrave
-status: Painted
+status: painted
 painted: February 2024 - March 2024
 photos:
   - ./Stargrave-Fist-VoidBastard-DDankel_1.jpg

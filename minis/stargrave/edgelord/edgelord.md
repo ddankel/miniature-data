@@ -3,7 +3,7 @@ slug: edgelord
 name: Edgelord
 line:
   - Stargrave
-status: Painted
+status: painted
 painted: April 2024
 photos:
   - ./Stargrave-Edgelord-DDankel_1.jpg

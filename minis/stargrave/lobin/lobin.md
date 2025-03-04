@@ -3,7 +3,7 @@ slug: lobin
 name: Lobin Wroxley
 line:
   - Stargrave
-status: Painted
+status: painted
 painted: March 2024
 photos:
   - ./Stargrave-Fist-Lobin-DDankel_1.jpg

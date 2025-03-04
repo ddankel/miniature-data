@@ -3,7 +3,7 @@ slug: hoodie
 name: Hoodie
 line:
   - Stargrave
-status: Painted
+status: painted
 painted: February 2024 - March 2024
 photos:
   - ./Stargrave-Fist-Hoodie-DDankel_1.jpg

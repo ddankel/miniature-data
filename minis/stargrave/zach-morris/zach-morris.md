@@ -3,7 +3,7 @@ slug: zach-morris
 name: Zach Morris
 line:
   - Stargrave
-status: Painted
+status: painted
 painted: March 2024
 photos:
   - ./Stargrave-Fist-ZachMorris-DDankel_1.jpg

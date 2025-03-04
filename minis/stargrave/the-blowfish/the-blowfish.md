@@ -3,7 +3,7 @@ slug: the-blowfish
 name: The Blowfish
 line:
   - Stargrave
-status: Painted
+status: painted
 painted: February 2024 - March 2024
 photos:
   - ./Stargrave-Fist-TheBlowfish-DDankel_1.jpg

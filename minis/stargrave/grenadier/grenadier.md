@@ -3,7 +3,7 @@ slug: pathfinder
 name: Pathfinder
 line:
   - Stargrave
-status: Painted
+status: painted
 painted: February 2024 - March 2024 (JW)
 photos:
   - ./Stargrave-Heap-Pathfinder-JWilliams_1.jpg

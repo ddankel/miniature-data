@@ -3,7 +3,7 @@ slug: dr-butts
 name: Dr. Butts
 line:
   - Stargrave
-status: Painted
+status: painted
 painted: March 2024
 photos:
   - ./Stargrave-Fist-DrButts-DDankel_1.jpg

@@ -4,7 +4,7 @@ name: Amotep Incinerator
 line:
   - WizKids
   - Mage Knight
-status: Painted
+status: painted
 painted: February 2024 - March 2024 (JW)
 photos:
   - ./MK-AmotepIncinerator-JWilliams_1.jpg

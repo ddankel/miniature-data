@@ -3,7 +3,7 @@ slug: hacker
 name: Hacker
 line:
   - Stargrave
-status: Painted
+status: painted
 painted: February 2024 - March 2024 (JW)
 photos:
   - ./Stargrave-Heap-Hacker-JWilliams_1.jpg

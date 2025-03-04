@@ -3,7 +3,7 @@ slug: mecha-bruiser-2
 name: Mecha Bruiser
 line:
   - Stargrave
-status: Painted
+status: painted
 painted: February 2024 - March 2024 (JW)
 photos:
   - ./Kitbash-Heap-MechaBruiser2-JWilliams_1.jpg
