@@ -1,5 +1,9 @@
 # Miniature Data
 
+> This repository has been deprecated.
+>
+> see: https://github.com/ddankel/miniature-collection
+
 The entire miniature collection data source in markdown + frontmatter to use as a gatsby data source. This project has two main components - the miniature database itself (markdown and images) and a collection of development scripts to aid in working with the database (see below). This repository is designed to be used as a submodule within the parent gatsby project repo.
 
 > A submodule?! Really?!
